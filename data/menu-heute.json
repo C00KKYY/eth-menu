@@ -1,0 +1,188 @@
+{
+ "datum": "2026-11-09",
+ "facility_id": 19,
+ "menues": [
+  {
+   "zeit": "Mittagessen",
+   "linie": "fire",
+   "menue": "Beef Massaman",
+   "beschreibung": "Rind | Kartoffeln | Karotten | Auberginen | Jasminreis | Mungsprossen | Koriander",
+   "klasse": [
+    "Fleisch"
+   ],
+   "preise": [
+    {
+     "gruppe": "Studierende",
+     "preis": 8.5
+    },
+    {
+     "gruppe": "Interne",
+     "preis": 12.5
+    },
+    {
+     "gruppe": "Extern",
+     "preis": 15.5
+    }
+   ]
+  },
+  {
+   "zeit": "Mittagessen",
+   "linie": "grill",
+   "menue": "Grilled Chicken & Cheese Wrap",
+   "beschreibung": "Cheddar | Mais | Karotten | Kabis | Peperoni | Quinoa & Süsskartoffel Salat | Cashew Nüsse | Schnittlauch Dip",
+   "klasse": [
+    "Fleisch"
+   ],
+   "preise": [
+    {
+     "gruppe": "Studierende",
+     "preis": 12.5
+    },
+    {
+     "gruppe": "Interne",
+     "preis": 15.5
+    },
+    {
+     "gruppe": "Extern",
+     "preis": 18.5
+    }
+   ]
+  },
+  {
+   "zeit": "Mittagessen",
+   "linie": "green daily",
+   "menue": "Gratinierte Omelette",
+   "beschreibung": "mit Spinat gefüllt | Ofen Patatli | Tomatenpesto",
+   "klasse": [
+    "Vegetarisch"
+   ],
+   "preise": [
+    {
+     "gruppe": "Studierende",
+     "preis": 7.0
+    },
+    {
+     "gruppe": "Interne",
+     "preis": 11.5
+    },
+    {
+     "gruppe": "Extern",
+     "preis": 14.5
+    }
+   ]
+  },
+  {
+   "zeit": "Mittagessen",
+   "linie": "green delight",
+   "menue": "Choose 5",
+   "beschreibung": "Wähle 5 Komponenten heiss oder kalt",
+   "klasse": [],
+   "preise": [
+    {
+     "gruppe": "Studierende",
+     "preis": 9.9
+    },
+    {
+     "gruppe": "Interne",
+     "preis": 13.9
+    },
+    {
+     "gruppe": "Extern",
+     "preis": 16.9
+    }
+   ]
+  },
+  {
+   "zeit": "Mittagessen",
+   "linie": "pizza classica",
+   "menue": "Pizza Margherita",
+   "beschreibung": "Salat oder Lemonade\n\n",
+   "klasse": [
+    "Vegetarisch"
+   ],
+   "preise": [
+    {
+     "gruppe": "Studierende",
+     "preis": 7.0
+    },
+    {
+     "gruppe": "Interne",
+     "preis": 11.5
+    },
+    {
+     "gruppe": "Extern",
+     "preis": 14.5
+    }
+   ]
+  },
+  {
+   "zeit": "Mittagessen",
+   "linie": "pizza mamma mia",
+   "menue": "Pizza Prosciutto Salami",
+   "beschreibung": "Tomatensauce | Mozzarella | Prosciutto | Salami | Salat oder Lemonade",
+   "klasse": [
+    "Fleisch"
+   ],
+   "preise": [
+    {
+     "gruppe": "Studierende",
+     "preis": 11.5
+    },
+    {
+     "gruppe": "Interne",
+     "preis": 14.5
+    },
+    {
+     "gruppe": "Extern",
+     "preis": 17.5
+    }
+   ]
+  },
+  {
+   "zeit": "Mittagessen",
+   "linie": "pasta classica vegi",
+   "menue": "Pasta ai Broccoli",
+   "beschreibung": "Broccoli | Rahmsauce | Dörrtomaten | Reibkäse | Salat oder Lemonade",
+   "klasse": [
+    "Vegetarisch"
+   ],
+   "preise": [
+    {
+     "gruppe": "Studierende",
+     "preis": 7.0
+    },
+    {
+     "gruppe": "Interne",
+     "preis": 11.5
+    },
+    {
+     "gruppe": "Extern",
+     "preis": 14.5
+    }
+   ]
+  },
+  {
+   "zeit": "Mittagessen",
+   "linie": "pasta della nonna",
+   "menue": "Kara Ninniku Ramen",
+   "beschreibung": "Poulet | Ei | Pak Choi | Chilli | Knoblauch | Koriander",
+   "klasse": [
+    "Fleisch"
+   ],
+   "preise": [
+    {
+     "gruppe": "Studierende",
+     "preis": 10.5
+    },
+    {
+     "gruppe": "Interne",
+     "preis": 14.5
+    },
+    {
+     "gruppe": "Extern",
+     "preis": 17.5
+    }
+   ]
+  }
+ ]
+}
