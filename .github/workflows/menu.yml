@@ -1,7 +1,9 @@
 name: ETH Menue holen
 on:
   schedule:
-    - cron: "30 8 * * 1-5"   # ca. 09:30 Schweizer Zeit (Winter), vor dem 11:15-Lauf
+    # GitHub laesst geplante Laeufe regelmaessig ausfallen (v. a. zur vollen Stunde).
+    # Darum mehrere Versuche zu krummen Minuten, alle vor dem 11:15-Lauf (CET = UTC+1).
+    - cron: "17 5,6,7,8,9 * * 1-5"
   workflow_dispatch: {}
 permissions:
   contents: write
@@ -16,4 +18,5 @@ jobs:
           git config user.email "menu-bot@users.noreply.github.com"
           git add data
           git diff --cached --quiet || git commit -m "Menue aktualisiert"
+          git pull --rebase
           git push
