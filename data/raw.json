@@ -3481,7 +3481,8 @@
                }
               ]
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78636"
            }
           },
           {
@@ -3530,7 +3531,8 @@
               "desc-short": "8",
               "desc": "Schalenfrüchte"
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78637"
            }
           },
           {
@@ -3589,7 +3591,8 @@
                }
               ]
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78638"
            }
           },
           {
@@ -3754,7 +3757,8 @@
                }
               ]
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78639"
            }
           },
           {
@@ -3803,7 +3807,8 @@
               "desc-short": "8",
               "desc": "Schalenfrüchte"
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78640"
            }
           },
           {
@@ -3862,7 +3867,8 @@
                }
               ]
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78641"
            }
           },
           {
@@ -18833,7 +18839,8 @@
               "desc-short": "12",
               "desc": "Sulfite"
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78649"
            }
           },
           {
@@ -18935,7 +18942,8 @@
                }
               ]
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78650"
            }
           },
           {
@@ -18977,7 +18985,8 @@
               "desc-short": "Salat",
               "desc": "Salat"
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78648"
            }
           }
          ]
@@ -35158,6 +35167,7 @@
               "desc": "Sulfite"
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78625",
             "energy-outdated": "104"
            }
           },
@@ -35244,6 +35254,7 @@
               ]
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78626",
             "energy-outdated": "144"
            }
           },
@@ -35342,6 +35353,7 @@
               ]
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78627",
             "energy-outdated": "156"
            }
           },
@@ -35392,6 +35404,7 @@
               "desc": "Vegetarisch"
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78628",
             "energy-outdated": "118"
            }
           },
@@ -35462,6 +35475,7 @@
               "desc": "Sulfite"
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78629",
             "energy-outdated": "161"
            }
           }
@@ -37456,6 +37470,7 @@
               ]
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78646",
             "energy-outdated": "156"
            },
            "line-counter-monitor-array": [
@@ -37851,7 +37866,7 @@
               ]
              }
             ],
-            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78373",
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78647",
             "energy-outdated": "141"
            },
            "line-counter-monitor-array": [
@@ -55923,6 +55938,7 @@
               ]
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78651",
             "energy-outdated": "128"
            }
           },
@@ -56013,6 +56029,7 @@
               ]
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78652",
             "energy-outdated": "130"
            }
           },
@@ -56075,6 +56092,7 @@
               "desc": "Sesam"
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78653",
             "energy-outdated": "92"
            }
           }
@@ -57236,6 +57254,7 @@
               ]
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78630",
             "energy-outdated": "140"
            }
           },
@@ -57315,6 +57334,7 @@
               ]
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78631",
             "energy-outdated": "127"
            }
           },
@@ -57384,6 +57404,7 @@
               "desc": "Sulfite"
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78632",
             "energy-outdated": "120"
            }
           },
@@ -57427,6 +57448,7 @@
               "desc": "Vegan"
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78633",
             "energy-outdated": "76"
            }
           },
@@ -57434,7 +57456,7 @@
            "name": "5uppe",
            "meal": {
             "line-id": 80453,
-            "name": "Tagessuppe",
+            "name": "Rüebli Ingwersuppe",
             "description": "Tagessuppe lt. Chef",
             "energy": "65",
             "protein": "0.5",
@@ -57470,20 +57492,7 @@
               "desc": "Vegan"
              }
             ],
-            "allergen-array": [
-             {
-              "code": 18,
-              "position": 18,
-              "desc-short": "9",
-              "desc": "Sellerie"
-             },
-             {
-              "code": 21,
-              "position": 21,
-              "desc-short": "12",
-              "desc": "Sulfite"
-             }
-            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78634",
             "energy-outdated": "16"
            }
           },
@@ -57491,7 +57500,7 @@
            "name": "Kaffeebar",
            "meal": {
             "line-id": 80454,
-            "name": "Suppe@Octavo",
+            "name": "Gulasch - Suppe@Octavo",
             "description": "à la Chef",
             "energy": "0.0",
             "protein": "0.0",
@@ -57519,6 +57528,7 @@
               "customer-group-desc-short": "Ext."
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78635",
             "energy-outdated": "0.0"
            }
           }
@@ -69210,912 +69220,6 @@
    ]
   },
   {
-   "weekly-rota-id": 3750,
-   "facility-id": 7,
-   "valid-from": "2026-11-09",
-   "valid-to": "2026-11-15",
-   "day-of-week-array": [
-    {
-     "day-of-week-code": 1,
-     "day-of-week-desc": "Montag",
-     "day-of-week-desc-short": "Mo",
-     "opening-hour-array": [
-      {
-       "time-from": "08:30",
-       "time-to": "15:00",
-       "meal-time-array": [
-        {
-         "name": "Mittag ",
-         "time-from": "11:30",
-         "time-to": "13:30",
-         "line-array": [
-          {
-           "name": "East",
-           "meal": {
-            "line-id": 80629,
-            "name": "FRIED GYOZA",
-            "description": "Teriyaki-Sauce | Fried Rice | Ingwer-Karotten | Edamame | Koriander | Sojasprossen | schwarzer Sesam",
-            "energy": "496",
-            "protein": "3.8",
-            "fat": "3.3",
-            "saturated-fatty-acids": "0.8",
-            "carbohydrates": "17",
-            "sugar": "2.1",
-            "salt": "1.00",
-            "price-unit-code": 10,
-            "price-unit-desc": "Portion",
-            "price-unit-desc-short": "Portion",
-            "meal-price-array": [
-             {
-              "price": 8.9,
-              "customer-group-code": 10,
-              "customer-group-position": 10,
-              "customer-group-desc": "Studierende",
-              "customer-group-desc-short": "Stud."
-             },
-             {
-              "price": 10.9,
-              "customer-group-code": 11,
-              "customer-group-position": 11,
-              "customer-group-desc": "Interne",
-              "customer-group-desc-short": "Int."
-             },
-             {
-              "price": 12.9,
-              "customer-group-code": 13,
-              "customer-group-position": 13,
-              "customer-group-desc": "Extern",
-              "customer-group-desc-short": "Ext."
-             }
-            ],
-            "meal-class-array": [
-             {
-              "code": 17,
-              "position": 17,
-              "desc-short": "Vegetarisch",
-              "desc": "Vegetarisch"
-             }
-            ],
-            "allergen-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "1",
-              "desc": "Gluten"
-             },
-             {
-              "code": 12,
-              "position": 12,
-              "desc-short": "3",
-              "desc": "Ei"
-             },
-             {
-              "code": 15,
-              "position": 15,
-              "desc-short": "6",
-              "desc": "Soja"
-             },
-             {
-              "code": 16,
-              "position": 16,
-              "desc-short": "7",
-              "desc": "Milch, Laktose"
-             },
-             {
-              "code": 20,
-              "position": 20,
-              "desc-short": "11",
-              "desc": "Sesam"
-             }
-            ],
-            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78614",
-            "energy-outdated": "119"
-           }
-          },
-          {
-           "name": "West",
-           "meal": {
-            "line-id": 80630,
-            "name": "BERNER CERVELAT",
-            "description": "Thymiansauce | Lyoner Kartoffeln | grüne Bohnen Bohnenkraut",
-            "energy": "608",
-            "protein": "5.9",
-            "fat": "10",
-            "saturated-fatty-acids": "3.7",
-            "carbohydrates": "7.1",
-            "sugar": "0.9",
-            "salt": "1.04",
-            "price-unit-code": 10,
-            "price-unit-desc": "Portion",
-            "price-unit-desc-short": "Portion",
-            "meal-price-array": [
-             {
-              "price": 9.9,
-              "customer-group-code": 10,
-              "customer-group-position": 10,
-              "customer-group-desc": "Studierende",
-              "customer-group-desc-short": "Stud."
-             },
-             {
-              "price": 11.9,
-              "customer-group-code": 11,
-              "customer-group-position": 11,
-              "customer-group-desc": "Interne",
-              "customer-group-desc-short": "Int."
-             },
-             {
-              "price": 13.9,
-              "customer-group-code": 13,
-              "customer-group-position": 13,
-              "customer-group-desc": "Extern",
-              "customer-group-desc-short": "Ext."
-             }
-            ],
-            "meal-class-array": [
-             {
-              "code": 11,
-              "position": 11,
-              "desc-short": "Fleisch",
-              "desc": "Fleisch"
-             }
-            ],
-            "allergen-array": [
-             {
-              "code": 16,
-              "position": 16,
-              "desc-short": "7",
-              "desc": "Milch, Laktose"
-             },
-             {
-              "code": 21,
-              "position": 21,
-              "desc-short": "12",
-              "desc": "Sulfite"
-             }
-            ],
-            "meat-type-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "Rind",
-              "desc": "Rind",
-              "origin-array": [
-               {
-                "code": 143,
-                "position": 1,
-                "desc-short": "CHE",
-                "desc": "Schweiz"
-               }
-              ]
-             },
-             {
-              "code": 12,
-              "position": 12,
-              "desc-short": "Schwein",
-              "desc": "Schwein",
-              "origin-array": [
-               {
-                "code": 143,
-                "position": 1,
-                "desc-short": "CHE",
-                "desc": "Schweiz"
-               }
-              ]
-             }
-            ],
-            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78615",
-            "energy-outdated": "145"
-           }
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "day-of-week-code": 2,
-     "day-of-week-desc": "Dienstag",
-     "day-of-week-desc-short": "Di",
-     "opening-hour-array": [
-      {
-       "time-from": "08:30",
-       "time-to": "15:00",
-       "meal-time-array": [
-        {
-         "name": "Mittag ",
-         "time-from": "11:30",
-         "time-to": "13:30",
-         "line-array": [
-          {
-           "name": "East",
-           "meal": {
-            "line-id": 80631,
-            "name": "JUICY PLANTED BURGER",
-            "description": "Ciabatta | Planted Patty | Tomaten | Eisbergsalat | Roxy Sauce | Pommes",
-            "energy": "787",
-            "protein": "6.9",
-            "fat": "7.2",
-            "saturated-fatty-acids": "1.3",
-            "carbohydrates": "22",
-            "sugar": "0.9",
-            "salt": "1.17",
-            "price-unit-code": 10,
-            "price-unit-desc": "Portion",
-            "price-unit-desc-short": "Portion",
-            "meal-price-array": [
-             {
-              "price": 10.9,
-              "customer-group-code": 10,
-              "customer-group-position": 10,
-              "customer-group-desc": "Studierende",
-              "customer-group-desc-short": "Stud."
-             },
-             {
-              "price": 12.9,
-              "customer-group-code": 11,
-              "customer-group-position": 11,
-              "customer-group-desc": "Interne",
-              "customer-group-desc-short": "Int."
-             },
-             {
-              "price": 14.9,
-              "customer-group-code": 13,
-              "customer-group-position": 13,
-              "customer-group-desc": "Extern",
-              "customer-group-desc-short": "Ext."
-             }
-            ],
-            "meal-class-array": [
-             {
-              "code": 16,
-              "position": 16,
-              "desc-short": "Vegan",
-              "desc": "Vegan"
-             }
-            ],
-            "allergen-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "1",
-              "desc": "Gluten"
-             },
-             {
-              "code": 15,
-              "position": 15,
-              "desc-short": "6",
-              "desc": "Soja"
-             }
-            ],
-            "energy-outdated": "188"
-           }
-          },
-          {
-           "name": "West",
-           "meal": {
-            "line-id": 80632,
-            "name": "FOODLAB CHEESE BURGER",
-            "description": "Sesam Bun | rote Zwiebeln gepickelt | Beef Burger | Eisbergsalat | \nKäse | Tomaten | Cocktail Sauce | Pommes..",
-            "energy": "895",
-            "protein": "8.0",
-            "fat": "11",
-            "saturated-fatty-acids": "2.9",
-            "carbohydrates": "19",
-            "sugar": "2.9",
-            "salt": "1.46",
-            "price-unit-code": 10,
-            "price-unit-desc": "Portion",
-            "price-unit-desc-short": "Portion",
-            "meal-price-array": [
-             {
-              "price": 11.9,
-              "customer-group-code": 10,
-              "customer-group-position": 10,
-              "customer-group-desc": "Studierende",
-              "customer-group-desc-short": "Stud."
-             },
-             {
-              "price": 13.9,
-              "customer-group-code": 11,
-              "customer-group-position": 11,
-              "customer-group-desc": "Interne",
-              "customer-group-desc-short": "Int."
-             },
-             {
-              "price": 15.9,
-              "customer-group-code": 13,
-              "customer-group-position": 13,
-              "customer-group-desc": "Extern",
-              "customer-group-desc-short": "Ext."
-             }
-            ],
-            "meal-class-array": [
-             {
-              "code": 11,
-              "position": 11,
-              "desc-short": "Fleisch",
-              "desc": "Fleisch"
-             }
-            ],
-            "allergen-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "1",
-              "desc": "Gluten"
-             },
-             {
-              "code": 12,
-              "position": 12,
-              "desc-short": "3",
-              "desc": "Ei"
-             },
-             {
-              "code": 16,
-              "position": 16,
-              "desc-short": "7",
-              "desc": "Milch, Laktose"
-             },
-             {
-              "code": 18,
-              "position": 18,
-              "desc-short": "9",
-              "desc": "Sellerie"
-             },
-             {
-              "code": 20,
-              "position": 20,
-              "desc-short": "11",
-              "desc": "Sesam"
-             },
-             {
-              "code": 21,
-              "position": 21,
-              "desc-short": "12",
-              "desc": "Sulfite"
-             }
-            ],
-            "meat-type-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "Rind",
-              "desc": "Rind",
-              "origin-array": [
-               {
-                "code": 143,
-                "position": 1,
-                "desc-short": "CHE",
-                "desc": "Schweiz"
-               }
-              ]
-             }
-            ],
-            "energy-outdated": "214"
-           }
-          },
-          {
-           "name": "Pasta",
-           "meal": {
-            "line-id": 80633,
-            "name": "PASTA PLAUSCH",
-            "description": "Spaghetti | Bolognese |  Tomatensauce |\nBasilikum Pesto | Reibkäse",
-            "energy": "1086",
-            "protein": "12",
-            "fat": "8.6",
-            "saturated-fatty-acids": "2.7",
-            "carbohydrates": "32",
-            "sugar": "1.8",
-            "salt": "0.86",
-            "price-unit-code": 10,
-            "price-unit-desc": "Portion",
-            "price-unit-desc-short": "Portion",
-            "meal-price-array": [
-             {
-              "price": 7.9,
-              "customer-group-code": 10,
-              "customer-group-position": 10,
-              "customer-group-desc": "Studierende",
-              "customer-group-desc-short": "Stud."
-             },
-             {
-              "price": 9.9,
-              "customer-group-code": 11,
-              "customer-group-position": 11,
-              "customer-group-desc": "Interne",
-              "customer-group-desc-short": "Int."
-             },
-             {
-              "price": 11.9,
-              "customer-group-code": 13,
-              "customer-group-position": 13,
-              "customer-group-desc": "Extern",
-              "customer-group-desc-short": "Ext."
-             }
-            ],
-            "meal-class-array": [
-             {
-              "code": 11,
-              "position": 11,
-              "desc-short": "Fleisch",
-              "desc": "Fleisch"
-             }
-            ],
-            "allergen-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "1",
-              "desc": "Gluten"
-             },
-             {
-              "code": 12,
-              "position": 12,
-              "desc-short": "3",
-              "desc": "Ei"
-             },
-             {
-              "code": 16,
-              "position": 16,
-              "desc-short": "7",
-              "desc": "Milch, Laktose"
-             },
-             {
-              "code": 17,
-              "position": 17,
-              "desc-short": "8",
-              "desc": "Schalenfrüchte"
-             }
-            ],
-            "meat-type-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "Rind",
-              "desc": "Rind",
-              "origin-array": [
-               {
-                "code": 143,
-                "position": 1,
-                "desc-short": "CHE",
-                "desc": "Schweiz"
-               }
-              ]
-             }
-            ],
-            "energy-outdated": "259"
-           }
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "day-of-week-code": 3,
-     "day-of-week-desc": "Mittwoch",
-     "day-of-week-desc-short": "Mi",
-     "opening-hour-array": [
-      {
-       "time-from": "08:30",
-       "time-to": "15:00",
-       "meal-time-array": [
-        {
-         "name": "Mittag ",
-         "time-from": "11:30",
-         "time-to": "13:30",
-         "line-array": [
-          {
-           "name": "East",
-           "meal": {
-            "line-id": 80634,
-            "name": "GEBACKENER BROCCOLISTRUDEL",
-            "description": "Spinatrahmsauce | Bulgur | Tomaten | Peperoni | Zwiebeln | Menüsalat",
-            "energy": "603",
-            "protein": "3.0",
-            "fat": "8.3",
-            "saturated-fatty-acids": "2.8",
-            "carbohydrates": "13",
-            "sugar": "2.4",
-            "salt": "0.74",
-            "price-unit-code": 10,
-            "price-unit-desc": "Portion",
-            "price-unit-desc-short": "Portion",
-            "meal-price-array": [
-             {
-              "price": 8.9,
-              "customer-group-code": 10,
-              "customer-group-position": 10,
-              "customer-group-desc": "Studierende",
-              "customer-group-desc-short": "Stud."
-             },
-             {
-              "price": 10.9,
-              "customer-group-code": 11,
-              "customer-group-position": 11,
-              "customer-group-desc": "Interne",
-              "customer-group-desc-short": "Int."
-             },
-             {
-              "price": 12.9,
-              "customer-group-code": 13,
-              "customer-group-position": 13,
-              "customer-group-desc": "Extern",
-              "customer-group-desc-short": "Ext."
-             }
-            ],
-            "meal-class-array": [
-             {
-              "code": 17,
-              "position": 17,
-              "desc-short": "Vegetarisch",
-              "desc": "Vegetarisch"
-             }
-            ],
-            "allergen-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "1",
-              "desc": "Gluten"
-             },
-             {
-              "code": 12,
-              "position": 12,
-              "desc-short": "3",
-              "desc": "Ei"
-             },
-             {
-              "code": 16,
-              "position": 16,
-              "desc-short": "7",
-              "desc": "Milch, Laktose"
-             }
-            ],
-            "energy-outdated": "144"
-           }
-          },
-          {
-           "name": "West",
-           "meal": {
-            "line-id": 80635,
-            "name": "TANTANMEN RAMEN",
-            "description": "Schweinehackfleisch | Pak Choi | Sojasporssen | Furikake",
-            "energy": "632",
-            "protein": "5.1",
-            "fat": "11",
-            "saturated-fatty-acids": "1.6",
-            "carbohydrates": "9.0",
-            "sugar": "0.5",
-            "salt": "0.93",
-            "price-unit-code": 10,
-            "price-unit-desc": "Portion",
-            "price-unit-desc-short": "Portion",
-            "meal-price-array": [
-             {
-              "price": 9.9,
-              "customer-group-code": 10,
-              "customer-group-position": 10,
-              "customer-group-desc": "Studierende",
-              "customer-group-desc-short": "Stud."
-             },
-             {
-              "price": 11.9,
-              "customer-group-code": 11,
-              "customer-group-position": 11,
-              "customer-group-desc": "Interne",
-              "customer-group-desc-short": "Int."
-             },
-             {
-              "price": 13.9,
-              "customer-group-code": 13,
-              "customer-group-position": 13,
-              "customer-group-desc": "Extern",
-              "customer-group-desc-short": "Ext."
-             }
-            ],
-            "meal-class-array": [
-             {
-              "code": 11,
-              "position": 11,
-              "desc-short": "Fleisch",
-              "desc": "Fleisch"
-             }
-            ],
-            "allergen-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "1",
-              "desc": "Gluten"
-             },
-             {
-              "code": 12,
-              "position": 12,
-              "desc-short": "3",
-              "desc": "Ei"
-             },
-             {
-              "code": 15,
-              "position": 15,
-              "desc-short": "6",
-              "desc": "Soja"
-             },
-             {
-              "code": 18,
-              "position": 18,
-              "desc-short": "9",
-              "desc": "Sellerie"
-             },
-             {
-              "code": 20,
-              "position": 20,
-              "desc-short": "11",
-              "desc": "Sesam"
-             }
-            ],
-            "meat-type-array": [
-             {
-              "code": 12,
-              "position": 12,
-              "desc-short": "Schwein",
-              "desc": "Schwein",
-              "origin-array": [
-               {
-                "code": 143,
-                "position": 1,
-                "desc-short": "CHE",
-                "desc": "Schweiz"
-               }
-              ]
-             }
-            ],
-            "energy-outdated": "151"
-           }
-          },
-          {
-           "name": "Pasta",
-           "meal": {
-            "line-id": 80636,
-            "name": "PASTA PLAUSCH",
-            "description": "Spaghetti | Bolognese |  Tomatensauce |\nBasilikum Pesto | Reibkäse",
-            "energy": "1086",
-            "protein": "12",
-            "fat": "8.6",
-            "saturated-fatty-acids": "2.7",
-            "carbohydrates": "32",
-            "sugar": "1.8",
-            "salt": "0.86",
-            "price-unit-code": 10,
-            "price-unit-desc": "Portion",
-            "price-unit-desc-short": "Portion",
-            "meal-price-array": [
-             {
-              "price": 7.9,
-              "customer-group-code": 10,
-              "customer-group-position": 10,
-              "customer-group-desc": "Studierende",
-              "customer-group-desc-short": "Stud."
-             },
-             {
-              "price": 9.9,
-              "customer-group-code": 11,
-              "customer-group-position": 11,
-              "customer-group-desc": "Interne",
-              "customer-group-desc-short": "Int."
-             },
-             {
-              "price": 11.9,
-              "customer-group-code": 13,
-              "customer-group-position": 13,
-              "customer-group-desc": "Extern",
-              "customer-group-desc-short": "Ext."
-             }
-            ],
-            "meal-class-array": [
-             {
-              "code": 11,
-              "position": 11,
-              "desc-short": "Fleisch",
-              "desc": "Fleisch"
-             }
-            ],
-            "allergen-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "1",
-              "desc": "Gluten"
-             },
-             {
-              "code": 12,
-              "position": 12,
-              "desc-short": "3",
-              "desc": "Ei"
-             },
-             {
-              "code": 16,
-              "position": 16,
-              "desc-short": "7",
-              "desc": "Milch, Laktose"
-             },
-             {
-              "code": 17,
-              "position": 17,
-              "desc-short": "8",
-              "desc": "Schalenfrüchte"
-             }
-            ],
-            "meat-type-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "Rind",
-              "desc": "Rind",
-              "origin-array": [
-               {
-                "code": 143,
-                "position": 1,
-                "desc-short": "CHE",
-                "desc": "Schweiz"
-               }
-              ]
-             }
-            ],
-            "energy-outdated": "259"
-           }
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "day-of-week-code": 4,
-     "day-of-week-desc": "Donnerstag",
-     "day-of-week-desc-short": "Do",
-     "opening-hour-array": [
-      {
-       "time-from": "08:30",
-       "time-to": "15:00",
-       "meal-time-array": [
-        {
-         "name": "Mittag ",
-         "time-from": "11:30",
-         "time-to": "13:30",
-         "line-array": [
-          {
-           "name": "Pasta",
-           "meal": {
-            "line-id": 80637,
-            "name": "PASTA PLAUSCH",
-            "description": "Spaghetti | Bolognese |  Tomatensauce |\nBasilikum Pesto | Reibkäse",
-            "energy": "1086",
-            "protein": "12",
-            "fat": "8.6",
-            "saturated-fatty-acids": "2.7",
-            "carbohydrates": "32",
-            "sugar": "1.8",
-            "salt": "0.86",
-            "price-unit-code": 10,
-            "price-unit-desc": "Portion",
-            "price-unit-desc-short": "Portion",
-            "meal-price-array": [
-             {
-              "price": 7.9,
-              "customer-group-code": 10,
-              "customer-group-position": 10,
-              "customer-group-desc": "Studierende",
-              "customer-group-desc-short": "Stud."
-             },
-             {
-              "price": 9.9,
-              "customer-group-code": 11,
-              "customer-group-position": 11,
-              "customer-group-desc": "Interne",
-              "customer-group-desc-short": "Int."
-             },
-             {
-              "price": 11.9,
-              "customer-group-code": 13,
-              "customer-group-position": 13,
-              "customer-group-desc": "Extern",
-              "customer-group-desc-short": "Ext."
-             }
-            ],
-            "meal-class-array": [
-             {
-              "code": 11,
-              "position": 11,
-              "desc-short": "Fleisch",
-              "desc": "Fleisch"
-             }
-            ],
-            "allergen-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "1",
-              "desc": "Gluten"
-             },
-             {
-              "code": 12,
-              "position": 12,
-              "desc-short": "3",
-              "desc": "Ei"
-             },
-             {
-              "code": 16,
-              "position": 16,
-              "desc-short": "7",
-              "desc": "Milch, Laktose"
-             },
-             {
-              "code": 17,
-              "position": 17,
-              "desc-short": "8",
-              "desc": "Schalenfrüchte"
-             }
-            ],
-            "meat-type-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "Rind",
-              "desc": "Rind",
-              "origin-array": [
-               {
-                "code": 143,
-                "position": 1,
-                "desc-short": "CHE",
-                "desc": "Schweiz"
-               }
-              ]
-             }
-            ],
-            "energy-outdated": "259"
-           }
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "day-of-week-code": 5,
-     "day-of-week-desc": "Freitag",
-     "day-of-week-desc-short": "Fr",
-     "opening-hour-array": [
-      {
-       "time-from": "08:30",
-       "time-to": "15:00",
-       "meal-time-array": [
-        {
-         "name": "Mittag ",
-         "time-from": "11:30",
-         "time-to": "13:30"
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "day-of-week-code": 6,
-     "day-of-week-desc": "Samstag",
-     "day-of-week-desc-short": "Sa"
-    },
-    {
-     "day-of-week-code": 7,
-     "day-of-week-desc": "Sonntag",
-     "day-of-week-desc-short": "So"
-    }
-   ]
-  },
-  {
    "weekly-rota-id": 3752,
    "facility-id": 8,
    "valid-from": "2026-11-23",
@@ -72552,34 +71656,16 @@
             ],
             "allergen-array": [
              {
-              "code": 10,
-              "position": 10,
-              "desc-short": "1",
-              "desc": "Gluten"
+              "code": 19,
+              "position": 19,
+              "desc-short": "10",
+              "desc": "Senf"
              },
              {
-              "code": 12,
-              "position": 12,
-              "desc-short": "3",
-              "desc": "Ei"
-             },
-             {
-              "code": 15,
-              "position": 15,
-              "desc-short": "6",
-              "desc": "Soja"
-             },
-             {
-              "code": 18,
-              "position": 18,
-              "desc-short": "9",
-              "desc": "Sellerie"
-             },
-             {
-              "code": 23,
-              "position": 23,
-              "desc-short": "14",
-              "desc": "Weichtiere"
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
              }
             ],
             "meat-type-array": [
@@ -72598,6 +71684,7 @@
               ]
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78642",
             "energy-outdated": "89"
            }
           },
@@ -72650,18 +71737,13 @@
             ],
             "allergen-array": [
              {
-              "code": 10,
-              "position": 10,
-              "desc-short": "1",
-              "desc": "Gluten"
-             },
-             {
-              "code": 15,
-              "position": 15,
-              "desc-short": "6",
-              "desc": "Soja"
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78643",
             "energy-outdated": "71"
            }
           },
@@ -72714,12 +71796,6 @@
             ],
             "allergen-array": [
              {
-              "code": 10,
-              "position": 10,
-              "desc-short": "1",
-              "desc": "Gluten"
-             },
-             {
               "code": 15,
               "position": 15,
               "desc-short": "6",
@@ -72748,6 +71824,7 @@
               ]
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78644",
             "energy-outdated": "107"
            }
           },
@@ -72804,18 +71881,31 @@
               "desc": "Soja"
              },
              {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 19,
+              "position": 19,
+              "desc-short": "10",
+              "desc": "Senf"
+             },
+             {
               "code": 20,
               "position": 20,
               "desc-short": "11",
               "desc": "Sesam"
              },
              {
-              "code": 23,
-              "position": 23,
-              "desc-short": "14",
-              "desc": "Weichtiere"
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78645",
             "energy-outdated": "83"
            }
           }
@@ -74313,6 +73403,12 @@
               "desc": "Gluten"
              },
              {
+              "code": 14,
+              "position": 14,
+              "desc-short": "5",
+              "desc": "Erdnüsse"
+             },
+             {
               "code": 15,
               "position": 15,
               "desc-short": "6",
@@ -74834,7 +73930,7 @@
            "meal": {
             "line-id": 80749,
             "name": "Alpen Tortellini",
-            "description": "Tortellini mit Käse | Bergkräutersauce | Veganer Speck | Kartoffelspäne | Röstzwiebeln | Reibkäse | Petersilie",
+            "description": "Tortellini | Bergkräutersauce | Veganer Speck | Kartoffelspäne | Röstzwiebeln | Reibkäse | Petersilie",
             "energy": "753",
             "protein": "6.6",
             "fat": "6.7",
@@ -75054,7 +74150,7 @@
            "name": "TAGESSUPPE",
            "meal": {
             "line-id": 80884,
-            "name": "Tagessuppe",
+            "name": "Champignoncremesuppe",
             "description": "Probieren Sie unsere hausgemachte Tagessuppe!",
             "price-unit-code": 10,
             "price-unit-desc": "Portion",
@@ -75088,6 +74184,26 @@
               "position": 15,
               "desc-short": "Suppe",
               "desc": "Suppe"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
              }
             ],
             "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78536"
@@ -83269,7 +82385,8 @@
                }
               ]
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78616"
            },
            "line-counter-monitor-array": [
             {
@@ -83354,7 +82471,8 @@
               "desc-short": "13",
               "desc": "Lupinen"
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78617"
            },
            "line-counter-monitor-array": [
             {
@@ -83433,7 +82551,8 @@
               "desc-short": "13",
               "desc": "Lupinen"
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78618"
            },
            "line-counter-monitor-array": [
             {
@@ -83445,8 +82564,8 @@
            "name": "SOUL FOOD",
            "meal": {
             "line-id": 80849,
-            "name": "Swiss Alpine Chickenburger",
-            "description": "Brioche Bun | Greyerzer-Käse | Zwiebeln | Eisberg | Senf-Mayo | Pommes Frites",
+            "name": "Hirsch-Kalbburger ",
+            "description": "Brioche Bun | Greyerzer-Käse | Zwiebeln | Eisberg | Preiselbeer-Mayo | Pommes Frites",
             "price-unit-code": 10,
             "price-unit-desc": "Portion",
             "price-unit-desc-short": "Portion",
@@ -83495,6 +82614,12 @@
               "desc": "Ei"
              },
              {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
               "code": 18,
               "position": 18,
               "desc-short": "9",
@@ -83505,12 +82630,6 @@
               "position": 19,
               "desc-short": "10",
               "desc": "Senf"
-             },
-             {
-              "code": 20,
-              "position": 20,
-              "desc-short": "11",
-              "desc": "Sesam"
              },
              {
               "code": 21,
@@ -83527,20 +82646,35 @@
             ],
             "meat-type-array": [
              {
-              "code": 15,
-              "position": 15,
-              "desc-short": "Huhn",
-              "desc": "Huhn",
+              "code": 11,
+              "position": 11,
+              "desc-short": "Kalb",
+              "desc": "Kalb",
               "origin-array": [
                {
-                "code": 143,
-                "position": 1,
-                "desc-short": "CHE",
-                "desc": "Schweiz"
+                "code": 900,
+                "position": 900,
+                "desc-short": "EU",
+                "desc": "Europäische Union"
+               }
+              ]
+             },
+             {
+              "code": 14,
+              "position": 14,
+              "desc-short": "Wild",
+              "desc": "Wild",
+              "origin-array": [
+               {
+                "code": 900,
+                "position": 900,
+                "desc-short": "EU",
+                "desc": "Europäische Union"
                }
               ]
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78619"
            },
            "line-counter-monitor-array": [
             {
@@ -83627,6 +82761,12 @@
               "desc": "Erdnüsse"
              },
              {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
               "code": 16,
               "position": 16,
               "desc-short": "7",
@@ -83672,7 +82812,8 @@
                }
               ]
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78620"
            },
            "line-counter-monitor-array": [
             {
@@ -83794,7 +82935,8 @@
               "desc-short": "13",
               "desc": "Lupinen"
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78621"
            },
            "line-counter-monitor-array": [
             {
@@ -83853,7 +82995,8 @@
               "desc-short": "Vegetarisch",
               "desc": "Vegetarisch"
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78622"
            },
            "line-counter-monitor-array": [
             {
@@ -83906,7 +83049,8 @@
               "desc-short": "Vegetarisch",
               "desc": "Vegetarisch"
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78623"
            },
            "line-counter-monitor-array": [
             {
@@ -83953,7 +83097,8 @@
               "desc-short": "Vegetarisch",
               "desc": "Vegetarisch"
              }
-            ]
+            ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78624"
            },
            "line-counter-monitor-array": [
             {
@@ -86946,6 +86091,7 @@
               "desc": "Sulfite"
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78654",
             "energy-outdated": "198"
            }
           },
@@ -87040,6 +86186,7 @@
               ]
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78655",
             "energy-outdated": "280"
            }
           },
@@ -87114,6 +86261,7 @@
               ]
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78656",
             "energy-outdated": "107"
            }
           },
@@ -87184,6 +86332,7 @@
               "desc": "Sellerie"
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/78657",
             "energy-outdated": "257"
            }
           }
@@ -93180,6 +92329,1094 @@
            }
           }
          ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day-of-week-code": 6,
+     "day-of-week-desc": "Samstag",
+     "day-of-week-desc-short": "Sa"
+    },
+    {
+     "day-of-week-code": 7,
+     "day-of-week-desc": "Sonntag",
+     "day-of-week-desc-short": "So"
+    }
+   ]
+  },
+  {
+   "weekly-rota-id": 3767,
+   "facility-id": 7,
+   "valid-from": "2026-11-09",
+   "valid-to": "2026-11-15",
+   "day-of-week-array": [
+    {
+     "day-of-week-code": 1,
+     "day-of-week-desc": "Montag",
+     "day-of-week-desc-short": "Mo",
+     "opening-hour-array": [
+      {
+       "time-from": "08:30",
+       "time-to": "15:00",
+       "meal-time-array": [
+        {
+         "name": "Mittag ",
+         "time-from": "11:30",
+         "time-to": "13:30",
+         "line-array": [
+          {
+           "name": "East",
+           "meal": {
+            "line-id": 80982,
+            "name": "FRIED GYOZA",
+            "description": "Teriyaki-Sauce | Fried Rice | Ingwer-Karotten | Edamame | Koriander | Sojasprossen | schwarzer Sesam",
+            "energy": "496",
+            "protein": "3.8",
+            "fat": "3.3",
+            "saturated-fatty-acids": "0.8",
+            "carbohydrates": "17",
+            "sugar": "2.1",
+            "salt": "1.00",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 8.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 10.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 12.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 17,
+              "position": 17,
+              "desc-short": "Vegetarisch",
+              "desc": "Vegetarisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 20,
+              "position": 20,
+              "desc-short": "11",
+              "desc": "Sesam"
+             }
+            ],
+            "energy-outdated": "119"
+           }
+          },
+          {
+           "name": "West",
+           "meal": {
+            "line-id": 80983,
+            "name": "BERNER CERVELAT",
+            "description": "Thymiansauce | Lyoner Kartoffeln | grüne Bohnen Bohnenkraut",
+            "energy": "608",
+            "protein": "5.9",
+            "fat": "10",
+            "saturated-fatty-acids": "3.7",
+            "carbohydrates": "7.1",
+            "sugar": "0.9",
+            "salt": "1.04",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 9.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 11.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 13.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "Rind",
+              "desc": "Rind",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "Schwein",
+              "desc": "Schwein",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "energy-outdated": "145"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day-of-week-code": 2,
+     "day-of-week-desc": "Dienstag",
+     "day-of-week-desc-short": "Di",
+     "opening-hour-array": [
+      {
+       "time-from": "08:30",
+       "time-to": "15:00",
+       "meal-time-array": [
+        {
+         "name": "Mittag ",
+         "time-from": "11:30",
+         "time-to": "13:30",
+         "line-array": [
+          {
+           "name": "East",
+           "meal": {
+            "line-id": 80984,
+            "name": "JUICY PLANTED BURGER",
+            "description": "Ciabatta | Planted Patty | Tomaten | Eisbergsalat | Roxy Sauce | Pommes",
+            "energy": "787",
+            "protein": "6.9",
+            "fat": "7.2",
+            "saturated-fatty-acids": "1.3",
+            "carbohydrates": "22",
+            "sugar": "0.9",
+            "salt": "1.17",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 10.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 12.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 14.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "Vegan",
+              "desc": "Vegan"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             }
+            ],
+            "energy-outdated": "188"
+           }
+          },
+          {
+           "name": "West",
+           "meal": {
+            "line-id": 80985,
+            "name": "FOODLAB CHEESE BURGER",
+            "description": "Sesam Bun | rote Zwiebeln gepickelt | Beef Burger | Eisbergsalat | \nKäse | Tomaten | Cocktail Sauce | Pommes..",
+            "energy": "895",
+            "protein": "8.0",
+            "fat": "11",
+            "saturated-fatty-acids": "2.9",
+            "carbohydrates": "19",
+            "sugar": "2.9",
+            "salt": "1.46",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 11.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 13.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 15.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 20,
+              "position": 20,
+              "desc-short": "11",
+              "desc": "Sesam"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "Rind",
+              "desc": "Rind",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "energy-outdated": "214"
+           }
+          },
+          {
+           "name": "Pasta",
+           "meal": {
+            "line-id": 80986,
+            "name": "PASTA PLAUSCH",
+            "description": "Rigatoni | Bolognese |  Tomatensauce | Lachs Rahmsauce |\nBasilikum Pesto | Reibkäse",
+            "energy": "820",
+            "protein": "8.6",
+            "fat": "7.0",
+            "saturated-fatty-acids": "2.8",
+            "carbohydrates": "24",
+            "sugar": "2.0",
+            "salt": "0.87",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 7.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 9.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 11.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "Fisch",
+              "desc": "Fisch"
+             },
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 13,
+              "position": 13,
+              "desc-short": "4",
+              "desc": "Fisch"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 17,
+              "position": 17,
+              "desc-short": "8",
+              "desc": "Schalenfrüchte"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "Rind",
+              "desc": "Rind",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "fishing-method-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Zucht",
+              "desc": "Zucht",
+              "origin-array": [
+               {
+                "code": 268,
+                "position": 268,
+                "desc-short": "NOR",
+                "desc": "Norwegen"
+               }
+              ]
+             }
+            ],
+            "energy-outdated": "196"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day-of-week-code": 3,
+     "day-of-week-desc": "Mittwoch",
+     "day-of-week-desc-short": "Mi",
+     "opening-hour-array": [
+      {
+       "time-from": "08:30",
+       "time-to": "15:00",
+       "meal-time-array": [
+        {
+         "name": "Mittag ",
+         "time-from": "11:30",
+         "time-to": "13:30",
+         "line-array": [
+          {
+           "name": "East",
+           "meal": {
+            "line-id": 80987,
+            "name": "GEBACKENER BROCCOLISTRUDEL",
+            "description": "Spinatrahmsauce | Bulgur | Tomaten | Peperoni | Zwiebeln | Menüsalat",
+            "energy": "603",
+            "protein": "3.0",
+            "fat": "8.3",
+            "saturated-fatty-acids": "2.8",
+            "carbohydrates": "13",
+            "sugar": "2.4",
+            "salt": "0.74",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 8.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 10.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 12.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 17,
+              "position": 17,
+              "desc-short": "Vegetarisch",
+              "desc": "Vegetarisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             }
+            ],
+            "energy-outdated": "144"
+           }
+          },
+          {
+           "name": "West",
+           "meal": {
+            "line-id": 80988,
+            "name": "TANTANMEN RAMEN",
+            "description": "Schweinehackfleisch | Pak Choi | Sojasporssen | Furikake",
+            "energy": "632",
+            "protein": "5.1",
+            "fat": "11",
+            "saturated-fatty-acids": "1.6",
+            "carbohydrates": "9.0",
+            "sugar": "0.5",
+            "salt": "0.93",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 9.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 11.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 13.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 20,
+              "position": 20,
+              "desc-short": "11",
+              "desc": "Sesam"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "Schwein",
+              "desc": "Schwein",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "energy-outdated": "151"
+           }
+          },
+          {
+           "name": "Pasta",
+           "meal": {
+            "line-id": 80989,
+            "name": "PASTA PLAUSCH",
+            "description": "Spaghetti | Bolognese |  Tomatensauce |\nBasilikum Pesto | Reibkäse",
+            "energy": "1086",
+            "protein": "12",
+            "fat": "8.6",
+            "saturated-fatty-acids": "2.7",
+            "carbohydrates": "32",
+            "sugar": "1.8",
+            "salt": "0.86",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 7.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 9.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 11.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 17,
+              "position": 17,
+              "desc-short": "8",
+              "desc": "Schalenfrüchte"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "Rind",
+              "desc": "Rind",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "energy-outdated": "259"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day-of-week-code": 4,
+     "day-of-week-desc": "Donnerstag",
+     "day-of-week-desc-short": "Do",
+     "opening-hour-array": [
+      {
+       "time-from": "08:30",
+       "time-to": "15:00",
+       "meal-time-array": [
+        {
+         "name": "Mittag ",
+         "time-from": "11:30",
+         "time-to": "13:30",
+         "line-array": [
+          {
+           "name": "East",
+           "meal": {
+            "line-id": 80990,
+            "name": "GNOCCI PFANNE",
+            "description": "Kartoffel Gnocchi | Hokkaido Kürbis | Pesto Rosso | Rucola |",
+            "energy": "693",
+            "protein": "2.6",
+            "fat": "12",
+            "saturated-fatty-acids": "1.1",
+            "carbohydrates": "14",
+            "sugar": "1.5",
+            "salt": "1.24",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 8.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 10.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 12.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 17,
+              "position": 17,
+              "desc-short": "Vegetarisch",
+              "desc": "Vegetarisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 17,
+              "position": 17,
+              "desc-short": "8",
+              "desc": "Schalenfrüchte"
+             }
+            ],
+            "energy-outdated": "165"
+           }
+          },
+          {
+           "name": "West",
+           "meal": {
+            "line-id": 80991,
+            "name": "DWAEJI VINDALOO",
+            "description": "Schwein | Tamarinde | Tomaten | Gurkenraita | Basmatireis",
+            "energy": "577",
+            "protein": "6.6",
+            "fat": "5.4",
+            "saturated-fatty-acids": "2.0",
+            "carbohydrates": "15",
+            "sugar": "1.0",
+            "salt": "0.93",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 9.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 11.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 13.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 19,
+              "position": 19,
+              "desc-short": "10",
+              "desc": "Senf"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "Schwein",
+              "desc": "Schwein",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "energy-outdated": "138"
+           }
+          },
+          {
+           "name": "Pasta",
+           "meal": {
+            "line-id": 80992,
+            "name": "PASTA PLAUSCH",
+            "description": "Spaghetti | Bolognese |  Tomatensauce |\nBasilikum Pesto | Reibkäse",
+            "energy": "1086",
+            "protein": "12",
+            "fat": "8.6",
+            "saturated-fatty-acids": "2.7",
+            "carbohydrates": "32",
+            "sugar": "1.8",
+            "salt": "0.86",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 7.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 9.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 11.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 17,
+              "position": 17,
+              "desc-short": "8",
+              "desc": "Schalenfrüchte"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "Rind",
+              "desc": "Rind",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "energy-outdated": "259"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day-of-week-code": 5,
+     "day-of-week-desc": "Freitag",
+     "day-of-week-desc-short": "Fr",
+     "opening-hour-array": [
+      {
+       "time-from": "08:30",
+       "time-to": "15:00",
+       "meal-time-array": [
+        {
+         "name": "Mittag ",
+         "time-from": "11:30",
+         "time-to": "13:30"
         }
        ]
       }
