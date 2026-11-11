@@ -1,5 +1,5 @@
 {
- "datum": "2026-11-10",
+ "datum": "2026-11-11",
  "mensen": [
   {
    "facility_id": 19,
@@ -9,8 +9,8 @@
     {
      "zeit": "Mittagessen",
      "linie": "fire",
-     "menue": "Pouletschenkel mit Chili & Honig",
-     "beschreibung": "Scharfe Honigsauce | Purpur Weizen | Lattich | Gemüse Bruoise",
+     "menue": "Rotes Thai Curry",
+     "beschreibung": "Truthahn | Karotten | Broccoli | Peperoni | Erdnüsse | Basmati mit Linsen und Quinoa",
      "klasse": [
       "Fleisch"
      ],
@@ -32,33 +32,33 @@
     {
      "zeit": "Mittagessen",
      "linie": "grill",
-     "menue": "Tonkatsu",
-     "beschreibung": "Schweinesteak | Bulldogsauce | Sushireis | Coleslaw",
+     "menue": "Pulled Pork Burger",
+     "beschreibung": "BBQ | Rote Zwiebeln  | Sesam Bun | Rüebli | Weisskabis | Lollo Rot | Steak House Pommes",
      "klasse": [
       "Fleisch"
      ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 12.5
+       "preis": 11.5
       },
       {
        "gruppe": "Interne",
-       "preis": 15.5
+       "preis": 14.5
       },
       {
        "gruppe": "Extern",
-       "preis": 18.5
+       "preis": 17.5
       }
      ]
     },
     {
      "zeit": "Mittagessen",
      "linie": "green daily",
-     "menue": "Gewürzlinsen von Pascal Haag",
-     "beschreibung": "Gerösteter Blumenkohl | Kokoschutney",
+     "menue": "Panierte Champignons",
+     "beschreibung": "Safransauce | Pink Bulgur | Pfälzer Karotten | Fetakäse | Erbsenpüree",
      "klasse": [
-      "Vegan"
+      "Vegetarisch"
      ],
      "preise": [
       {
@@ -122,11 +122,9 @@
     {
      "zeit": "Mittagessen",
      "linie": "pizza mamma mia",
-     "menue": "Pizza Prosciutto Salami",
-     "beschreibung": "Tomatensauce | Mozzarella | Prosciutto | Salami | Salat oder Lemonade",
-     "klasse": [
-      "Fleisch"
-     ],
+     "menue": "Pizza Quattro Formaggi",
+     "beschreibung": "Tomatensauce | Mozzarella | Provolone | Gorgonzola | Parmesan | Basilikum | Salat oder Lemonade",
+     "klasse": [],
      "preise": [
       {
        "gruppe": "Studierende",
@@ -145,8 +143,8 @@
     {
      "zeit": "Mittagessen",
      "linie": "pasta classica",
-     "menue": "Pasta con Pollo e Funghi",
-     "beschreibung": "Poulet | Champignons | Rahmsauce | Dill | Reibkäse | Salat oder Lemonade",
+     "menue": "Rigatoni al vitello",
+     "beschreibung": "Rigatoni | Kalbsgehackfleisch | Kapern | Tomatensugo | Olivenöl | Reibkäse | Salat oder Lemonade",
      "klasse": [
       "Fleisch"
      ],
@@ -168,10 +166,10 @@
     {
      "zeit": "Mittagessen",
      "linie": "pasta della nonna",
-     "menue": "Fancy Carbonara",
-     "beschreibung": "Spaghetti | Carbonara Sauce | Spiegelei | Bacon Chips | Reibkäse | Salat oder Lemonade",
+     "menue": "Zoodle Zucchini e Burrata",
+     "beschreibung": "Nudeln | Zucchetti | Tomaten Pesto | Burrata | Salat oder Lemonade",
      "klasse": [
-      "Fleisch"
+      "Vegetarisch"
      ],
      "preise": [
       {
@@ -198,8 +196,8 @@
     {
      "zeit": "Mittag",
      "linie": "MEATWORKS",
-     "menue": "Fleischkäse & Rösti",
-     "beschreibung": "Zwiebelsauce | Salat oder Homemade-Getränk",
+     "menue": "Rindshacksteak",
+     "beschreibung": "Rotweinsauce| Bratkartoffeln | Salat oder Homemade Getränk",
      "klasse": [
       "Fleisch"
      ],
@@ -221,8 +219,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGI",
-     "menue": "Randen-Risotto & Feta",
-     "beschreibung": "Balsamico | Rucola | Kürbiskerne",
+     "menue": "Spätzli & Pilzragout",
+     "beschreibung": "Salat oder Homemade-Getränke",
      "klasse": [
       "Vegetarisch"
      ],
@@ -244,8 +242,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGAN",
-     "menue": "Crispy Tenders",
-     "beschreibung": "Ofen-Kartoffeln | BBQ-Dip | Peperoni",
+     "menue": "Falafel-Burger",
+     "beschreibung": "Sesam Bun | Eisberg | Zwiebeln | Tomaten | Cocktail Sauce | Pommes Artisanales",
      "klasse": [
       "Vegan"
      ],
@@ -267,31 +265,31 @@
     {
      "zeit": "Mittag",
      "linie": "SOUL FOOD",
-     "menue": "Hirsch-Kalbburger",
-     "beschreibung": "Brioche Bun | Greyerzer-Käse | Zwiebeln | Eisberg | Preiselbeer-Mayo | Pommes Frites",
+     "menue": "Honig-Rosmarin Spare Ribs",
+     "beschreibung": "Pommes Frites | Ofengemüse | Smokey-Paprika Dip",
      "klasse": [
       "Fleisch"
      ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 11.5
+       "preis": 10.5
       },
       {
        "gruppe": "Interne",
-       "preis": 14.5
+       "preis": 13.5
       },
       {
        "gruppe": "Extern",
-       "preis": 17.5
+       "preis": 16.5
       }
      ]
     },
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA",
-     "menue": "Crispy Duck",
-     "beschreibung": "Thai-Erdnuss Sauce | Jasmin Reis | Wok Gemüse",
+     "menue": "Beef Rendang",
+     "beschreibung": "Jasmin Reis | Asia Gemüse",
      "klasse": [
       "Fleisch"
      ],
@@ -313,8 +311,8 @@
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA VEGI",
-     "menue": "Fried Noodles & Dumplings",
-     "beschreibung": "Shiitake-Dumplings | Wok Gemüse",
+     "menue": "Paneer Masala",
+     "beschreibung": "Jasmin Reis | Asia Gemüse",
      "klasse": [
       "Vegetarisch"
      ],
