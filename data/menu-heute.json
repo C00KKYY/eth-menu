@@ -1,5 +1,5 @@
 {
- "datum": "2026-11-11",
+ "datum": "2026-11-12",
  "mensen": [
   {
    "facility_id": 19,
@@ -9,8 +9,8 @@
     {
      "zeit": "Mittagessen",
      "linie": "fire",
-     "menue": "Rotes Thai Curry",
-     "beschreibung": "Truthahn | Karotten | Broccoli | Peperoni | Erdnüsse | Basmati mit Linsen und Quinoa",
+     "menue": "Grill Bratwurst",
+     "beschreibung": "Senf | Pommes Rissolées | Karotten | Sellerie | Lauch",
      "klasse": [
       "Fleisch"
      ],
@@ -32,33 +32,31 @@
     {
      "zeit": "Mittagessen",
      "linie": "grill",
-     "menue": "Pulled Pork Burger",
-     "beschreibung": "BBQ | Rote Zwiebeln  | Sesam Bun | Rüebli | Weisskabis | Lollo Rot | Steak House Pommes",
-     "klasse": [
-      "Fleisch"
-     ],
+     "menue": "Ausverkauft",
+     "beschreibung": "Dieses Gericht ist bereits ausverkauft",
+     "klasse": [],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 11.5
+       "preis": 0.0
       },
       {
        "gruppe": "Interne",
-       "preis": 14.5
+       "preis": 0.0
       },
       {
        "gruppe": "Extern",
-       "preis": 17.5
+       "preis": 0.0
       }
      ]
     },
     {
      "zeit": "Mittagessen",
      "linie": "green daily",
-     "menue": "Panierte Champignons",
-     "beschreibung": "Safransauce | Pink Bulgur | Pfälzer Karotten | Fetakäse | Erbsenpüree",
+     "menue": "Takikomi Gohan",
+     "beschreibung": "Pilze | Reis | Karotten | Edamame | Kefen",
      "klasse": [
-      "Vegetarisch"
+      "Vegan"
      ],
      "preise": [
       {
@@ -143,8 +141,8 @@
     {
      "zeit": "Mittagessen",
      "linie": "pasta classica",
-     "menue": "Rigatoni al vitello",
-     "beschreibung": "Rigatoni | Kalbsgehackfleisch | Kapern | Tomatensugo | Olivenöl | Reibkäse | Salat oder Lemonade",
+     "menue": "Bergsteiger Spätzli mit Schinkenwürfel",
+     "beschreibung": "Schinkenwürfel | Käsesauce | Majoran | Thymian | Salat oder Lemonade",
      "klasse": [
       "Fleisch"
      ],
@@ -166,10 +164,10 @@
     {
      "zeit": "Mittagessen",
      "linie": "pasta della nonna",
-     "menue": "Zoodle Zucchini e Burrata",
-     "beschreibung": "Nudeln | Zucchetti | Tomaten Pesto | Burrata | Salat oder Lemonade",
+     "menue": "Gnocchi Cauliflower",
+     "beschreibung": "Dillsauce | Gerösteter Blumenkohl | Kräuterkruste | Salat oder Lemonade",
      "klasse": [
-      "Vegetarisch"
+      "Vegan"
      ],
      "preise": [
       {
@@ -196,8 +194,8 @@
     {
      "zeit": "Mittag",
      "linie": "MEATWORKS",
-     "menue": "Rindshacksteak",
-     "beschreibung": "Rotweinsauce| Bratkartoffeln | Salat oder Homemade Getränk",
+     "menue": "Chicken Nuggets",
+     "beschreibung": "Cocktail Dip | Pommes Frites | Salat oder Homemade-Getränk",
      "klasse": [
       "Fleisch"
      ],
@@ -219,8 +217,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGI",
-     "menue": "Spätzli & Pilzragout",
-     "beschreibung": "Salat oder Homemade-Getränke",
+     "menue": "Lasagne alla Verdura",
+     "beschreibung": "Salat oder Homemade-Getränk",
      "klasse": [
       "Vegetarisch"
      ],
@@ -242,8 +240,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGAN",
-     "menue": "Falafel-Burger",
-     "beschreibung": "Sesam Bun | Eisberg | Zwiebeln | Tomaten | Cocktail Sauce | Pommes Artisanales",
+     "menue": "Crunchy-Patty Sandwich",
+     "beschreibung": "Ciabatta Brot | Eisberg | Tomaten | Gurken | Sweet-Chili Mayo",
      "klasse": [
       "Vegan"
      ],
@@ -265,31 +263,31 @@
     {
      "zeit": "Mittag",
      "linie": "SOUL FOOD",
-     "menue": "Honig-Rosmarin Spare Ribs",
-     "beschreibung": "Pommes Frites | Ofengemüse | Smokey-Paprika Dip",
+     "menue": "Hirschschnitzel",
+     "beschreibung": "Wachholderbeeren-Jus | Spätzli | Rotkabis",
      "klasse": [
       "Fleisch"
      ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 10.5
+       "preis": 12.5
       },
       {
        "gruppe": "Interne",
-       "preis": 13.5
+       "preis": 15.5
       },
       {
        "gruppe": "Extern",
-       "preis": 16.5
+       "preis": 18.5
       }
      ]
     },
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA",
-     "menue": "Beef Rendang",
-     "beschreibung": "Jasmin Reis | Asia Gemüse",
+     "menue": "Lamm Curry",
+     "beschreibung": "Asia Gemüse | Jasmin Reis",
      "klasse": [
       "Fleisch"
      ],
@@ -311,8 +309,8 @@
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA VEGI",
-     "menue": "Paneer Masala",
-     "beschreibung": "Jasmin Reis | Asia Gemüse",
+     "menue": "Tofu-Teriyaki",
+     "beschreibung": "Asia Gemüse | Jasmin Reis",
      "klasse": [
       "Vegetarisch"
      ],
