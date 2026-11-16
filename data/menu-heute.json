@@ -1,5 +1,5 @@
 {
- "datum": "2026-11-13",
+ "datum": "2026-11-16",
  "mensen": [
   {
    "facility_id": 19,
@@ -9,8 +9,8 @@
     {
      "zeit": "Mittagessen",
      "linie": "fire",
-     "menue": "Yassa Ganaar",
-     "beschreibung": "Pouletschenkel | Karamellisierten Zwiebeln | Limettensaft | Gewürzreis mit Karotten",
+     "menue": "Wiener Rahmgulasch",
+     "beschreibung": "Trutenragout | Karotten | Sellerie | Zwiebeln | Spätzli",
      "klasse": [
       "Fleisch"
      ],
@@ -32,8 +32,8 @@
     {
      "zeit": "Mittagessen",
      "linie": "grill",
-     "menue": "Wasabi Dog",
-     "beschreibung": "Wienerli | Brioche Bun | Rettichsalat | Nori | Wasabimayonnaise | Furikake",
+     "menue": "Hoisin Pulled Pork",
+     "beschreibung": "Gebratener Reis | Mandeln | Ingwer Raita",
      "klasse": [
       "Fleisch"
      ],
@@ -55,10 +55,10 @@
     {
      "zeit": "Mittagessen",
      "linie": "green daily",
-     "menue": "Seitan Gulasch",
-     "beschreibung": "Paprikasauce | Peperoni | Gnocchi | Sauerrahm | Petersilie",
+     "menue": "Mapo Tofu",
+     "beschreibung": "Sojasauce | Miso | Gerste | Karotten | Sellerie | Chili | Parfumreis",
      "klasse": [
-      "Vegetarisch"
+      "Vegan"
      ],
      "preise": [
       {
@@ -121,32 +121,55 @@
     },
     {
      "zeit": "Mittagessen",
-     "linie": "pasta classica vegi",
-     "menue": "Älpler Magronen",
-     "beschreibung": "Röstzwiebeln | Bergkäse | Kartoffelwürfel | No-Bacon | Salat oder Lemonade",
+     "linie": "pizza mamma mia",
+     "menue": "Pizza pomodori e serrano",
+     "beschreibung": "Hausgemachte Tomatensauce | Mozzarella | Trockentomaten | Serrano | Salat oder Lemonade",
      "klasse": [
-      "Vegan"
+      "Fleisch"
      ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 7.0
-      },
-      {
-       "gruppe": "Interne",
        "preis": 11.5
       },
       {
-       "gruppe": "Extern",
+       "gruppe": "Interne",
        "preis": 14.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 17.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittagessen",
+     "linie": "pasta classica",
+     "menue": "Fusilli alla bolognese",
+     "beschreibung": "Rindshackfleisch | Tomatensauce | Reibkäse | Salat oder Lemonade",
+     "klasse": [
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 8.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 12.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 15.5
       }
      ]
     },
     {
      "zeit": "Mittagessen",
      "linie": "pasta della nonna",
-     "menue": "Black Pepper Udon",
-     "beschreibung": "Pouletgeschnetzeltes | Wok Gemüse | Sesam | Sojasprossen | Wasabi Nüsse",
+     "menue": "Bangkok Beef Noodles",
+     "beschreibung": "Rindfleisch | Kabis | Karotten | Sojasauce | Mungobohnensprossen | gerösteter Sesam | Koriander",
      "klasse": [
       "Fleisch"
      ],
@@ -175,8 +198,8 @@
     {
      "zeit": "Mittag",
      "linie": "MEATWORKS",
-     "menue": "Schweinsgeschnetzeltes Zürcher Art",
-     "beschreibung": "Broccoli | Tagliatelle",
+     "menue": "Bauernschinken",
+     "beschreibung": "Kartoffelsalat | Senf",
      "klasse": [
       "Fleisch"
      ],
@@ -198,8 +221,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGI",
-     "menue": "Gemüse-Schnitzel",
-     "beschreibung": "Cocktail Dip | Pommes Frites | Salat oder Homemade-Getränk",
+     "menue": "Kürbis-Risotto",
+     "beschreibung": "Kürbiskernen | Brunnenkresse | Salat oder Homemade-Getränk",
      "klasse": [
       "Vegetarisch"
      ],
@@ -221,8 +244,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGAN",
-     "menue": "Erbsen-Protein Geschnetzeltes",
-     "beschreibung": "Red Dhofar Sauce | Blumenkohl | Couscous | Randen-Hummus",
+     "menue": "Vegane Küstenknusperli",
+     "beschreibung": "Zitronen-Dip | Spinat | Brätler-Kartoffeln",
      "klasse": [
       "Vegan"
      ],
@@ -244,31 +267,31 @@
     {
      "zeit": "Mittag",
      "linie": "SOUL FOOD",
-     "menue": "Kalbsbratwurst-Hot Dog",
-     "beschreibung": "Cole-Slaw | Karamellisierte-Zwiebeln | Somked-Dip | Pommes Frites | Ketchup",
+     "menue": "Rehpfeffer",
+     "beschreibung": "Spätzli | Rotkohl | Maroni",
      "klasse": [
       "Fleisch"
      ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 10.5
+       "preis": 12.5
       },
       {
        "gruppe": "Interne",
-       "preis": 13.5
+       "preis": 15.5
       },
       {
        "gruppe": "Extern",
-       "preis": 16.5
+       "preis": 18.5
       }
      ]
     },
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA",
-     "menue": "Truten-Geschnetzeltes Szechuan",
-     "beschreibung": "Wok Gemüse | Jasmin Reis",
+     "menue": "Crispy Chicken",
+     "beschreibung": "Katsu-Sauce | Jasminreis | Wok-Gemüse",
      "klasse": [
       "Fleisch"
      ],
@@ -290,8 +313,8 @@
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA VEGI",
-     "menue": "Gemüse-Mango Kokoscurry",
-     "beschreibung": "Jasminreis",
+     "menue": "Süsskartoffeln-Linsen Curry",
+     "beschreibung": "Jasminreis | Wok-Gemüse",
      "klasse": [
       "Vegetarisch"
      ],
@@ -317,7 +340,6 @@
      "beschreibung": "Frisches Salatangebot mit saisonalen und regionalen Spezialitäten",
      "klasse": [
       "Salat",
-      "Vegan",
       "Vegetarisch"
      ],
      "preise": [
@@ -438,8 +460,8 @@
     {
      "zeit": "Mittagessen",
      "linie": "World Pot",
-     "menue": "Rahmschnitzel",
-     "beschreibung": "Schweinsschnitzel | Butternudeln | Mischgemüse",
+     "menue": "Tandoori Chicken",
+     "beschreibung": "Tandoorisauce | Basmatireis | Wok Gemüse",
      "klasse": [
       "Fleisch"
      ],
@@ -507,8 +529,8 @@
     {
      "zeit": "Abendessen",
      "linie": "World Pot Abend",
-     "menue": "Rahmschnitzel",
-     "beschreibung": "Schweinsschnitzel | Butternudeln | Mischgemüse",
+     "menue": "Tandoori Chicken",
+     "beschreibung": "Tandoorisauce | Basmatireis | Wok Gemüse",
      "klasse": [
       "Fleisch"
      ],
