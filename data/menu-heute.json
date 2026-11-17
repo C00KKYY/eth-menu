@@ -1,5 +1,5 @@
 {
- "datum": "2026-11-16",
+ "datum": "2026-11-17",
  "mensen": [
   {
    "facility_id": 19,
@@ -9,8 +9,8 @@
     {
      "zeit": "Mittagessen",
      "linie": "fire",
-     "menue": "Wiener Rahmgulasch",
-     "beschreibung": "Trutenragout | Karotten | Sellerie | Zwiebeln | Spätzli",
+     "menue": "Rindsvoressen",
+     "beschreibung": "Pilzrahmsauce | Nudeln | Glasierte Karotten | Schnittlauch",
      "klasse": [
       "Fleisch"
      ],
@@ -32,8 +32,8 @@
     {
      "zeit": "Mittagessen",
      "linie": "grill",
-     "menue": "Hoisin Pulled Pork",
-     "beschreibung": "Gebratener Reis | Mandeln | Ingwer Raita",
+     "menue": "Hirsch Medaillons medium gebraten",
+     "beschreibung": "Calvados Sauce | Kartoffelpüree | Karotten | Broccoli | Rosenkohl",
      "klasse": [
       "Fleisch"
      ],
@@ -55,10 +55,10 @@
     {
      "zeit": "Mittagessen",
      "linie": "green daily",
-     "menue": "Mapo Tofu",
-     "beschreibung": "Sojasauce | Miso | Gerste | Karotten | Sellerie | Chili | Parfumreis",
+     "menue": "Cottage Rösti Sunrise",
+     "beschreibung": "Gemüserösti | Hüttenkäse | Spiegelei | Schnittlauch",
      "klasse": [
-      "Vegan"
+      "Vegetarisch"
      ],
      "preise": [
       {
@@ -144,34 +144,32 @@
     },
     {
      "zeit": "Mittagessen",
-     "linie": "pasta classica",
-     "menue": "Fusilli alla bolognese",
-     "beschreibung": "Rindshackfleisch | Tomatensauce | Reibkäse | Salat oder Lemonade",
-     "klasse": [
-      "Fleisch"
-     ],
+     "linie": "pasta classica vegi",
+     "menue": "Penne al Gorgonzola",
+     "beschreibung": "Reibkäse | Salat oder Lemonade",
+     "klasse": [],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 8.5
+       "preis": 7.0
       },
       {
        "gruppe": "Interne",
-       "preis": 12.5
+       "preis": 11.5
       },
       {
        "gruppe": "Extern",
-       "preis": 15.5
+       "preis": 14.5
       }
      ]
     },
     {
      "zeit": "Mittagessen",
      "linie": "pasta della nonna",
-     "menue": "Bangkok Beef Noodles",
-     "beschreibung": "Rindfleisch | Kabis | Karotten | Sojasauce | Mungobohnensprossen | gerösteter Sesam | Koriander",
+     "menue": "Rigatoni ai Funghi Porcini",
+     "beschreibung": "Steinpilze | alternative Rahmsauce | Basilikum | Vegane Reibkäse | Salat oder Lemonade",
      "klasse": [
-      "Fleisch"
+      "Vegan"
      ],
      "preise": [
       {
@@ -198,8 +196,8 @@
     {
      "zeit": "Mittag",
      "linie": "MEATWORKS",
-     "menue": "Bauernschinken",
-     "beschreibung": "Kartoffelsalat | Senf",
+     "menue": "Rind-Lamm Balls",
+     "beschreibung": "Lyoner Kartoffeln | Grillgemüse | Tzatziki-Dip",
      "klasse": [
       "Fleisch"
      ],
@@ -221,8 +219,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGI",
-     "menue": "Kürbis-Risotto",
-     "beschreibung": "Kürbiskernen | Brunnenkresse | Salat oder Homemade-Getränk",
+     "menue": "Schupfnudeln mit Pilzragout",
+     "beschreibung": "Salat oder Homemade-Getränk",
      "klasse": [
       "Vegetarisch"
      ],
@@ -244,8 +242,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGAN",
-     "menue": "Vegane Küstenknusperli",
-     "beschreibung": "Zitronen-Dip | Spinat | Brätler-Kartoffeln",
+     "menue": "Chili sin Carne",
+     "beschreibung": "Baked Sweet Potato | Nachos | Jalapeños | Sourcream",
      "klasse": [
       "Vegan"
      ],
@@ -267,31 +265,31 @@
     {
      "zeit": "Mittag",
      "linie": "SOUL FOOD",
-     "menue": "Rehpfeffer",
-     "beschreibung": "Spätzli | Rotkohl | Maroni",
+     "menue": "Pouletburger",
+     "beschreibung": "Brioche Bun | Raclette-Käse | karamellisierte Zwiebeln | Eisberg | Pommes Frites | Senf-Mayonnaise",
      "klasse": [
       "Fleisch"
      ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 12.5
+       "preis": 11.5
       },
       {
        "gruppe": "Interne",
-       "preis": 15.5
+       "preis": 14.5
       },
       {
        "gruppe": "Extern",
-       "preis": 18.5
+       "preis": 17.5
       }
      ]
     },
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA",
-     "menue": "Crispy Chicken",
-     "beschreibung": "Katsu-Sauce | Jasminreis | Wok-Gemüse",
+     "menue": "Poulet Vindaloo",
+     "beschreibung": "Jasminreis | Asia-Gemüse",
      "klasse": [
       "Fleisch"
      ],
@@ -313,8 +311,8 @@
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA VEGI",
-     "menue": "Süsskartoffeln-Linsen Curry",
-     "beschreibung": "Jasminreis | Wok-Gemüse",
+     "menue": "Bibimbap & Tofu",
+     "beschreibung": "Spiegelei | Babyspinat | Karotten | Rettich | Jasminreis |",
      "klasse": [
       "Vegetarisch"
      ],
