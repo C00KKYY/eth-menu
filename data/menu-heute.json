@@ -1,6 +1,6 @@
 {
- "datum": "2026-11-19",
- "erzeugt": "2026-11-19",
+ "datum": "2026-11-20",
+ "erzeugt": "2026-11-20",
  "mensen": [
   {
    "facility_id": 19,
@@ -11,10 +11,10 @@
     {
      "zeit": "Mittagessen",
      "linie": "fire",
-     "menue": "Oriental Naan",
-     "beschreibung": "Naan Brot | Gurken Raita | Rindshack | Kartoffel Rissolèes | Rotkabis gepickelt",
+     "menue": "Gelbes Thai Curry",
+     "beschreibung": "Crevetten | Gemüse | Jasminreis",
      "klasse": [
-      "Fleisch"
+      "Fisch"
      ],
      "preise": [
       {
@@ -34,31 +34,31 @@
     {
      "zeit": "Mittagessen",
      "linie": "grill",
-     "menue": "Khao Mok Gai",
-     "beschreibung": "Pouletschenkel Steak | Thai Gewürze | Jasminreis | Minze Dip | Gurken",
+     "menue": "Hausgemachtes Schweins Cordon bleu",
+     "beschreibung": "Pommes frites | Karotten | Zitronenschnitz",
      "klasse": [
       "Fleisch"
      ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 11.5
+       "preis": 13.5
       },
       {
        "gruppe": "Interne",
-       "preis": 14.5
+       "preis": 16.5
       },
       {
        "gruppe": "Extern",
-       "preis": 17.5
+       "preis": 19.5
       }
      ]
     },
     {
      "zeit": "Mittagessen",
      "linie": "green daily",
-     "menue": "Seitan Stroganoff",
-     "beschreibung": "Champignons | Peperoni | Paprikasauce | Mandel-Crème fraîche alternative | Polenta",
+     "menue": "Thai Laab",
+     "beschreibung": "Pflanzenhack | Gurken | Zwiebeln | Koriander | Thai Basilikum | Minze | Eisbergsalat | Jasminreis",
      "klasse": [
       "Vegan"
      ],
@@ -123,57 +123,34 @@
     },
     {
      "zeit": "Mittagessen",
-     "linie": "pizza mamma mia",
-     "menue": "Pizza dolce far niente",
-     "beschreibung": "Vorderschinken rustico | Quattrocento | Dörrtomaten | Basilikumpesto | Salat oder Lemonade",
+     "linie": "pasta classica",
+     "menue": "Farfalle al Salmone",
+     "beschreibung": "Lachs-Safransauce | Dill | Gemüsestreifen | Reibkäse | Salat oder Lemonade",
      "klasse": [
-      "Fleisch"
+      "Fisch"
      ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 11.5
+       "preis": 8.5
       },
       {
        "gruppe": "Interne",
-       "preis": 14.5
+       "preis": 12.5
       },
       {
        "gruppe": "Extern",
-       "preis": 17.5
-      }
-     ]
-    },
-    {
-     "zeit": "Mittagessen",
-     "linie": "pasta classica vegi",
-     "menue": "Pasta - Broccoli - Auflauf",
-     "beschreibung": "Pasta | Broccoli | Bechamel | Hartkäse | Salat oder Lemonade",
-     "klasse": [
-      "Vegetarisch"
-     ],
-     "preise": [
-      {
-       "gruppe": "Studierende",
-       "preis": 7.0
-      },
-      {
-       "gruppe": "Interne",
-       "preis": 11.5
-      },
-      {
-       "gruppe": "Extern",
-       "preis": 14.5
+       "preis": 15.5
       }
      ]
     },
     {
      "zeit": "Mittagessen",
      "linie": "pasta della nonna",
-     "menue": "Pad Thai",
-     "beschreibung": "Poulet | Erdnüssen | Mungosprossen | Kräutern",
+     "menue": "Gnocchi Pomodoro",
+     "beschreibung": "Kartoffelgnocchi | Tomaten-Mascarpone Sauce | Erbsen | Rucola | Reibkäse | Salat oder Lemonade",
      "klasse": [
-      "Fleisch"
+      "Vegetarisch"
      ],
      "preise": [
       {
@@ -201,10 +178,11 @@
     {
      "zeit": "Mittag",
      "linie": "MEATWORKS",
-     "menue": "Pouletschenkel-Geschnetzeltes",
-     "beschreibung": "Pilzrahm Sauce | Reis | Erbsen",
+     "menue": "Spaghetti alla puttanesca",
+     "beschreibung": "Thon | Reibkäse | Salat oder Homemade-Getränk",
      "klasse": [
-      "Fleisch"
+      "Fisch",
+      "Pasta"
      ],
      "preise": [
       {
@@ -224,8 +202,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGI",
-     "menue": "Capellini mit Kräuterrahmsauce",
-     "beschreibung": "Tomaten | Basilikum | Salat oder Homemade-Getränk",
+     "menue": "Paniertes Tofu-Schnitzel",
+     "beschreibung": "Granatapfel-Couscous | Miso-Dip | Karotten",
      "klasse": [
       "Vegetarisch"
      ],
@@ -247,8 +225,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGAN",
-     "menue": "Open Shawarma-Plant Based",
-     "beschreibung": "Kebap | Joghurtsauce | Eisberg |  Karotten | Rotkabis | Pommes frites |",
+     "menue": "Erbsen-Protein Geschnetzeltes",
+     "beschreibung": "Paprika-Rahmsauce | Zartweizen | Blumenkohl",
      "klasse": [
       "Vegan"
      ],
@@ -270,31 +248,31 @@
     {
      "zeit": "Mittag",
      "linie": "SOUL FOOD",
-     "menue": "Rindsbraten",
-     "beschreibung": "Bratenjus | Rosmarin-Polenta | Bohnen",
+     "menue": "Pulled Chicken",
+     "beschreibung": "Country Fries | Rucola | Cheddar-Käse | Jalapeño",
      "klasse": [
       "Fleisch"
      ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 12.5
+       "preis": 11.5
       },
       {
        "gruppe": "Interne",
-       "preis": 15.5
+       "preis": 14.5
       },
       {
        "gruppe": "Extern",
-       "preis": 18.5
+       "preis": 17.5
       }
      ]
     },
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA",
-     "menue": "Pork-Red Thai",
-     "beschreibung": "Jasminreis | Asia Gemüse",
+     "menue": "Truten-Pad Thai",
+     "beschreibung": "Jasminreis | Wok Gemüse",
      "klasse": [
       "Fleisch"
      ],
@@ -316,8 +294,8 @@
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA VEGI",
-     "menue": "Fried Noodles & Samosa",
-     "beschreibung": "Asia Gemüse",
+     "menue": "Chana Masala",
+     "beschreibung": "Jasminreis | Wok Gemüse",
      "klasse": [
       "Vegetarisch"
      ],

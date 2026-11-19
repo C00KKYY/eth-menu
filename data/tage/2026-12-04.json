@@ -1,0 +1,445 @@
+{
+ "datum": "2026-12-04",
+ "erzeugt": "2026-11-20",
+ "mensen": [
+  {
+   "facility_id": 19,
+   "name": "food market (HPR)",
+   "status": "offen",
+   "offen": true,
+   "menues": [
+    {
+     "zeit": "Mittagessen",
+     "linie": "fire",
+     "menue": "Japan Bowl",
+     "beschreibung": "Suketoudara Fisch | Soja-Chili Sauce | Sushi Reis | Edamame | Gurken | Furrikake | Sesam | Nori | Frühlingsz..",
+     "klasse": [
+      "Fisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 8.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 12.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 15.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittagessen",
+     "linie": "grill",
+     "menue": "Beef Calvados",
+     "beschreibung": "Rindfleisch | Calvadossauce | Nudeln | Gerösteter Rosenkohl | Silberzwiebeln | Croutons",
+     "klasse": [
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 10.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 13.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 16.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittagessen",
+     "linie": "green daily",
+     "menue": "Spätzlipfanne mit Spiegelei",
+     "beschreibung": "Spätzli | Pilze | Wurzelgemüse | Mangold | Krautstiel | Bergkäse | Petersilie",
+     "klasse": [],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 7.0
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 11.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 14.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittagessen",
+     "linie": "green delight",
+     "menue": "Choose 5",
+     "beschreibung": "Wähle 5 Komponenten heiss oder kalt",
+     "klasse": [],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 9.9
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 13.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 16.9
+      }
+     ]
+    },
+    {
+     "zeit": "Mittagessen",
+     "linie": "pizza classica",
+     "menue": "Pizza Margherita",
+     "beschreibung": "Salat oder Lemonade",
+     "klasse": [
+      "Vegetarisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 7.0
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 11.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 14.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittagessen",
+     "linie": "pasta classica vegi",
+     "menue": "G`hacktes mit Hörnli",
+     "beschreibung": "Pflanzenhack | Reibkäse | Apfelmus | Salat oder Lemonade",
+     "klasse": [
+      "Vegan"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 7.0
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 11.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 14.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittagessen",
+     "linie": "pasta della nonna",
+     "menue": "Farfalle alla bufala",
+     "beschreibung": "Tomatensugo |  Büffel Mozzarella | Basilikumpesto | Rucola | Salat oder Lemonade",
+     "klasse": [],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 9.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 13.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 16.5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facility_id": 20,
+   "name": "FUSION meal (HCI)",
+   "status": "unbekannt",
+   "offen": false,
+   "menues": []
+  },
+  {
+   "facility_id": 14,
+   "name": "Alumni quattro Lounge (HIL)",
+   "status": "offen",
+   "offen": true,
+   "menues": [
+    {
+     "zeit": "Mittagessen",
+     "linie": "Classic Pot",
+     "menue": "G`hacktes mit Hörnli",
+     "beschreibung": "Rindsgehacktes | Hörnli | Apfelmus | Extrahartkäse",
+     "klasse": [
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 8.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 10.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 14.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittagessen",
+     "linie": "Classic Pot Vegan",
+     "menue": "G`hacktes mit Hörnli vegan",
+     "beschreibung": "Sojagehacktes | Hörnli | Apfelmus | veganer Käse",
+     "klasse": [
+      "Vegan"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 8.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 10.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 14.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittagessen",
+     "linie": "World Pot",
+     "menue": "Älpler Maccaroni",
+     "beschreibung": "Rahmsauce | Speck | Kartoffelwürfel",
+     "klasse": [
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 9.9
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 11.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 15.9
+      }
+     ]
+    },
+    {
+     "zeit": "Abendessen",
+     "linie": "Classic Pot Abend",
+     "menue": "G`hacktes mit Hörnli",
+     "beschreibung": "Rindsgehacktes | Hörnli | Apfelmus | Extrahartkäse",
+     "klasse": [
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 8.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 10.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 14.5
+      }
+     ]
+    },
+    {
+     "zeit": "Abendessen",
+     "linie": "Classic Vegan Abend",
+     "menue": "G`hacktes mit Hörnli vegan",
+     "beschreibung": "Sojagehacktes | Hörnli | Apfelmus | veganer Käse",
+     "klasse": [
+      "Vegan"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 8.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 10.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 14.5
+      }
+     ]
+    },
+    {
+     "zeit": "Abendessen",
+     "linie": "World Pot Abend",
+     "menue": "Älpler Maccaroni",
+     "beschreibung": "Rahmsauce | Speck | Kartoffelwürfel",
+     "klasse": [
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 9.9
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 11.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 15.9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "facility_id": 22,
+   "name": "Rice Up! (HIT)",
+   "status": "offen",
+   "offen": true,
+   "menues": [
+    {
+     "zeit": "Mittag",
+     "linie": "Rice Up! Bowl",
+     "menue": "Rice Up! Bowl",
+     "beschreibung": "Jasmine Rice | Poulet-Bällchen | Broccoli | Grünes Curry | Asia Krautsalat | Kräutersalat | Saison Topping",
+     "klasse": [
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 8.9
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 13.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 14.9
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "Tofu Cashew Bowl",
+     "menue": "Tofu Cashew Bowl",
+     "beschreibung": "Roter Reis | Marinierter Tofu | Saison Gemüse | Satay Sauce | Asia Krautsalat | Kräutersalat | Saison Topping",
+     "klasse": [
+      "Vegan"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 9.9
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 14.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 15.9
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "Chicken Satay Bowl",
+     "menue": "Chicken Satay Bowl",
+     "beschreibung": "Reisnudeln |Gegrilltes Poulet Satay |Grüne Bohnen |Rotes Curry |Asia Krautsalat |Kräutersalat |Thai Chilli",
+     "klasse": [
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 10.9
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 15.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 16.9
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "Planted Bowl",
+     "menue": "Planted Bowl",
+     "beschreibung": "Salatmischung | Planted Chicken Teriyaki | Sweet Corn | Tamarinden Sauce| Asia Kräutersalat | Erdnüsse",
+     "klasse": [
+      "Vegan"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 10.9
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 15.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 16.9
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "Grilled Shrimps",
+     "menue": "Grilled Shrimps Bowl",
+     "beschreibung": "Jasmine Rice | Grilled Shrimps | Broccoli | rotes Curry | Asia Krautsalat | Kräutersalat | Puffed Rice",
+     "klasse": [
+      "Fisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 11.9
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 16.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 17.9
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
