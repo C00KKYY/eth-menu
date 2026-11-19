@@ -1,16 +1,18 @@
 {
- "datum": "2026-11-18",
+ "datum": "2026-11-19",
+ "erzeugt": "2026-11-19",
  "mensen": [
   {
    "facility_id": 19,
    "name": "food market (HPR)",
+   "status": "offen",
    "offen": true,
    "menues": [
     {
      "zeit": "Mittagessen",
      "linie": "fire",
-     "menue": "Chicken Tikka Masala",
-     "beschreibung": "Poulet Meat Balls | Tomaten | Basmatireis | Zitronenraita mit Sambal",
+     "menue": "Oriental Naan",
+     "beschreibung": "Naan Brot | Gurken Raita | Rindshack | Kartoffel Rissolèes | Rotkabis gepickelt",
      "klasse": [
       "Fleisch"
      ],
@@ -32,8 +34,8 @@
     {
      "zeit": "Mittagessen",
      "linie": "grill",
-     "menue": "Cheeseburger",
-     "beschreibung": "Rindsburger  | Cheddar | Ketchup | rotes Zwiebelconfit | Bataviasalat | Pommes frites",
+     "menue": "Khao Mok Gai",
+     "beschreibung": "Pouletschenkel Steak | Thai Gewürze | Jasminreis | Minze Dip | Gurken",
      "klasse": [
       "Fleisch"
      ],
@@ -55,8 +57,8 @@
     {
      "zeit": "Mittagessen",
      "linie": "green daily",
-     "menue": "Green Thai Curry",
-     "beschreibung": "Pakora | Wokgemüse | Sojasprossen | Jasminreis | Koriander | Limette",
+     "menue": "Seitan Stroganoff",
+     "beschreibung": "Champignons | Peperoni | Paprikasauce | Mandel-Crème fraîche alternative | Polenta",
      "klasse": [
       "Vegan"
      ],
@@ -144,33 +146,35 @@
     },
     {
      "zeit": "Mittagessen",
-     "linie": "pasta classica",
-     "menue": "Pasta mit Tomaten und Artischocken",
-     "beschreibung": "Speckrahmsauce | Dörrtomaten | Artischocken | Basilikum Pesto | Reibkäse | Salat oder Lemonade",
+     "linie": "pasta classica vegi",
+     "menue": "Pasta - Broccoli - Auflauf",
+     "beschreibung": "Pasta | Broccoli | Bechamel | Hartkäse | Salat oder Lemonade",
      "klasse": [
-      "Fleisch"
+      "Vegetarisch"
      ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 8.5
+       "preis": 7.0
       },
       {
        "gruppe": "Interne",
-       "preis": 12.5
+       "preis": 11.5
       },
       {
        "gruppe": "Extern",
-       "preis": 15.5
+       "preis": 14.5
       }
      ]
     },
     {
      "zeit": "Mittagessen",
      "linie": "pasta della nonna",
-     "menue": "Tagliatelle Portofino",
-     "beschreibung": "Tomaten Tagliatelle | Tomatenfond | Cherry - Tomaten | Pinienkerne | Basilikumpesto | Salat oder Lemonade",
-     "klasse": [],
+     "menue": "Pad Thai",
+     "beschreibung": "Poulet | Erdnüssen | Mungosprossen | Kräutern",
+     "klasse": [
+      "Fleisch"
+     ],
      "preise": [
       {
        "gruppe": "Studierende",
@@ -191,16 +195,16 @@
   {
    "facility_id": 20,
    "name": "FUSION meal (HCI)",
+   "status": "offen",
    "offen": true,
    "menues": [
     {
      "zeit": "Mittag",
      "linie": "MEATWORKS",
-     "menue": "Älpler Magronen",
-     "beschreibung": "Trutenbrust-Schinken | Salat oder Homemade-Getränk",
+     "menue": "Pouletschenkel-Geschnetzeltes",
+     "beschreibung": "Pilzrahm Sauce | Reis | Erbsen",
      "klasse": [
-      "Fleisch",
-      "Pasta"
+      "Fleisch"
      ],
      "preise": [
       {
@@ -220,8 +224,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGI",
-     "menue": "Gemüseschnitzel",
-     "beschreibung": "Gurken-Raita Dip | Lyoner Kartoffeln | Broccoli",
+     "menue": "Capellini mit Kräuterrahmsauce",
+     "beschreibung": "Tomaten | Basilikum | Salat oder Homemade-Getränk",
      "klasse": [
       "Vegetarisch"
      ],
@@ -243,8 +247,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGAN",
-     "menue": "Crispy Tender Burger",
-     "beschreibung": "Weizen-Soja | Red-Bun | Ketchup | Eisberg | Tomaten | Gurken | Cheddar | Pommes Frites",
+     "menue": "Open Shawarma-Plant Based",
+     "beschreibung": "Kebap | Joghurtsauce | Eisberg |  Karotten | Rotkabis | Pommes frites |",
      "klasse": [
       "Vegan"
      ],
@@ -266,31 +270,31 @@
     {
      "zeit": "Mittag",
      "linie": "SOUL FOOD",
-     "menue": "Saltimbocca & Rosmarin Jus",
-     "beschreibung": "Safran-Risotto | Blumenkohl",
+     "menue": "Rindsbraten",
+     "beschreibung": "Bratenjus | Rosmarin-Polenta | Bohnen",
      "klasse": [
       "Fleisch"
      ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 11.5
+       "preis": 12.5
       },
       {
        "gruppe": "Interne",
-       "preis": 14.5
+       "preis": 15.5
       },
       {
        "gruppe": "Extern",
-       "preis": 17.5
+       "preis": 18.5
       }
      ]
     },
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA",
-     "menue": "Beef-Stir Fry",
-     "beschreibung": "Asia Gemüse | Jasminreis",
+     "menue": "Pork-Red Thai",
+     "beschreibung": "Jasminreis | Asia Gemüse",
      "klasse": [
       "Fleisch"
      ],
@@ -312,8 +316,8 @@
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA VEGI",
-     "menue": "Matter-Paneer Curry",
-     "beschreibung": "Asia Gemüse | Jasminreis",
+     "menue": "Fried Noodles & Samosa",
+     "beschreibung": "Asia Gemüse",
      "klasse": [
       "Vegetarisch"
      ],
@@ -408,6 +412,7 @@
   {
    "facility_id": 14,
    "name": "Alumni quattro Lounge (HIL)",
+   "status": "offen",
    "offen": true,
    "menues": [
     {
@@ -553,6 +558,7 @@
   {
    "facility_id": 22,
    "name": "Rice Up! (HIT)",
+   "status": "offen",
    "offen": true,
    "menues": [
     {

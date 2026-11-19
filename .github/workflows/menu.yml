@@ -1,9 +1,9 @@
 name: ETH Menue holen
 on:
   schedule:
-    # GitHub laesst geplante Laeufe regelmaessig ausfallen (v. a. zur vollen Stunde).
-    # Darum mehrere Versuche zu krummen Minuten, alle vor dem 11:15-Lauf (CET = UTC+1).
-    - cron: "17 5,6,7,8,9 * * 1-5"
+    # GitHub startet geplante Laeufe oft stundenlang verspaetet oder gar nicht.
+    # Unkritisch: jeder Lauf schreibt die Tagesdateien fuer die naechsten 14 Tage.
+    - cron: "17 5,11,17 * * *"
   workflow_dispatch: {}
 permissions:
   contents: write
