@@ -1,0 +1,34 @@
+{
+ "datum": "2026-12-05",
+ "erzeugt": "2026-11-21",
+ "mensen": [
+  {
+   "facility_id": 19,
+   "name": "food market (HPR)",
+   "status": "geschlossen",
+   "offen": false,
+   "menues": []
+  },
+  {
+   "facility_id": 20,
+   "name": "FUSION meal (HCI)",
+   "status": "unbekannt",
+   "offen": false,
+   "menues": []
+  },
+  {
+   "facility_id": 14,
+   "name": "Alumni quattro Lounge (HIL)",
+   "status": "geschlossen",
+   "offen": false,
+   "menues": []
+  },
+  {
+   "facility_id": 22,
+   "name": "Rice Up! (HIT)",
+   "status": "geschlossen",
+   "offen": false,
+   "menues": []
+  }
+ ]
+}
