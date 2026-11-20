@@ -34,23 +34,21 @@
     {
      "zeit": "Mittagessen",
      "linie": "grill",
-     "menue": "Hausgemachtes Schweins Cordon bleu",
-     "beschreibung": "Pommes frites | Karotten | Zitronenschnitz",
-     "klasse": [
-      "Fleisch"
-     ],
+     "menue": "Ausverkauft",
+     "beschreibung": "Dieses Gericht ist bereits ausverkauft",
+     "klasse": [],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 13.5
+       "preis": 0.0
       },
       {
        "gruppe": "Interne",
-       "preis": 16.5
+       "preis": 0.0
       },
       {
        "gruppe": "Extern",
-       "preis": 19.5
+       "preis": 0.0
       }
      ]
     },
@@ -124,7 +122,7 @@
     {
      "zeit": "Mittagessen",
      "linie": "pasta classica",
-     "menue": "Farfalle al Salmone",
+     "menue": "Pasta al Salmone",
      "beschreibung": "Lachs-Safransauce | Dill | Gemüsestreifen | Reibkäse | Salat oder Lemonade",
      "klasse": [
       "Fisch"
@@ -202,7 +200,7 @@
     {
      "zeit": "Mittag",
      "linie": "VEGI",
-     "menue": "Paniertes Tofu-Schnitzel",
+     "menue": "Tofu Steak",
      "beschreibung": "Granatapfel-Couscous | Miso-Dip | Karotten",
      "klasse": [
       "Vegetarisch"
@@ -226,7 +224,7 @@
      "zeit": "Mittag",
      "linie": "VEGAN",
      "menue": "Erbsen-Protein Geschnetzeltes",
-     "beschreibung": "Paprika-Rahmsauce | Zartweizen | Blumenkohl",
+     "beschreibung": "Paprika-Rahmsauce | Bulgur | Blumenkohl",
      "klasse": [
       "Vegan"
      ],
@@ -249,7 +247,7 @@
      "zeit": "Mittag",
      "linie": "SOUL FOOD",
      "menue": "Pulled Chicken",
-     "beschreibung": "Country Fries | Rucola | Cheddar-Käse | Jalapeño",
+     "beschreibung": "Country Fries | Rucola | Cheddar-Käse | Jalapeños",
      "klasse": [
       "Fleisch"
      ],
@@ -294,7 +292,7 @@
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA VEGI",
-     "menue": "Chana Masala",
+     "menue": "Chana Masala (Spicy)",
      "beschreibung": "Jasminreis | Wok Gemüse",
      "klasse": [
       "Vegetarisch"
