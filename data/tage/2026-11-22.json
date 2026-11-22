@@ -1,25 +1,25 @@
 {
  "datum": "2026-11-22",
- "erzeugt": "2026-11-21",
+ "erzeugt": "2026-11-22",
  "mensen": [
   {
    "facility_id": 19,
    "name": "food market (HPR)",
-   "status": "geschlossen",
+   "status": "unbekannt",
    "offen": false,
    "menues": []
   },
   {
    "facility_id": 20,
    "name": "FUSION meal (HCI)",
-   "status": "geschlossen",
+   "status": "unbekannt",
    "offen": false,
    "menues": []
   },
   {
    "facility_id": 14,
    "name": "Alumni quattro Lounge (HIL)",
-   "status": "geschlossen",
+   "status": "unbekannt",
    "offen": false,
    "menues": []
   },
