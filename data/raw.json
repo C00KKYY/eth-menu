@@ -6225,7 +6225,7 @@
           {
            "name": "Classic Pot",
            "meal": {
-            "line-id": 79277,
+            "line-id": 82011,
             "name": "G`hacktes mit Hörnli",
             "description": "Rindsgehacktes | Hörnli | Apfelmus | Extrahartkäse",
             "energy": "573",
@@ -6311,7 +6311,7 @@
           {
            "name": "Classic Pot Vegan",
            "meal": {
-            "line-id": 79278,
+            "line-id": 82012,
             "name": "G`hacktes mit Hörnli vegan",
             "description": "Sojagehacktes | Hörnli | Apfelmus | veganer Käse",
             "energy": "496",
@@ -6381,7 +6381,262 @@
           {
            "name": "World Pot",
            "meal": {
-            "line-id": 79279,
+            "line-id": 82013,
+            "name": "Älpler Maccaroni",
+            "description": "Rahmsauce | Speck | Kartoffelwürfel \n",
+            "energy": "720",
+            "protein": "6.9",
+            "fat": "6.7",
+            "saturated-fatty-acids": "2.4",
+            "carbohydrates": "20",
+            "sugar": "1.8",
+            "salt": "0.50",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 9.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 11.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 15.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "Schwein",
+              "desc": "Schwein",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "energy-outdated": "172"
+           }
+          }
+         ]
+        },
+        {
+         "name": "Abendessen",
+         "time-from": "16:00",
+         "time-to": "20:00",
+         "line-array": [
+          {
+           "name": "Classic Pot Abend",
+           "meal": {
+            "line-id": 82014,
+            "name": "G`hacktes mit Hörnli",
+            "description": "Rindsgehacktes | Hörnli | Apfelmus | Extrahartkäse",
+            "energy": "573",
+            "protein": "6.4",
+            "fat": "4.0",
+            "saturated-fatty-acids": "1.7",
+            "carbohydrates": "18",
+            "sugar": "2.7",
+            "salt": "0.52",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 8.5,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 10.5,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 14.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "Rind",
+              "desc": "Rind",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "energy-outdated": "137"
+           }
+          },
+          {
+           "name": "Classic Vegan Abend",
+           "meal": {
+            "line-id": 82015,
+            "name": "G`hacktes mit Hörnli vegan",
+            "description": "Sojagehacktes | Hörnli | Apfelmus | veganer Käse",
+            "energy": "496",
+            "protein": "4.7",
+            "fat": "1.1",
+            "saturated-fatty-acids": "0.4",
+            "carbohydrates": "21",
+            "sugar": "3.5",
+            "salt": "0.65",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 8.5,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 10.5,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 14.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "Vegan",
+              "desc": "Vegan"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             }
+            ],
+            "energy-outdated": "119"
+           }
+          },
+          {
+           "name": "World Pot Abend",
+           "meal": {
+            "line-id": 82016,
             "name": "Älpler Maccaroni",
             "description": "Rahmsauce | Speck | Kartoffelwürfel \n",
             "energy": "727",
@@ -6471,261 +6726,6 @@
            }
           }
          ]
-        },
-        {
-         "name": "Abendessen",
-         "time-from": "16:00",
-         "time-to": "20:00",
-         "line-array": [
-          {
-           "name": "Classic Pot Abend",
-           "meal": {
-            "line-id": 79280,
-            "name": "G`hacktes mit Hörnli",
-            "description": "Rindsgehacktes | Hörnli | Apfelmus | Extrahartkäse",
-            "energy": "573",
-            "protein": "6.4",
-            "fat": "4.0",
-            "saturated-fatty-acids": "1.7",
-            "carbohydrates": "18",
-            "sugar": "2.7",
-            "salt": "0.52",
-            "price-unit-code": 10,
-            "price-unit-desc": "Portion",
-            "price-unit-desc-short": "Portion",
-            "meal-price-array": [
-             {
-              "price": 8.5,
-              "customer-group-code": 10,
-              "customer-group-position": 10,
-              "customer-group-desc": "Studierende",
-              "customer-group-desc-short": "Stud."
-             },
-             {
-              "price": 10.5,
-              "customer-group-code": 11,
-              "customer-group-position": 11,
-              "customer-group-desc": "Interne",
-              "customer-group-desc-short": "Int."
-             },
-             {
-              "price": 14.5,
-              "customer-group-code": 13,
-              "customer-group-position": 13,
-              "customer-group-desc": "Extern",
-              "customer-group-desc-short": "Ext."
-             }
-            ],
-            "meal-class-array": [
-             {
-              "code": 11,
-              "position": 11,
-              "desc-short": "Fleisch",
-              "desc": "Fleisch"
-             }
-            ],
-            "allergen-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "1",
-              "desc": "Gluten"
-             },
-             {
-              "code": 16,
-              "position": 16,
-              "desc-short": "7",
-              "desc": "Milch, Laktose"
-             },
-             {
-              "code": 18,
-              "position": 18,
-              "desc-short": "9",
-              "desc": "Sellerie"
-             }
-            ],
-            "meat-type-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "Rind",
-              "desc": "Rind",
-              "origin-array": [
-               {
-                "code": 143,
-                "position": 1,
-                "desc-short": "CHE",
-                "desc": "Schweiz"
-               }
-              ]
-             }
-            ],
-            "energy-outdated": "137"
-           }
-          },
-          {
-           "name": "Classic Vegan Abend",
-           "meal": {
-            "line-id": 79281,
-            "name": "G`hacktes mit Hörnli vegan",
-            "description": "Sojagehacktes | Hörnli | Apfelmus | veganer Käse",
-            "energy": "496",
-            "protein": "4.7",
-            "fat": "1.1",
-            "saturated-fatty-acids": "0.4",
-            "carbohydrates": "21",
-            "sugar": "3.5",
-            "salt": "0.65",
-            "price-unit-code": 10,
-            "price-unit-desc": "Portion",
-            "price-unit-desc-short": "Portion",
-            "meal-price-array": [
-             {
-              "price": 8.5,
-              "customer-group-code": 10,
-              "customer-group-position": 10,
-              "customer-group-desc": "Studierende",
-              "customer-group-desc-short": "Stud."
-             },
-             {
-              "price": 10.5,
-              "customer-group-code": 11,
-              "customer-group-position": 11,
-              "customer-group-desc": "Interne",
-              "customer-group-desc-short": "Int."
-             },
-             {
-              "price": 14.5,
-              "customer-group-code": 13,
-              "customer-group-position": 13,
-              "customer-group-desc": "Extern",
-              "customer-group-desc-short": "Ext."
-             }
-            ],
-            "meal-class-array": [
-             {
-              "code": 16,
-              "position": 16,
-              "desc-short": "Vegan",
-              "desc": "Vegan"
-             }
-            ],
-            "allergen-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "1",
-              "desc": "Gluten"
-             },
-             {
-              "code": 15,
-              "position": 15,
-              "desc-short": "6",
-              "desc": "Soja"
-             },
-             {
-              "code": 18,
-              "position": 18,
-              "desc-short": "9",
-              "desc": "Sellerie"
-             }
-            ],
-            "energy-outdated": "119"
-           }
-          },
-          {
-           "name": "World Pot Abend",
-           "meal": {
-            "line-id": 79282,
-            "name": "Älpler Maccaroni",
-            "description": "Rahmsauce | Speck | Kartoffelwürfel \n",
-            "energy": "731",
-            "protein": "6.6",
-            "fat": "6.4",
-            "saturated-fatty-acids": "2.1",
-            "carbohydrates": "22",
-            "sugar": "1.5",
-            "salt": "0.52",
-            "price-unit-code": 10,
-            "price-unit-desc": "Portion",
-            "price-unit-desc-short": "Portion",
-            "meal-price-array": [
-             {
-              "price": 9.9,
-              "customer-group-code": 10,
-              "customer-group-position": 10,
-              "customer-group-desc": "Studierende",
-              "customer-group-desc-short": "Stud."
-             },
-             {
-              "price": 11.9,
-              "customer-group-code": 11,
-              "customer-group-position": 11,
-              "customer-group-desc": "Interne",
-              "customer-group-desc-short": "Int."
-             },
-             {
-              "price": 15.9,
-              "customer-group-code": 13,
-              "customer-group-position": 13,
-              "customer-group-desc": "Extern",
-              "customer-group-desc-short": "Ext."
-             }
-            ],
-            "meal-class-array": [
-             {
-              "code": 11,
-              "position": 11,
-              "desc-short": "Fleisch",
-              "desc": "Fleisch"
-             }
-            ],
-            "allergen-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "1",
-              "desc": "Gluten"
-             },
-             {
-              "code": 12,
-              "position": 12,
-              "desc-short": "3",
-              "desc": "Ei"
-             },
-             {
-              "code": 16,
-              "position": 16,
-              "desc-short": "7",
-              "desc": "Milch, Laktose"
-             },
-             {
-              "code": 21,
-              "position": 21,
-              "desc-short": "12",
-              "desc": "Sulfite"
-             }
-            ],
-            "meat-type-array": [
-             {
-              "code": 12,
-              "position": 12,
-              "desc-short": "Schwein",
-              "desc": "Schwein",
-              "origin-array": [
-               {
-                "code": 143,
-                "position": 1,
-                "desc-short": "CHE",
-                "desc": "Schweiz"
-               }
-              ]
-             }
-            ],
-            "energy-outdated": "175"
-           }
-          }
-         ]
         }
        ]
       }
@@ -6748,7 +6748,7 @@
           {
            "name": "Classic Pot",
            "meal": {
-            "line-id": 79283,
+            "line-id": 82017,
             "name": "G`hacktes mit Hörnli",
             "description": "Rindsgehacktes | Hörnli | Apfelmus | Extrahartkäse",
             "energy": "573",
@@ -6834,7 +6834,7 @@
           {
            "name": "Classic Pot Vegan",
            "meal": {
-            "line-id": 79284,
+            "line-id": 82018,
             "name": "G`hacktes mit Hörnli vegan",
             "description": "Sojagehacktes | Hörnli | Apfelmus | veganer Käse",
             "energy": "496",
@@ -6904,16 +6904,16 @@
           {
            "name": "World Pot",
            "meal": {
-            "line-id": 79285,
+            "line-id": 82019,
             "name": "Älpler Maccaroni",
             "description": "Rahmsauce | Speck | Kartoffelwürfel \n",
-            "energy": "731",
-            "protein": "6.6",
-            "fat": "6.4",
-            "saturated-fatty-acids": "2.1",
-            "carbohydrates": "22",
-            "sugar": "1.5",
-            "salt": "0.52",
+            "energy": "720",
+            "protein": "6.9",
+            "fat": "6.7",
+            "saturated-fatty-acids": "2.4",
+            "carbohydrates": "20",
+            "sugar": "1.8",
+            "salt": "0.50",
             "price-unit-code": 10,
             "price-unit-desc": "Portion",
             "price-unit-desc-short": "Portion",
@@ -6990,7 +6990,7 @@
               ]
              }
             ],
-            "energy-outdated": "174"
+            "energy-outdated": "172"
            }
           }
          ]
@@ -7003,7 +7003,7 @@
           {
            "name": "Classic Pot Abend",
            "meal": {
-            "line-id": 79286,
+            "line-id": 82020,
             "name": "G`hacktes mit Hörnli",
             "description": "Rindsgehacktes | Hörnli | Apfelmus | Extrahartkäse",
             "energy": "573",
@@ -7089,7 +7089,7 @@
           {
            "name": "Classic Vegan Abend",
            "meal": {
-            "line-id": 79287,
+            "line-id": 82021,
             "name": "G`hacktes mit Hörnli vegan",
             "description": "Sojagehacktes | Hörnli | Apfelmus | veganer Käse",
             "energy": "496",
@@ -7159,16 +7159,16 @@
           {
            "name": "World Pot Abend",
            "meal": {
-            "line-id": 79288,
+            "line-id": 82022,
             "name": "Älpler Maccaroni",
             "description": "Rahmsauce | Speck | Kartoffelwürfel \n",
-            "energy": "708",
-            "protein": "7.1",
-            "fat": "6.9",
-            "saturated-fatty-acids": "2.7",
-            "carbohydrates": "19",
-            "sugar": "2.1",
-            "salt": "0.49",
+            "energy": "727",
+            "protein": "6.7",
+            "fat": "6.5",
+            "saturated-fatty-acids": "2.2",
+            "carbohydrates": "21",
+            "sugar": "1.6",
+            "salt": "0.53",
             "price-unit-code": 10,
             "price-unit-desc": "Portion",
             "price-unit-desc-short": "Portion",
@@ -7245,7 +7245,7 @@
               ]
              }
             ],
-            "energy-outdated": "169"
+            "energy-outdated": "174"
            }
           }
          ]
@@ -7271,7 +7271,7 @@
           {
            "name": "Classic Pot",
            "meal": {
-            "line-id": 79289,
+            "line-id": 82023,
             "name": "G`hacktes mit Hörnli",
             "description": "Rindsgehacktes | Hörnli | Apfelmus | Extrahartkäse",
             "energy": "573",
@@ -7357,7 +7357,7 @@
           {
            "name": "Classic Pot Vegan",
            "meal": {
-            "line-id": 79290,
+            "line-id": 82024,
             "name": "G`hacktes mit Hörnli vegan",
             "description": "Sojagehacktes | Hörnli | Apfelmus | veganer Käse",
             "energy": "496",
@@ -7427,16 +7427,271 @@
           {
            "name": "World Pot",
            "meal": {
-            "line-id": 79291,
+            "line-id": 82025,
             "name": "Älpler Maccaroni",
             "description": "Rahmsauce | Speck | Kartoffelwürfel \n",
-            "energy": "730",
-            "protein": "6.7",
-            "fat": "6.4",
-            "saturated-fatty-acids": "2.1",
-            "carbohydrates": "22",
-            "sugar": "1.5",
+            "energy": "720",
+            "protein": "6.9",
+            "fat": "6.7",
+            "saturated-fatty-acids": "2.4",
+            "carbohydrates": "20",
+            "sugar": "1.8",
+            "salt": "0.50",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 9.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 11.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 15.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "Schwein",
+              "desc": "Schwein",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "energy-outdated": "172"
+           }
+          }
+         ]
+        },
+        {
+         "name": "Abendessen",
+         "time-from": "16:00",
+         "time-to": "22:00",
+         "line-array": [
+          {
+           "name": "Classic Pot Abend",
+           "meal": {
+            "line-id": 82026,
+            "name": "G`hacktes mit Hörnli",
+            "description": "Rindsgehacktes | Hörnli | Apfelmus | Extrahartkäse",
+            "energy": "573",
+            "protein": "6.4",
+            "fat": "4.0",
+            "saturated-fatty-acids": "1.7",
+            "carbohydrates": "18",
+            "sugar": "2.7",
             "salt": "0.52",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 8.5,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 10.5,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 14.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "Rind",
+              "desc": "Rind",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "energy-outdated": "137"
+           }
+          },
+          {
+           "name": "Classic Vegan Abend",
+           "meal": {
+            "line-id": 82027,
+            "name": "G`hacktes mit Hörnli vegan",
+            "description": "Sojagehacktes | Hörnli | Apfelmus | veganer Käse",
+            "energy": "496",
+            "protein": "4.7",
+            "fat": "1.1",
+            "saturated-fatty-acids": "0.4",
+            "carbohydrates": "21",
+            "sugar": "3.5",
+            "salt": "0.65",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 8.5,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 10.5,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 14.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "Vegan",
+              "desc": "Vegan"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             }
+            ],
+            "energy-outdated": "119"
+           }
+          },
+          {
+           "name": "World Pot Abend",
+           "meal": {
+            "line-id": 82028,
+            "name": "Älpler Maccaroni",
+            "description": "Rahmsauce | Speck | Kartoffelwürfel \n",
+            "energy": "727",
+            "protein": "6.7",
+            "fat": "6.5",
+            "saturated-fatty-acids": "2.2",
+            "carbohydrates": "21",
+            "sugar": "1.6",
+            "salt": "0.53",
             "price-unit-code": 10,
             "price-unit-desc": "Portion",
             "price-unit-desc-short": "Portion",
@@ -7517,261 +7772,6 @@
            }
           }
          ]
-        },
-        {
-         "name": "Abendessen",
-         "time-from": "16:00",
-         "time-to": "22:00",
-         "line-array": [
-          {
-           "name": "Classic Pot Abend",
-           "meal": {
-            "line-id": 79292,
-            "name": "G`hacktes mit Hörnli",
-            "description": "Rindsgehacktes | Hörnli | Apfelmus | Extrahartkäse",
-            "energy": "573",
-            "protein": "6.4",
-            "fat": "4.0",
-            "saturated-fatty-acids": "1.7",
-            "carbohydrates": "18",
-            "sugar": "2.7",
-            "salt": "0.52",
-            "price-unit-code": 10,
-            "price-unit-desc": "Portion",
-            "price-unit-desc-short": "Portion",
-            "meal-price-array": [
-             {
-              "price": 8.5,
-              "customer-group-code": 10,
-              "customer-group-position": 10,
-              "customer-group-desc": "Studierende",
-              "customer-group-desc-short": "Stud."
-             },
-             {
-              "price": 10.5,
-              "customer-group-code": 11,
-              "customer-group-position": 11,
-              "customer-group-desc": "Interne",
-              "customer-group-desc-short": "Int."
-             },
-             {
-              "price": 14.5,
-              "customer-group-code": 13,
-              "customer-group-position": 13,
-              "customer-group-desc": "Extern",
-              "customer-group-desc-short": "Ext."
-             }
-            ],
-            "meal-class-array": [
-             {
-              "code": 11,
-              "position": 11,
-              "desc-short": "Fleisch",
-              "desc": "Fleisch"
-             }
-            ],
-            "allergen-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "1",
-              "desc": "Gluten"
-             },
-             {
-              "code": 16,
-              "position": 16,
-              "desc-short": "7",
-              "desc": "Milch, Laktose"
-             },
-             {
-              "code": 18,
-              "position": 18,
-              "desc-short": "9",
-              "desc": "Sellerie"
-             }
-            ],
-            "meat-type-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "Rind",
-              "desc": "Rind",
-              "origin-array": [
-               {
-                "code": 143,
-                "position": 1,
-                "desc-short": "CHE",
-                "desc": "Schweiz"
-               }
-              ]
-             }
-            ],
-            "energy-outdated": "137"
-           }
-          },
-          {
-           "name": "Classic Vegan Abend",
-           "meal": {
-            "line-id": 79293,
-            "name": "G`hacktes mit Hörnli vegan",
-            "description": "Sojagehacktes | Hörnli | Apfelmus | veganer Käse",
-            "energy": "496",
-            "protein": "4.7",
-            "fat": "1.1",
-            "saturated-fatty-acids": "0.4",
-            "carbohydrates": "21",
-            "sugar": "3.5",
-            "salt": "0.65",
-            "price-unit-code": 10,
-            "price-unit-desc": "Portion",
-            "price-unit-desc-short": "Portion",
-            "meal-price-array": [
-             {
-              "price": 8.5,
-              "customer-group-code": 10,
-              "customer-group-position": 10,
-              "customer-group-desc": "Studierende",
-              "customer-group-desc-short": "Stud."
-             },
-             {
-              "price": 10.5,
-              "customer-group-code": 11,
-              "customer-group-position": 11,
-              "customer-group-desc": "Interne",
-              "customer-group-desc-short": "Int."
-             },
-             {
-              "price": 14.5,
-              "customer-group-code": 13,
-              "customer-group-position": 13,
-              "customer-group-desc": "Extern",
-              "customer-group-desc-short": "Ext."
-             }
-            ],
-            "meal-class-array": [
-             {
-              "code": 16,
-              "position": 16,
-              "desc-short": "Vegan",
-              "desc": "Vegan"
-             }
-            ],
-            "allergen-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "1",
-              "desc": "Gluten"
-             },
-             {
-              "code": 15,
-              "position": 15,
-              "desc-short": "6",
-              "desc": "Soja"
-             },
-             {
-              "code": 18,
-              "position": 18,
-              "desc-short": "9",
-              "desc": "Sellerie"
-             }
-            ],
-            "energy-outdated": "119"
-           }
-          },
-          {
-           "name": "World Pot Abend",
-           "meal": {
-            "line-id": 79294,
-            "name": "Älpler Maccaroni",
-            "description": "Rahmsauce | Speck | Kartoffelwürfel \n",
-            "energy": "713",
-            "protein": "7.0",
-            "fat": "6.8",
-            "saturated-fatty-acids": "2.6",
-            "carbohydrates": "19",
-            "sugar": "1.9",
-            "salt": "0.52",
-            "price-unit-code": 10,
-            "price-unit-desc": "Portion",
-            "price-unit-desc-short": "Portion",
-            "meal-price-array": [
-             {
-              "price": 9.9,
-              "customer-group-code": 10,
-              "customer-group-position": 10,
-              "customer-group-desc": "Studierende",
-              "customer-group-desc-short": "Stud."
-             },
-             {
-              "price": 11.9,
-              "customer-group-code": 11,
-              "customer-group-position": 11,
-              "customer-group-desc": "Interne",
-              "customer-group-desc-short": "Int."
-             },
-             {
-              "price": 15.9,
-              "customer-group-code": 13,
-              "customer-group-position": 13,
-              "customer-group-desc": "Extern",
-              "customer-group-desc-short": "Ext."
-             }
-            ],
-            "meal-class-array": [
-             {
-              "code": 11,
-              "position": 11,
-              "desc-short": "Fleisch",
-              "desc": "Fleisch"
-             }
-            ],
-            "allergen-array": [
-             {
-              "code": 10,
-              "position": 10,
-              "desc-short": "1",
-              "desc": "Gluten"
-             },
-             {
-              "code": 12,
-              "position": 12,
-              "desc-short": "3",
-              "desc": "Ei"
-             },
-             {
-              "code": 16,
-              "position": 16,
-              "desc-short": "7",
-              "desc": "Milch, Laktose"
-             },
-             {
-              "code": 21,
-              "position": 21,
-              "desc-short": "12",
-              "desc": "Sulfite"
-             }
-            ],
-            "meat-type-array": [
-             {
-              "code": 12,
-              "position": 12,
-              "desc-short": "Schwein",
-              "desc": "Schwein",
-              "origin-array": [
-               {
-                "code": 143,
-                "position": 1,
-                "desc-short": "CHE",
-                "desc": "Schweiz"
-               }
-              ]
-             }
-            ],
-            "energy-outdated": "170"
-           }
-          }
-         ]
         }
        ]
       }
@@ -7794,7 +7794,7 @@
           {
            "name": "Classic Pot",
            "meal": {
-            "line-id": 79295,
+            "line-id": 82029,
             "name": "G`hacktes mit Hörnli",
             "description": "Rindsgehacktes | Hörnli | Apfelmus | Extrahartkäse",
             "energy": "573",
@@ -7880,7 +7880,7 @@
           {
            "name": "Classic Pot Vegan",
            "meal": {
-            "line-id": 79296,
+            "line-id": 82030,
             "name": "G`hacktes mit Hörnli vegan",
             "description": "Sojagehacktes | Hörnli | Apfelmus | veganer Käse",
             "energy": "496",
@@ -7950,16 +7950,16 @@
           {
            "name": "World Pot",
            "meal": {
-            "line-id": 79297,
+            "line-id": 82031,
             "name": "Älpler Maccaroni",
             "description": "Rahmsauce | Speck | Kartoffelwürfel \n",
-            "energy": "725",
-            "protein": "6.8",
-            "fat": "6.6",
-            "saturated-fatty-acids": "2.3",
-            "carbohydrates": "21",
-            "sugar": "1.6",
-            "salt": "0.52",
+            "energy": "720",
+            "protein": "6.9",
+            "fat": "6.7",
+            "saturated-fatty-acids": "2.4",
+            "carbohydrates": "20",
+            "sugar": "1.8",
+            "salt": "0.50",
             "price-unit-code": 10,
             "price-unit-desc": "Portion",
             "price-unit-desc-short": "Portion",
@@ -8036,7 +8036,7 @@
               ]
              }
             ],
-            "energy-outdated": "173"
+            "energy-outdated": "172"
            }
           }
          ]
@@ -8049,16 +8049,16 @@
           {
            "name": "Classic Pot Abend",
            "meal": {
-            "line-id": 79298,
+            "line-id": 82032,
             "name": "G`hacktes mit Hörnli",
             "description": "Rindsgehacktes | Hörnli | Apfelmus | Extrahartkäse",
-            "energy": "575",
+            "energy": "573",
             "protein": "6.4",
             "fat": "4.0",
             "saturated-fatty-acids": "1.7",
             "carbohydrates": "18",
             "sugar": "2.7",
-            "salt": "0.51",
+            "salt": "0.52",
             "price-unit-code": 10,
             "price-unit-desc": "Portion",
             "price-unit-desc-short": "Portion",
@@ -8135,7 +8135,7 @@
           {
            "name": "Classic Vegan Abend",
            "meal": {
-            "line-id": 79299,
+            "line-id": 82033,
             "name": "G`hacktes mit Hörnli vegan",
             "description": "Sojagehacktes | Hörnli | Apfelmus | veganer Käse",
             "energy": "496",
@@ -8205,16 +8205,16 @@
           {
            "name": "World Pot Abend",
            "meal": {
-            "line-id": 79300,
+            "line-id": 82034,
             "name": "Älpler Maccaroni",
             "description": "Rahmsauce | Speck | Kartoffelwürfel \n",
-            "energy": "724",
-            "protein": "6.8",
-            "fat": "6.6",
-            "saturated-fatty-acids": "2.3",
+            "energy": "727",
+            "protein": "6.7",
+            "fat": "6.5",
+            "saturated-fatty-acids": "2.2",
             "carbohydrates": "21",
-            "sugar": "1.7",
-            "salt": "0.54",
+            "sugar": "1.6",
+            "salt": "0.53",
             "price-unit-code": 10,
             "price-unit-desc": "Portion",
             "price-unit-desc-short": "Portion",
@@ -8291,7 +8291,7 @@
               ]
              }
             ],
-            "energy-outdated": "173"
+            "energy-outdated": "174"
            }
           }
          ]
@@ -29383,7 +29383,18 @@
              }
             ],
             "energy-outdated": "160"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 1
+            },
+            {
+             "counter-monitor-no": 2
+            },
+            {
+             "counter-monitor-no": 3
+            }
+           ]
           },
           {
            "name": "grill",
@@ -29433,7 +29444,18 @@
              }
             ],
             "energy-outdated": "144"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 4
+            },
+            {
+             "counter-monitor-no": 5
+            },
+            {
+             "counter-monitor-no": 6
+            }
+           ]
           },
           {
            "name": "green daily",
@@ -29483,7 +29505,15 @@
              }
             ],
             "energy-outdated": "127"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 13
+            },
+            {
+             "counter-monitor-no": 14
+            }
+           ]
           },
           {
            "name": "green delight",
@@ -29525,7 +29555,15 @@
              }
             ],
             "energy-outdated": "0.0"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 13
+            },
+            {
+             "counter-monitor-no": 14
+            }
+           ]
           },
           {
            "name": "pizza classica",
@@ -29595,7 +29633,15 @@
              }
             ],
             "energy-outdated": "206"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 7
+            },
+            {
+             "counter-monitor-no": 8
+            }
+           ]
           },
           {
            "name": "pizza mamma mia",
@@ -29645,7 +29691,15 @@
              }
             ],
             "energy-outdated": "193"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 11
+            },
+            {
+             "counter-monitor-no": 12
+            }
+           ]
           },
           {
            "name": "pasta classica vegi",
@@ -29719,14 +29773,22 @@
              }
             ],
             "energy-outdated": "164"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 10
+            },
+            {
+             "counter-monitor-no": 11
+            }
+           ]
           },
           {
            "name": "pasta della nonna",
            "meal": {
             "line-id": 80071,
             "name": "Udon Tempura Bowl",
-            "description": " Babymais | Okra | Karotten | Bohnen | Udon Nudeln | Wok Gemüse | Pak Choi | Sesamöl",
+            "description": "Babymais | Okra | Karotten | Bohnen | Udon Nudeln | Wok Gemüse | Pak Choi | Sesamöl",
             "energy": "502",
             "protein": "3.3",
             "fat": "3.9",
@@ -29801,7 +29863,15 @@
              }
             ],
             "energy-outdated": "120"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 8
+            },
+            {
+             "counter-monitor-no": 9
+            }
+           ]
           }
          ]
         }
@@ -29913,7 +29983,18 @@
              }
             ],
             "energy-outdated": "90"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 1
+            },
+            {
+             "counter-monitor-no": 2
+            },
+            {
+             "counter-monitor-no": 3
+            }
+           ]
           },
           {
            "name": "grill",
@@ -29995,7 +30076,18 @@
              }
             ],
             "energy-outdated": "122"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 4
+            },
+            {
+             "counter-monitor-no": 5
+            },
+            {
+             "counter-monitor-no": 6
+            }
+           ]
           },
           {
            "name": "green daily",
@@ -30065,7 +30157,15 @@
              }
             ],
             "energy-outdated": "115"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 13
+            },
+            {
+             "counter-monitor-no": 14
+            }
+           ]
           },
           {
            "name": "green delight",
@@ -30107,7 +30207,15 @@
              }
             ],
             "energy-outdated": "0.0"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 13
+            },
+            {
+             "counter-monitor-no": 14
+            }
+           ]
           },
           {
            "name": "pizza classica",
@@ -30177,7 +30285,15 @@
              }
             ],
             "energy-outdated": "180"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 7
+            },
+            {
+             "counter-monitor-no": 8
+            }
+           ]
           },
           {
            "name": "pizza mamma mia",
@@ -30269,13 +30385,21 @@
              }
             ],
             "energy-outdated": "236"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 11
+            },
+            {
+             "counter-monitor-no": 12
+            }
+           ]
           },
           {
            "name": "pasta classica",
            "meal": {
             "line-id": 80078,
-            "name": "Tagliolini verdi al prezzemolo e salsi..",
+            "name": "Tagliolini verdi al prezzemolo e salsi",
             "description": "Salsiccia | Oliven Tapenade | Cherry Tomaten | Zucchetti Würfel | Reibkäse | Salat oder Lemonade",
             "energy": "495",
             "protein": "4.8",
@@ -30375,7 +30499,15 @@
              }
             ],
             "energy-outdated": "118"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 10
+            },
+            {
+             "counter-monitor-no": 11
+            }
+           ]
           },
           {
            "name": "pasta della nonna",
@@ -30461,7 +30593,15 @@
              }
             ],
             "energy-outdated": "125"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 8
+            },
+            {
+             "counter-monitor-no": 9
+            }
+           ]
           }
          ]
         }
@@ -30555,7 +30695,18 @@
              }
             ],
             "energy-outdated": "178"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 1
+            },
+            {
+             "counter-monitor-no": 2
+            },
+            {
+             "counter-monitor-no": 3
+            }
+           ]
           },
           {
            "name": "grill",
@@ -30667,7 +30818,18 @@
              }
             ],
             "energy-outdated": "181"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 4
+            },
+            {
+             "counter-monitor-no": 5
+            },
+            {
+             "counter-monitor-no": 6
+            }
+           ]
           },
           {
            "name": "green daily",
@@ -30743,7 +30905,15 @@
              }
             ],
             "energy-outdated": "171"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 13
+            },
+            {
+             "counter-monitor-no": 14
+            }
+           ]
           },
           {
            "name": "green delight",
@@ -30785,7 +30955,15 @@
              }
             ],
             "energy-outdated": "0.0"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 13
+            },
+            {
+             "counter-monitor-no": 14
+            }
+           ]
           },
           {
            "name": "pizza classica",
@@ -30855,7 +31033,15 @@
              }
             ],
             "energy-outdated": "201"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 7
+            },
+            {
+             "counter-monitor-no": 8
+            }
+           ]
           },
           {
            "name": "pizza mamma mia",
@@ -30947,7 +31133,15 @@
              }
             ],
             "energy-outdated": "236"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 11
+            },
+            {
+             "counter-monitor-no": 12
+            }
+           ]
           },
           {
            "name": "pasta classica vegi",
@@ -31011,7 +31205,15 @@
              }
             ],
             "energy-outdated": "161"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 10
+            },
+            {
+             "counter-monitor-no": 11
+            }
+           ]
           },
           {
            "name": "pasta della nonna",
@@ -31093,7 +31295,15 @@
              }
             ],
             "energy-outdated": "130"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 8
+            },
+            {
+             "counter-monitor-no": 9
+            }
+           ]
           }
          ]
         }
@@ -31187,7 +31397,18 @@
              }
             ],
             "energy-outdated": "82"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 1
+            },
+            {
+             "counter-monitor-no": 2
+            },
+            {
+             "counter-monitor-no": 3
+            }
+           ]
           },
           {
            "name": "grill",
@@ -31279,7 +31500,18 @@
              }
             ],
             "energy-outdated": "151"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 4
+            },
+            {
+             "counter-monitor-no": 5
+            },
+            {
+             "counter-monitor-no": 6
+            }
+           ]
           },
           {
            "name": "green daily",
@@ -31347,7 +31579,15 @@
              }
             ],
             "energy-outdated": "89"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 13
+            },
+            {
+             "counter-monitor-no": 14
+            }
+           ]
           },
           {
            "name": "green delight",
@@ -31389,7 +31629,15 @@
              }
             ],
             "energy-outdated": "0.0"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 13
+            },
+            {
+             "counter-monitor-no": 14
+            }
+           ]
           },
           {
            "name": "pizza classica",
@@ -31459,7 +31707,15 @@
              }
             ],
             "energy-outdated": "204"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 7
+            },
+            {
+             "counter-monitor-no": 8
+            }
+           ]
           },
           {
            "name": "pizza mamma mia",
@@ -31521,7 +31777,15 @@
              }
             ],
             "energy-outdated": "181"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 11
+            },
+            {
+             "counter-monitor-no": 12
+            }
+           ]
           },
           {
            "name": "pasta classica",
@@ -31607,7 +31871,15 @@
              }
             ],
             "energy-outdated": "171"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 10
+            },
+            {
+             "counter-monitor-no": 11
+            }
+           ]
           },
           {
            "name": "pasta della nonna",
@@ -31683,7 +31955,15 @@
              }
             ],
             "energy-outdated": "52"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 8
+            },
+            {
+             "counter-monitor-no": 9
+            }
+           ]
           }
          ]
         }
@@ -31710,7 +31990,7 @@
            "meal": {
             "line-id": 80096,
             "name": "Japan Bowl",
-            "description": "Suketoudara Fisch | Soja-Chili Sauce | Sushi Reis | Edamame | Gurken | Furrikake | Sesam | Nori | Frühlingsz..",
+            "description": "Suketoudara Fisch | Soja-Chili Sauce | Sushi Reis | Edamame | Gurken | Furrikake | Sesam | Nori ",
             "energy": "744",
             "protein": "6.7",
             "fat": "3.7",
@@ -31795,7 +32075,18 @@
              }
             ],
             "energy-outdated": "178"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 1
+            },
+            {
+             "counter-monitor-no": 2
+            },
+            {
+             "counter-monitor-no": 3
+            }
+           ]
           },
           {
            "name": "grill",
@@ -31881,7 +32172,18 @@
              }
             ],
             "energy-outdated": "117"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 4
+            },
+            {
+             "counter-monitor-no": 5
+            },
+            {
+             "counter-monitor-no": 6
+            }
+           ]
           },
           {
            "name": "green daily",
@@ -31949,7 +32251,15 @@
              }
             ],
             "energy-outdated": "151"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 13
+            },
+            {
+             "counter-monitor-no": 14
+            }
+           ]
           },
           {
            "name": "green delight",
@@ -31991,7 +32301,15 @@
              }
             ],
             "energy-outdated": "0.0"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 13
+            },
+            {
+             "counter-monitor-no": 14
+            }
+           ]
           },
           {
            "name": "pizza classica",
@@ -32061,7 +32379,15 @@
              }
             ],
             "energy-outdated": "209"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 7
+            },
+            {
+             "counter-monitor-no": 8
+            }
+           ]
           },
           {
            "name": "pasta classica vegi",
@@ -32131,7 +32457,18 @@
              }
             ],
             "energy-outdated": "137"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 10
+            },
+            {
+             "counter-monitor-no": 11
+            },
+            {
+             "counter-monitor-no": 12
+            }
+           ]
           },
           {
            "name": "pasta della nonna",
@@ -32205,7 +32542,15 @@
              }
             ],
             "energy-outdated": "174"
-           }
+           },
+           "line-counter-monitor-array": [
+            {
+             "counter-monitor-no": 8
+            },
+            {
+             "counter-monitor-no": 9
+            }
+           ]
           }
          ]
         }
