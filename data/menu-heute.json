@@ -35,7 +35,7 @@
      "zeit": "Mittagessen",
      "linie": "grill",
      "menue": "Schnitzeljagd",
-     "beschreibung": "Paniertes Schweineschnitzel | Tartarsauce | Pommes frites | Cole slaw | Onion ring | Zitronenschnitz",
+     "beschreibung": "Paniertes Schweineschnitzel | Ketchup oder Mayo | Pommes frites | Cole slaw | Onion ring | Zitronenschnitz",
      "klasse": [
       "Fleisch"
      ],
@@ -58,7 +58,7 @@
      "zeit": "Mittagessen",
      "linie": "green daily",
      "menue": "Planet Pops",
-     "beschreibung": "Sriracha Mayo | Roter Reis | Kale Salat | Radiesli | Kürbis | Kernen",
+     "beschreibung": "Sriracha Mayo | Roter Reis | Kale Salat | Radiesli | Karotten | Kürbiskernen",
      "klasse": [
       "Vegetarisch"
      ],

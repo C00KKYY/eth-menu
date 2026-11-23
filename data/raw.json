@@ -32699,7 +32699,7 @@
            "meal": {
             "line-id": 80125,
             "name": "Schnitzeljagd",
-            "description": "Paniertes Schweineschnitzel | Tartarsauce | Pommes frites | Cole slaw | Onion ring | Zitronenschnitz",
+            "description": "Paniertes Schweineschnitzel | Ketchup oder Mayo | Pommes frites | Cole slaw | Onion ring | Zitronenschnitz",
             "energy": "739",
             "protein": "7.0",
             "fat": "11",
@@ -32809,7 +32809,7 @@
            "meal": {
             "line-id": 80126,
             "name": "Planet Pops",
-            "description": "Sriracha Mayo | Roter Reis | Kale Salat | Radiesli | Kürbis | Kernen",
+            "description": "Sriracha Mayo | Roter Reis | Kale Salat | Radiesli | Karotten | Kürbiskernen",
             "energy": "784",
             "protein": "6.4",
             "fat": "10",
@@ -60990,7 +60990,7 @@
               "desc": "Sulfite"
              }
             ],
-            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/79015",
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/79296",
             "energy-outdated": "120"
            }
           },
@@ -64629,102 +64629,70 @@
            "name": "GARDEN ABEND",
            "meal": {
             "line-id": 81724,
-            "name": "Beachten sie unser Tagesangebot!",
-            "description": "-",
-            "energy": "156",
-            "protein": "2.9",
-            "fat": "1.9",
-            "saturated-fatty-acids": "0.1",
-            "carbohydrates": "1.8",
-            "sugar": "0.0",
-            "salt": "1.61",
+            "name": "GESCHLOSSEN",
+            "description": "Heuet Abend bleibt die Mensa Geschlossen. Happy Polyball!",
             "price-unit-code": 10,
             "price-unit-desc": "Portion",
             "price-unit-desc-short": "Portion",
             "meal-price-array": [
              {
-              "price": 7.0,
+              "price": 0.0,
               "customer-group-code": 10,
               "customer-group-position": 10,
               "customer-group-desc": "Studierende",
               "customer-group-desc-short": "Stud."
              },
              {
-              "price": 11.5,
+              "price": 0.0,
               "customer-group-code": 11,
               "customer-group-position": 11,
               "customer-group-desc": "Interne",
               "customer-group-desc-short": "Int."
              },
              {
-              "price": 14.5,
+              "price": 0.0,
               "customer-group-code": 13,
               "customer-group-position": 13,
               "customer-group-desc": "Extern",
               "customer-group-desc-short": "Ext."
              }
             ],
-            "meal-class-array": [
-             {
-              "code": 16,
-              "position": 16,
-              "desc-short": "Vegan",
-              "desc": "Vegan"
-             }
-            ],
-            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/79054",
-            "energy-outdated": "37"
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/79054"
            }
           },
           {
            "name": "HOME ABEND",
            "meal": {
             "line-id": 81725,
-            "name": "Beachten sie unser Tagesangebot!",
-            "description": "-",
-            "energy": "178",
-            "protein": "2.9",
-            "fat": "2.5",
-            "saturated-fatty-acids": "0.2",
-            "carbohydrates": "1.8",
-            "sugar": "0.0",
-            "salt": "1.12",
+            "name": "GESCHLOSSEN",
+            "description": "Heuet Abend bleibt die Mensa Geschlossen. Happy Polyball!",
             "price-unit-code": 10,
             "price-unit-desc": "Portion",
             "price-unit-desc-short": "Portion",
             "meal-price-array": [
              {
-              "price": 8.5,
+              "price": 0.0,
               "customer-group-code": 10,
               "customer-group-position": 10,
               "customer-group-desc": "Studierende",
               "customer-group-desc-short": "Stud."
              },
              {
-              "price": 12.5,
+              "price": 0.0,
               "customer-group-code": 11,
               "customer-group-position": 11,
               "customer-group-desc": "Interne",
               "customer-group-desc-short": "Int."
              },
              {
-              "price": 15.5,
+              "price": 0.0,
               "customer-group-code": 13,
               "customer-group-position": 13,
               "customer-group-desc": "Extern",
               "customer-group-desc-short": "Ext."
              }
             ],
-            "meal-class-array": [
-             {
-              "code": 16,
-              "position": 16,
-              "desc-short": "Vegan",
-              "desc": "Vegan"
-             }
-            ],
-            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/79055",
-            "energy-outdated": "42"
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/79055"
            }
           }
          ]
@@ -69329,6 +69297,7 @@
               "desc": "Sulfite"
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/79297",
             "energy-outdated": "68"
            }
           },
@@ -69427,6 +69396,7 @@
               ]
              }
             ],
+            "image-url": "https://idapps.ethz.ch/cookpit-pub-services/v1/images/79298",
             "energy-outdated": "79"
            }
           }
@@ -82603,7 +82573,7 @@
         {
          "name": "Mittag",
          "time-from": "11:15",
-         "time-to": "13:30",
+         "time-to": "14:00",
          "line-array": [
           {
            "name": "STREET",
@@ -82994,6 +82964,48 @@
             ],
             "energy-outdated": "0.0"
            }
+          },
+          {
+           "name": "TAGESSEUPPE",
+           "meal": {
+            "line-id": 82035,
+            "name": "Tagessuppe",
+            "description": "Probieren Sie unsere hausgemachte Tagessuppe!",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 4.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 4.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 5.4,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "Suppe",
+              "desc": "Suppe"
+             }
+            ]
+           }
           }
          ]
         },
@@ -83243,6 +83255,48 @@
             ],
             "energy-outdated": "133"
            }
+          },
+          {
+           "name": "POLY-BOWLS",
+           "meal": {
+            "line-id": 82036,
+            "name": "Poly-Bowls",
+            "description": "Täglich frisch zubereitet – wahlweise mit Fleisch oder vegetarisch. \nFrisch, leicht, lecker!",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 9.5,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 11.5,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 13.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 14,
+              "position": 14,
+              "desc-short": "Salat",
+              "desc": "Salat"
+             }
+            ]
+           }
           }
          ]
         }
@@ -83262,7 +83316,7 @@
         {
          "name": "Mittag",
          "time-from": "11:15",
-         "time-to": "13:30",
+         "time-to": "14:00",
          "line-array": [
           {
            "name": "LOCAL",
@@ -83727,6 +83781,82 @@
             ],
             "energy-outdated": "0.0"
            }
+          },
+          {
+           "name": "TAGESSUPPE",
+           "meal": {
+            "line-id": 82037,
+            "name": "Tagessuppe",
+            "description": "Probieren Sie unsere hausgemachte Tagessuppe!",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 4.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 4.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 5.4,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "Suppe",
+              "desc": "Suppe"
+             }
+            ]
+           }
+          },
+          {
+           "name": "SMOOTHIE",
+           "meal": {
+            "line-id": 82038,
+            "name": "Smoothie - immer Dienstags",
+            "description": "Frisch gemixte Smoothies – erfrischend und voller Vitamine",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 3.0,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 3.0,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 3.0,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ]
+           }
           }
          ]
         },
@@ -84026,6 +84156,48 @@
             ],
             "energy-outdated": "168"
            }
+          },
+          {
+           "name": "POLY-BOWLS",
+           "meal": {
+            "line-id": 82039,
+            "name": "Poly-Bowls",
+            "description": "Täglich frisch zubereitet – wahlweise mit Fleisch oder vegetarisch. \nFrisch, leicht, lecker!",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 9.5,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 11.5,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 13.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 14,
+              "position": 14,
+              "desc-short": "Salat",
+              "desc": "Salat"
+             }
+            ]
+           }
           }
          ]
         }
@@ -84045,7 +84217,7 @@
         {
          "name": "Mittag",
          "time-from": "11:15",
-         "time-to": "13:30",
+         "time-to": "14:00",
          "line-array": [
           {
            "name": "LOCAL",
@@ -84524,6 +84696,48 @@
             ],
             "energy-outdated": "0.0"
            }
+          },
+          {
+           "name": "TAGESSUPPE",
+           "meal": {
+            "line-id": 82040,
+            "name": "Tagessuppe",
+            "description": "Probieren Sie unsere hausgemachte Tagessuppe!",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 4.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 4.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 5.4,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "Suppe",
+              "desc": "Suppe"
+             }
+            ]
+           }
           }
          ]
         },
@@ -84805,6 +85019,48 @@
             ],
             "energy-outdated": "142"
            }
+          },
+          {
+           "name": "POLY-BOWLS",
+           "meal": {
+            "line-id": 82041,
+            "name": "Poly-Bowls",
+            "description": "Täglich frisch zubereitet – wahlweise mit Fleisch oder vegetarisch. \nFrisch, leicht, lecker!",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 9.5,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 11.5,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 13.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 14,
+              "position": 14,
+              "desc-short": "Salat",
+              "desc": "Salat"
+             }
+            ]
+           }
           }
          ]
         }
@@ -84824,7 +85080,7 @@
         {
          "name": "Mittag",
          "time-from": "11:15",
-         "time-to": "13:30",
+         "time-to": "14:00",
          "line-array": [
           {
            "name": "LOCAL",
@@ -85291,6 +85547,48 @@
             ],
             "energy-outdated": "0.0"
            }
+          },
+          {
+           "name": "TAGESSUPPE",
+           "meal": {
+            "line-id": 82042,
+            "name": "Tagessuppe",
+            "description": "Probieren Sie unsere hausgemachte Tagessuppe!",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 4.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 4.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 5.4,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "Suppe",
+              "desc": "Suppe"
+             }
+            ]
+           }
           }
          ]
         },
@@ -85564,6 +85862,48 @@
             ],
             "energy-outdated": "154"
            }
+          },
+          {
+           "name": "POLY-BOWLS",
+           "meal": {
+            "line-id": 82043,
+            "name": "Poly-Bowls",
+            "description": "Täglich frisch zubereitet – wahlweise mit Fleisch oder vegetarisch. \nFrisch, leicht, lecker!",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 9.5,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 11.5,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 13.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 14,
+              "position": 14,
+              "desc-short": "Salat",
+              "desc": "Salat"
+             }
+            ]
+           }
           }
          ]
         }
@@ -85583,7 +85923,7 @@
         {
          "name": "Mittag",
          "time-from": "11:15",
-         "time-to": "13:30",
+         "time-to": "14:00",
          "line-array": [
           {
            "name": "STREET",
@@ -85967,6 +86307,48 @@
              }
             ],
             "energy-outdated": "0.0"
+           }
+          },
+          {
+           "name": "TAGESSUPPE",
+           "meal": {
+            "line-id": 82044,
+            "name": "Tagessuppe",
+            "description": "Probieren Sie unsere hausgemachte Tagessuppe!",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 4.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 4.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 5.4,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "Suppe",
+              "desc": "Suppe"
+             }
+            ]
            }
           }
          ]
