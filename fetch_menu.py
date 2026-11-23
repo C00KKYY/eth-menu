@@ -63,6 +63,10 @@ def meals_for(fid, tag):
                         m = line.get("meal")
                         if not m:
                             continue
+                        # Platzhalter wie "Ausverkauft" (alle Preise 0.00) sind keine Menues
+                        preise = [p.get("price") for p in m.get("meal-price-array", [])]
+                        if "ausverkauft" in (m.get("name") or "").lower() or (preise and not any(preise)):
+                            continue
                         meals.append({
                             "zeit": clean(mt.get("name")), "linie": clean(line.get("name")),
                             "menue": clean(m.get("name")), "beschreibung": clean(m.get("description")),

@@ -1,6 +1,6 @@
 {
  "datum": "2026-11-23",
- "erzeugt": "2026-11-22",
+ "erzeugt": "2026-11-23",
  "mensen": [
   {
    "facility_id": 19,
@@ -204,7 +204,7 @@
      "zeit": "Mittag",
      "linie": "MEATWORKS",
      "menue": "Poulet-Geschnetzeltes Stroganoff",
-     "beschreibung": "Spätzli | Salat oder Homemade-Getränk",
+     "beschreibung": "Pasta | Salat oder Homemade-Getränk",
      "klasse": [
       "Fleisch"
      ],
@@ -227,7 +227,7 @@
      "zeit": "Mittag",
      "linie": "VEGI",
      "menue": "Nuggets",
-     "beschreibung": "Pommes Frites | Salat oder Homemade-Getränk",
+     "beschreibung": "Cocktail Dip | Pommes Frites | Salat oder Homemade-Getränk",
      "klasse": [
       "Vegetarisch"
      ],
@@ -272,7 +272,7 @@
     {
      "zeit": "Mittag",
      "linie": "SOUL FOOD",
-     "menue": "Wildschwein-Spare Ribs",
+     "menue": "Schweins-Spare Ribs",
      "beschreibung": "Orangen-Ingwer | Süsskartoffel-Fries | Herbstgemüse",
      "klasse": [
       "Fleisch"

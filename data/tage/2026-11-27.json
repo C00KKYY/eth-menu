@@ -1,6 +1,6 @@
 {
  "datum": "2026-11-27",
- "erzeugt": "2026-11-22",
+ "erzeugt": "2026-11-23",
  "mensen": [
   {
    "facility_id": 19,
@@ -134,7 +134,7 @@
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 7.0
+       "preis": 5.0
       },
       {
        "gruppe": "Interne",
