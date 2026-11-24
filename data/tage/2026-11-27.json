@@ -127,14 +127,14 @@
      "zeit": "Mittagessen",
      "linie": "pasta classica vegi",
      "menue": "BLACK FRIDAY",
-     "beschreibung": "Käsesauce | Makkaroni | Kartoffeln | Ahornsirup | Apfelmus | Röstzwiebeln | Salat oder Lemonade",
+     "beschreibung": "Käsesauce | Kartoffeln | Ahornsirup | Apfelmus | Röstzwiebeln | Salat oder Lemonade",
      "klasse": [
       "Vegan"
      ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 5.0
+       "preis": 7.0
       },
       {
        "gruppe": "Interne",

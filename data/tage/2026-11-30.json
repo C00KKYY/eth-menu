@@ -34,7 +34,7 @@
     {
      "zeit": "Mittagessen",
      "linie": "grill",
-     "menue": "Catchfree® & Chips",
+     "menue": "Catchfree® Knusperli & Chips",
      "beschreibung": "Kräutermayo | Country cuts | Green Smash",
      "klasse": [
       "Vegan"
@@ -42,15 +42,15 @@
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 9.5
+       "preis": 10.5
       },
       {
        "gruppe": "Interne",
-       "preis": 12.5
+       "preis": 13.5
       },
       {
        "gruppe": "Extern",
-       "preis": 15.5
+       "preis": 16.5
       }
      ]
     },
@@ -58,7 +58,7 @@
      "zeit": "Mittagessen",
      "linie": "green daily",
      "menue": "Gemüse Erdnusscurry",
-     "beschreibung": "Auberginen Broccoli | Blumenkohl | Peperoni | Erdnusssauce | Sesam | Jasminreis | Apfel",
+     "beschreibung": "Auberginen | Broccoli | Blumenkohl | Peperoni | Erdnusssauce | Sesam | Jasminreis | Apfel",
      "klasse": [
       "Vegan"
      ],
@@ -132,15 +132,15 @@
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 9.5
+       "preis": 11.5
       },
       {
        "gruppe": "Interne",
-       "preis": 12.5
+       "preis": 14.5
       },
       {
        "gruppe": "Extern",
-       "preis": 15.5
+       "preis": 17.5
       }
      ]
     },
