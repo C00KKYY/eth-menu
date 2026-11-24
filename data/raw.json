@@ -86475,6 +86475,1954 @@
      "day-of-week-desc-short": "So"
     }
    ]
+  },
+  {
+   "weekly-rota-id": 3814,
+   "facility-id": 3,
+   "valid-from": "2026-11-30",
+   "valid-to": "2026-12-06",
+   "day-of-week-array": [
+    {
+     "day-of-week-code": 1,
+     "day-of-week-desc": "Montag",
+     "day-of-week-desc-short": "Mo",
+     "opening-hour-array": [
+      {
+       "time-from": "11:00",
+       "time-to": "14:00",
+       "meal-time-array": [
+        {
+         "name": "Mittagessen",
+         "time-from": "11:00",
+         "time-to": "14:00",
+         "line-array": [
+          {
+           "name": "WOK STREET",
+           "meal": {
+            "line-id": 82045,
+            "name": "YANG KUNG",
+            "description": "Kalb | Myanmar Currysauce |\nRettich | Kohlrabi | Zucchetti |\nJasminreis\n",
+            "energy": "356",
+            "protein": "6.1",
+            "fat": "2.2",
+            "saturated-fatty-acids": "0.5",
+            "carbohydrates": "11",
+            "sugar": "1.5",
+            "salt": "0.45",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 13.2,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 14.2,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 16.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 19,
+              "position": 19,
+              "desc-short": "10",
+              "desc": "Senf"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Kalb",
+              "desc": "Kalb",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "6.00",
+            "eco-score": {
+             "code": 12,
+             "position": 12,
+             "desc-short": "D-",
+             "desc": "ECO Score D-"
+            },
+            "energy-outdated": "85"
+           }
+          },
+          {
+           "name": "WOK GREEN",
+           "meal": {
+            "line-id": 82046,
+            "name": "MANDALEY",
+            "description": "Tofu |\nMyanmar Currysauce |\nRettich | Kohlrabi | Zucchetti |\nJasminreis\n\n",
+            "energy": "358",
+            "protein": "3.2",
+            "fat": "2.2",
+            "saturated-fatty-acids": "0.3",
+            "carbohydrates": "13",
+            "sugar": "1.7",
+            "salt": "0.38",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 12.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 13.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 15.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "Vegan",
+              "desc": "Vegan"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             }
+            ],
+            "carbon-dioxide-eq": "0.30",
+            "eco-score": {
+             "code": 2,
+             "position": 2,
+             "desc-short": "A",
+             "desc": "ECO Score A"
+            },
+            "energy-outdated": "86"
+           }
+          },
+          {
+           "name": "DELIGHT",
+           "meal": {
+            "line-id": 82047,
+            "name": "JOHOR",
+            "description": "Dorsch Knusperli | Sweet Chilisauce |\nKalter Glasnudelsalat | Gurken | Rote Zwiebeln\n",
+            "energy": "615",
+            "protein": "5.0",
+            "fat": "5.5",
+            "saturated-fatty-acids": "0.5",
+            "carbohydrates": "19",
+            "sugar": "8.4",
+            "salt": "1.32",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 9.2,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 12.2,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 14.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "Fisch",
+              "desc": "Fisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 13,
+              "position": 13,
+              "desc-short": "4",
+              "desc": "Fisch"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 19,
+              "position": 19,
+              "desc-short": "10",
+              "desc": "Senf"
+             },
+             {
+              "code": 20,
+              "position": 20,
+              "desc-short": "11",
+              "desc": "Sesam"
+             }
+            ],
+            "fishing-method-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "Wildfang",
+              "desc": "Wildfang",
+              "origin-array": [
+               {
+                "code": 20,
+                "position": 20,
+                "desc-short": "Atl. NO",
+                "desc": "Atlantik, Nordost"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "1.60",
+            "eco-score": {
+             "code": 10,
+             "position": 10,
+             "desc-short": "D+",
+             "desc": "ECO Score D+"
+            },
+            "energy-outdated": "147"
+           }
+          },
+          {
+           "name": "GARDEN",
+           "meal": {
+            "line-id": 82048,
+            "name": "SAAG PANEER",
+            "description": "Paneer | Spinat  | Zwiebel | Tomaten | Kokosmilch | Pikant | Gewürzreis",
+            "energy": "626",
+            "protein": "7.1",
+            "fat": "7.5",
+            "saturated-fatty-acids": "4.3",
+            "carbohydrates": "13",
+            "sugar": "1.0",
+            "salt": "0.69",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 8.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 11.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 13.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 17,
+              "position": 17,
+              "desc-short": "Vegetarisch",
+              "desc": "Vegetarisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             }
+            ],
+            "carbon-dioxide-eq": "1.10",
+            "eco-score": {
+             "code": 6,
+             "position": 6,
+             "desc-short": "B-",
+             "desc": "ECO Score B-"
+            },
+            "energy-outdated": "150"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day-of-week-code": 2,
+     "day-of-week-desc": "Dienstag",
+     "day-of-week-desc-short": "Di",
+     "opening-hour-array": [
+      {
+       "time-from": "11:00",
+       "time-to": "14:00",
+       "meal-time-array": [
+        {
+         "name": "Mittagessen",
+         "time-from": "11:00",
+         "time-to": "14:00",
+         "line-array": [
+          {
+           "name": "WOK STREET",
+           "meal": {
+            "line-id": 82049,
+            "name": "OSAKA",
+            "description": "Ente | Yuzu-Kokos Sauce |\nZucchetti | Stangensellerie | Karotten |\nJasminreis\n",
+            "energy": "394",
+            "protein": "5.1",
+            "fat": "2.0",
+            "saturated-fatty-acids": "0.3",
+            "carbohydrates": "13",
+            "sugar": "2.7",
+            "salt": "1.55",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 13.2,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 14.2,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 16.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 19,
+              "position": 19,
+              "desc-short": "10",
+              "desc": "Senf"
+             },
+             {
+              "code": 20,
+              "position": 20,
+              "desc-short": "11",
+              "desc": "Sesam"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 17,
+              "position": 17,
+              "desc-short": "Ente",
+              "desc": "Ente",
+              "origin-array": [
+               {
+                "code": 201,
+                "position": 201,
+                "desc-short": "HUN",
+                "desc": "Ungarn"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "2.30",
+            "eco-score": {
+             "code": 11,
+             "position": 11,
+             "desc-short": "D",
+             "desc": "ECO Score D"
+            },
+            "energy-outdated": "94"
+           }
+          },
+          {
+           "name": "WOK GREEN",
+           "meal": {
+            "line-id": 82050,
+            "name": "NAGOYA",
+            "description": "Seitan |\nYuzu-Kokos Sauce |\nZucchetti | Stangensellerie | Karotten |\nJasminreis\n",
+            "energy": "308",
+            "protein": "2.2",
+            "fat": "0.6",
+            "saturated-fatty-acids": "0.1",
+            "carbohydrates": "14",
+            "sugar": "3.1",
+            "salt": "0.88",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 12.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 13.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 15.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "Vegan",
+              "desc": "Vegan"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 19,
+              "position": 19,
+              "desc-short": "10",
+              "desc": "Senf"
+             }
+            ],
+            "carbon-dioxide-eq": "0.40",
+            "eco-score": {
+             "code": 3,
+             "position": 3,
+             "desc-short": "A-",
+             "desc": "ECO Score A-"
+            },
+            "energy-outdated": "74"
+           }
+          },
+          {
+           "name": "DELIGHT",
+           "meal": {
+            "line-id": 82051,
+            "name": "KOREANISCHE BEEF BOWL",
+            "description": "Rindsgehacktes |\nSesamöl | Sriracha | Sojasauce | \nJasminreis | \nPfälzer-Karotten-Gemüse | Ei | Sesam | Cipo..",
+            "energy": "507",
+            "protein": "5.2",
+            "fat": "3.8",
+            "saturated-fatty-acids": "1.2",
+            "carbohydrates": "16",
+            "sugar": "2.3",
+            "salt": "1.29",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 9.2,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 12.2,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 14.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 14,
+              "position": 14,
+              "desc-short": "5",
+              "desc": "Erdnüsse"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             },
+             {
+              "code": 23,
+              "position": 23,
+              "desc-short": "14",
+              "desc": "Weichtiere"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "Rind",
+              "desc": "Rind",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "2.50",
+            "eco-score": {
+             "code": 12,
+             "position": 12,
+             "desc-short": "D-",
+             "desc": "ECO Score D-"
+            },
+            "energy-outdated": "121"
+           }
+          },
+          {
+           "name": "GARDEN",
+           "meal": {
+            "line-id": 82052,
+            "name": "VEGI SPECIAL",
+            "description": "Veganes grünes Thai Curry\nSellerie | Zucchetti | Karotten | Kohlrabi | Bio Tofu \nParfumreis | Samosa\n\n",
+            "energy": "439",
+            "protein": "3.2",
+            "fat": "5.0",
+            "saturated-fatty-acids": "3.5",
+            "carbohydrates": "12",
+            "sugar": "2.0",
+            "salt": "0.59",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 8.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 11.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 13.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "Vegan",
+              "desc": "Vegan"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             }
+            ],
+            "carbon-dioxide-eq": "0.40",
+            "eco-score": {
+             "code": 2,
+             "position": 2,
+             "desc-short": "A",
+             "desc": "ECO Score A"
+            },
+            "energy-outdated": "105"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day-of-week-code": 3,
+     "day-of-week-desc": "Mittwoch",
+     "day-of-week-desc-short": "Mi",
+     "opening-hour-array": [
+      {
+       "time-from": "11:00",
+       "time-to": "14:00",
+       "meal-time-array": [
+        {
+         "name": "Mittagessen",
+         "time-from": "11:00",
+         "time-to": "14:00",
+         "line-array": [
+          {
+           "name": "WOK STREET",
+           "meal": {
+            "line-id": 82053,
+            "name": "MAMUANG",
+            "description": "Rind |\nSoja - Chili - Mango |\nFrühlingslauch | Peperoni | Kabis |\nJasminreis",
+            "energy": "379",
+            "protein": "6.6",
+            "fat": "1.1",
+            "saturated-fatty-acids": "0.3",
+            "carbohydrates": "13",
+            "sugar": "3.2",
+            "salt": "0.97",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 13.2,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 14.2,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 16.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 19,
+              "position": 19,
+              "desc-short": "10",
+              "desc": "Senf"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "Rind",
+              "desc": "Rind",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "5.50",
+            "eco-score": {
+             "code": 11,
+             "position": 11,
+             "desc-short": "D",
+             "desc": "ECO Score D"
+            },
+            "energy-outdated": "91"
+           }
+          },
+          {
+           "name": "WOK GREEN",
+           "meal": {
+            "line-id": 82054,
+            "name": "MAMUANG",
+            "description": "Quorn |\nSoja - Chili - Mango |\nFrühlingslauch | Peperoni | Kabis |\nJasminreis",
+            "energy": "369",
+            "protein": "4.4",
+            "fat": "1.1",
+            "saturated-fatty-acids": "0.2",
+            "carbohydrates": "14",
+            "sugar": "3.5",
+            "salt": "1.16",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 12.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 13.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 15.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 17,
+              "position": 17,
+              "desc-short": "Vegetarisch",
+              "desc": "Vegetarisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 19,
+              "position": 19,
+              "desc-short": "10",
+              "desc": "Senf"
+             }
+            ],
+            "carbon-dioxide-eq": "0.80",
+            "eco-score": {
+             "code": 4,
+             "position": 4,
+             "desc-short": "B+",
+             "desc": "ECO Score B+"
+            },
+            "energy-outdated": "88"
+           }
+          },
+          {
+           "name": "DELIGHT",
+           "meal": {
+            "line-id": 82055,
+            "name": "TIKKA MASALA",
+            "description": "Pouletragout |\nIndisches Curry | Jogurt - Tomatensauce |\nBasmatireis |\nKabis | Senf | Kurkuma | Peperoncini\n",
+            "energy": "533",
+            "protein": "5.3",
+            "fat": "5.2",
+            "saturated-fatty-acids": "2.2",
+            "carbohydrates": "15",
+            "sugar": "2.2",
+            "salt": "0.88",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 9.2,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 12.2,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 14.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 19,
+              "position": 19,
+              "desc-short": "10",
+              "desc": "Senf"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "Huhn",
+              "desc": "Huhn",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "1.20",
+            "eco-score": {
+             "code": 6,
+             "position": 6,
+             "desc-short": "B-",
+             "desc": "ECO Score B-"
+            },
+            "energy-outdated": "127"
+           }
+          },
+          {
+           "name": "GARDEN",
+           "meal": {
+            "line-id": 82056,
+            "name": "GANSU",
+            "description": "Chinesisches Eiergericht |\n5 Fingergewürzen | Tofu | Chili - Essig Sauce |\nParfumreis |\nPak Choi | Sesam\n\n",
+            "energy": "491",
+            "protein": "4.8",
+            "fat": "3.4",
+            "saturated-fatty-acids": "0.7",
+            "carbohydrates": "17",
+            "sugar": "5.7",
+            "salt": "1.43",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 8.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 11.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 13.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 17,
+              "position": 17,
+              "desc-short": "Vegetarisch",
+              "desc": "Vegetarisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 20,
+              "position": 20,
+              "desc-short": "11",
+              "desc": "Sesam"
+             }
+            ],
+            "carbon-dioxide-eq": "1.00",
+            "eco-score": {
+             "code": 5,
+             "position": 5,
+             "desc-short": "B",
+             "desc": "ECO Score B"
+            },
+            "energy-outdated": "117"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day-of-week-code": 4,
+     "day-of-week-desc": "Donnerstag",
+     "day-of-week-desc-short": "Do",
+     "opening-hour-array": [
+      {
+       "time-from": "11:00",
+       "time-to": "14:00",
+       "meal-time-array": [
+        {
+         "name": "Mittagessen",
+         "time-from": "11:00",
+         "time-to": "14:00",
+         "line-array": [
+          {
+           "name": "WOK STREET",
+           "meal": {
+            "line-id": 82057,
+            "name": "GYEONGJU GEM",
+            "description": "Truthahn | Gochujang-Sauce |\nPeperoni | Bohnen | Karotten |\nJasminreis\n",
+            "energy": "362",
+            "protein": "5.2",
+            "fat": "1.8",
+            "saturated-fatty-acids": "0.3",
+            "carbohydrates": "12",
+            "sugar": "1.7",
+            "salt": "0.66",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 13.2,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 14.2,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 16.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 23,
+              "position": 23,
+              "desc-short": "14",
+              "desc": "Weichtiere"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "Truthahn",
+              "desc": "Truthahn",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "0.80",
+            "eco-score": {
+             "code": 5,
+             "position": 5,
+             "desc-short": "B",
+             "desc": "ECO Score B"
+            },
+            "energy-outdated": "86"
+           }
+          },
+          {
+           "name": "WOK GREEN",
+           "meal": {
+            "line-id": 82058,
+            "name": "GYEONGJU GEM",
+            "description": "Okra | Gochujang-Sauce |\nPeperoni | Bohnen | Karotten |\nJasminreis\n\n\n",
+            "energy": "283",
+            "protein": "2.0",
+            "fat": "1.3",
+            "saturated-fatty-acids": "0.1",
+            "carbohydrates": "11",
+            "sugar": "1.3",
+            "salt": "0.54",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 12.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 13.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 15.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "Vegan",
+              "desc": "Vegan"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             }
+            ],
+            "carbon-dioxide-eq": "0.30",
+            "eco-score": {
+             "code": 2,
+             "position": 2,
+             "desc-short": "A",
+             "desc": "ECO Score A"
+            },
+            "energy-outdated": "68"
+           }
+          },
+          {
+           "name": "DELIGHT",
+           "meal": {
+            "line-id": 82059,
+            "name": "TON KATZSU",
+            "description": "Schweinesteak | Panko-Panade | Teriyakisauce |\nKalte Sesam-Asianudeln | Edamame | Eingelegter Rettich\n",
+            "energy": "419",
+            "protein": "4.8",
+            "fat": "3.3",
+            "saturated-fatty-acids": "0.9",
+            "carbohydrates": "12",
+            "sugar": "3.7",
+            "salt": "1.11",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 9.2,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 12.2,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 14.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 20,
+              "position": 20,
+              "desc-short": "11",
+              "desc": "Sesam"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "Schwein",
+              "desc": "Schwein",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "0.80",
+            "eco-score": {
+             "code": 5,
+             "position": 5,
+             "desc-short": "B",
+             "desc": "ECO Score B"
+            },
+            "energy-outdated": "100"
+           }
+          },
+          {
+           "name": "GARDEN",
+           "meal": {
+            "line-id": 82060,
+            "name": "SÜSSKARTOFFEL CURRY",
+            "description": "Thai Nudeln | Chinakohl | Lattich ",
+            "energy": "549",
+            "protein": "3.4",
+            "fat": "5.5",
+            "saturated-fatty-acids": "4.3",
+            "carbohydrates": "17",
+            "sugar": "2.0",
+            "salt": "1.98",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 8.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 11.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 13.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "Vegan",
+              "desc": "Vegan"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 19,
+              "position": 19,
+              "desc-short": "10",
+              "desc": "Senf"
+             }
+            ],
+            "carbon-dioxide-eq": "0.50",
+            "eco-score": {
+             "code": 3,
+             "position": 3,
+             "desc-short": "A-",
+             "desc": "ECO Score A-"
+            },
+            "energy-outdated": "131"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day-of-week-code": 5,
+     "day-of-week-desc": "Freitag",
+     "day-of-week-desc-short": "Fr",
+     "opening-hour-array": [
+      {
+       "time-from": "11:00",
+       "time-to": "14:00",
+       "meal-time-array": [
+        {
+         "name": "Mittagessen",
+         "time-from": "11:00",
+         "time-to": "14:00",
+         "line-array": [
+          {
+           "name": "WOK STREET",
+           "meal": {
+            "line-id": 82061,
+            "name": "UMAMI ALOHA INFUSION",
+            "description": "Poulet | Soja-Ananas Sauce |\nPeperoni | Pfälzer | Karotten |\nJasminreis\n",
+            "energy": "375",
+            "protein": "4.7",
+            "fat": "2.5",
+            "saturated-fatty-acids": "0.1",
+            "carbohydrates": "12",
+            "sugar": "1.6",
+            "salt": "0.80",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 13.2,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 14.2,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 16.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 23,
+              "position": 23,
+              "desc-short": "14",
+              "desc": "Weichtiere"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "Huhn",
+              "desc": "Huhn",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "1.20",
+            "eco-score": {
+             "code": 6,
+             "position": 6,
+             "desc-short": "B-",
+             "desc": "ECO Score B-"
+            },
+            "energy-outdated": "89"
+           }
+          },
+          {
+           "name": "WOK GREEN",
+           "meal": {
+            "line-id": 82062,
+            "name": "PINEAPPLE ZEN",
+            "description": "Planted | Soja-Ananas Sauce |\nPeperoni | Pfälzer | Karotten |\nJasminreis\n\n",
+            "energy": "401",
+            "protein": "5.7",
+            "fat": "2.6",
+            "saturated-fatty-acids": "0.2",
+            "carbohydrates": "11",
+            "sugar": "1.3",
+            "salt": "0.89",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 12.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 13.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 15.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "Vegan",
+              "desc": "Vegan"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             }
+            ],
+            "carbon-dioxide-eq": "0.40",
+            "eco-score": {
+             "code": 3,
+             "position": 3,
+             "desc-short": "A-",
+             "desc": "ECO Score A-"
+            },
+            "energy-outdated": "96"
+           }
+          },
+          {
+           "name": "DELIGHT",
+           "meal": {
+            "line-id": 82063,
+            "name": "WEST NEPALESISCHE THAKALI CURRY",
+            "description": "Truthahn | \nPaprika | Rote Zwiebel | Koriander | Nelken |\nKartoffel l Kabis | Erbsen ",
+            "energy": "436",
+            "protein": "5.4",
+            "fat": "4.9",
+            "saturated-fatty-acids": "0.6",
+            "carbohydrates": "4.1",
+            "sugar": "2.3",
+            "salt": "1.11",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 9.2,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 12.2,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 14.5,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 14,
+              "position": 14,
+              "desc-short": "5",
+              "desc": "Erdnüsse"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 17,
+              "position": 17,
+              "desc-short": "8",
+              "desc": "Schalenfrüchte"
+             },
+             {
+              "code": 19,
+              "position": 19,
+              "desc-short": "10",
+              "desc": "Senf"
+             },
+             {
+              "code": 20,
+              "position": 20,
+              "desc-short": "11",
+              "desc": "Sesam"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "Truthahn",
+              "desc": "Truthahn",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "0.80",
+            "eco-score": {
+             "code": 5,
+             "position": 5,
+             "desc-short": "B",
+             "desc": "ECO Score B"
+            },
+            "energy-outdated": "104"
+           }
+          },
+          {
+           "name": "GARDEN",
+           "meal": {
+            "line-id": 82064,
+            "name": "YAKISOBA",
+            "description": "Gebratene Nudeln - Japan Style\nChinakohl | Zwiebeln | Peperoni | Lauch | Onsen-Ei\n\n",
+            "energy": "543",
+            "protein": "4.7",
+            "fat": "2.1",
+            "saturated-fatty-acids": "0.5",
+            "carbohydrates": "22",
+            "sugar": "4.4",
+            "salt": "1.30",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 8.9,
+              "customer-group-code": 10,
+              "customer-group-position": 10,
+              "customer-group-desc": "Studierende",
+              "customer-group-desc-short": "Stud."
+             },
+             {
+              "price": 11.9,
+              "customer-group-code": 11,
+              "customer-group-position": 11,
+              "customer-group-desc": "Interne",
+              "customer-group-desc-short": "Int."
+             },
+             {
+              "price": 13.9,
+              "customer-group-code": 13,
+              "customer-group-position": 13,
+              "customer-group-desc": "Extern",
+              "customer-group-desc-short": "Ext."
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 13,
+              "position": 13,
+              "desc-short": "4",
+              "desc": "Fisch"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 23,
+              "position": 23,
+              "desc-short": "14",
+              "desc": "Weichtiere"
+             }
+            ],
+            "carbon-dioxide-eq": "0.60",
+            "eco-score": {
+             "code": 5,
+             "position": 5,
+             "desc-short": "B",
+             "desc": "ECO Score B"
+            },
+            "energy-outdated": "130"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day-of-week-code": 6,
+     "day-of-week-desc": "Samstag",
+     "day-of-week-desc-short": "Sa"
+    },
+    {
+     "day-of-week-code": 7,
+     "day-of-week-desc": "Sonntag",
+     "day-of-week-desc-short": "So"
+    }
+   ]
   }
  ]
 }
