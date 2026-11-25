@@ -1,6 +1,6 @@
 {
- "datum": "2026-11-24",
- "erzeugt": "2026-11-24",
+ "datum": "2026-11-25",
+ "erzeugt": "2026-11-25",
  "mensen": [
   {
    "facility_id": 19,
@@ -11,10 +11,9 @@
     {
      "zeit": "Mittagessen",
      "linie": "fire",
-     "menue": "Kutteln  oder Schlemmerfilet Bordelaise",
-     "beschreibung": "Pikante Tomatensauce | Salzkartoffeln | Rahmspinat | Schnittlauch | Salat",
+     "menue": "Truthahn Kung Pao",
+     "beschreibung": "Chilisauce | Frühlingszwiebeln | Chinakohl | Cashew Nüssen | Jasminreis",
      "klasse": [
-      "Fisch",
       "Fleisch"
      ],
      "preise": [
@@ -35,8 +34,8 @@
     {
      "zeit": "Mittagessen",
      "linie": "grill",
-     "menue": "Pad Kra Pao",
-     "beschreibung": "Spiegelei | Poulet Hackfleisch | Thai Basilikum | Bohnen | Sojasauce | Chili | Jasminreis",
+     "menue": "Spicy Beef Burger",
+     "beschreibung": "Rindsburger | Avocado-Tomaten-Mais Salsa | Jalapeno Cheddarsauce | Steak Pommes",
      "klasse": [
       "Fleisch"
      ],
@@ -58,8 +57,8 @@
     {
      "zeit": "Mittagessen",
      "linie": "green daily",
-     "menue": "Sloppy Joe",
-     "beschreibung": "Golden Bun | Plandbased BBQ Hack | Jalapenos | New Roots La Freche | Homemade Fries",
+     "menue": "Gefüllte Aubergine",
+     "beschreibung": "Pfanzenhack | Bulgur | Vegane Käse | Menüsalat",
      "klasse": [
       "Vegan"
      ],
@@ -127,10 +126,54 @@
     {
      "zeit": "Mittagessen",
      "linie": "pizza mamma mia",
-     "menue": "Pizza Bruschetta",
-     "beschreibung": "Tomaten | Mozzarella | Knoblauch | Basilikum | Balsamico Glace | Salat oder Lemonade",
+     "menue": "Pizza Kebab",
+     "beschreibung": "Kebabfleisch | Rote Zwiebeln | Joghurt Dip | Cocktailsauce | Salat oder Lemonade",
      "klasse": [
-      "Vegetarisch"
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 11.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 14.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 17.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittagessen",
+     "linie": "pasta classica vegi",
+     "menue": "Tagliatelle al Gorgonzola e Noci",
+     "beschreibung": "Gorgonzolasauce | Birnen | Baumnüssen | Reibkäse | Salat oder Lemonade",
+     "klasse": [],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 7.0
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 11.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 14.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittagessen",
+     "linie": "pasta della nonna",
+     "menue": "Pasta con Brasato alla Genovese",
+     "beschreibung": "Kalbshackfleisch | Blumenkohl | Cherry Tomaten | Salbei | Basilikum | Reibkäse | Salat oder Lemonade",
+     "klasse": [
+      "Fleisch"
      ],
      "preise": [
       {
@@ -139,57 +182,11 @@
       },
       {
        "gruppe": "Interne",
-       "preis": 13.5
+       "preis": 14.5
       },
       {
        "gruppe": "Extern",
-       "preis": 16.5
-      }
-     ]
-    },
-    {
-     "zeit": "Mittagessen",
-     "linie": "pasta classica",
-     "menue": "G`hacktes mit Hörnli",
-     "beschreibung": "Reibkäse | Apfelmus | Salat",
-     "klasse": [
-      "Fleisch"
-     ],
-     "preise": [
-      {
-       "gruppe": "Studierende",
-       "preis": 8.5
-      },
-      {
-       "gruppe": "Interne",
-       "preis": 12.5
-      },
-      {
-       "gruppe": "Extern",
-       "preis": 15.5
-      }
-     ]
-    },
-    {
-     "zeit": "Mittagessen",
-     "linie": "pasta della nonna",
-     "menue": "Tortelloni Cinque P",
-     "beschreibung": "Tomatenrahmsauce | Petersilie | Reibkäse | Salat oder Lemonade",
-     "klasse": [
-      "Vegetarisch"
-     ],
-     "preise": [
-      {
-       "gruppe": "Studierende",
-       "preis": 9.5
-      },
-      {
-       "gruppe": "Interne",
-       "preis": 13.5
-      },
-      {
-       "gruppe": "Extern",
-       "preis": 16.5
+       "preis": 17.5
       }
      ]
     }
@@ -204,8 +201,8 @@
     {
      "zeit": "Mittag",
      "linie": "MEATWORKS",
-     "menue": "Rinds-Hackbraten",
-     "beschreibung": "Dunkle Biersauce | Kartoffelstock | Bohnen",
+     "menue": "Schweinsbraten mit Rosmarin Jus",
+     "beschreibung": "Bratkartoffeln | Karotten",
      "klasse": [
       "Fleisch"
      ],
@@ -227,8 +224,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGI",
-     "menue": "Griess-Gnocchi mit Cinque Pi Sauce",
-     "beschreibung": "Reibkäse | Salat oder Homemade-Getränk",
+     "menue": "Lasagne alla Verdura",
+     "beschreibung": "Salat oder Homemade-Getränk",
      "klasse": [
       "Vegetarisch"
      ],
@@ -250,8 +247,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGAN",
-     "menue": "Chili sin Carne",
-     "beschreibung": "Limetten-Reis | Jalapeños | Sourcream | Salat oder Homemade-Getränk",
+     "menue": "Pulled-Jackfruit Burger",
+     "beschreibung": "Zwiebel | Apfel-Rotkohlsalat | Essiggurken | Eisbergsalat | Smokey-Mayo | Pommes Frites",
      "klasse": [
       "Vegan"
      ],
@@ -273,31 +270,31 @@
     {
      "zeit": "Mittag",
      "linie": "SOUL FOOD",
-     "menue": "Fusion Beefburger & Cheese",
-     "beschreibung": "Sesam-Bun | Rinds-Patty | Bacon | Cheddarkäse |  Tomaten | Salat | Fusion-Sauce | Country Fries",
+     "menue": "Hirschkalb-Schnitzel",
+     "beschreibung": "Kardamom-Jus | Spätzli | Rotkohl",
      "klasse": [
       "Fleisch"
      ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 11.5
+       "preis": 12.5
       },
       {
        "gruppe": "Interne",
-       "preis": 14.5
+       "preis": 15.5
       },
       {
        "gruppe": "Extern",
-       "preis": 17.5
+       "preis": 18.5
       }
      ]
     },
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA",
-     "menue": "Poulet Madras Curry",
-     "beschreibung": "Jasminreis | Asia-Gemüse",
+     "menue": "Truten-Geschnetzeltes",
+     "beschreibung": "Austernsauce | Jasminreis | Wok-Gemüse",
      "klasse": [
       "Fleisch"
      ],
@@ -319,8 +316,8 @@
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA VEGI",
-     "menue": "Fried Noodles & Springrolls",
-     "beschreibung": "Asia-Gemüse",
+     "menue": "Butter-Linsen Curry",
+     "beschreibung": "Jasminreis | Wok-Gemüse",
      "klasse": [
       "Vegetarisch"
      ],
