@@ -195,9 +195,221 @@
   {
    "facility_id": 20,
    "name": "FUSION meal (HCI)",
-   "status": "unbekannt",
-   "offen": false,
-   "menues": []
+   "status": "offen",
+   "offen": true,
+   "menues": [
+    {
+     "zeit": "Mittag",
+     "linie": "MEATWORKS",
+     "menue": "Rindsvoressen Burgunder Art",
+     "beschreibung": "Spätzli | Karotten",
+     "klasse": [
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 8.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 12.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 15.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "VEGI",
+     "menue": "Ricotta-Spinat Tortellini",
+     "beschreibung": "Pesto Sauce | Reibkäse | Salat oder Homemade-Getränk",
+     "klasse": [
+      "Vegetarisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 7.0
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 11.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 14.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "VEGAN",
+     "menue": "Burrito",
+     "beschreibung": "Pflanzen-Hack | Tex-Mex Gemüse | Guacamole | Wedges-Kartoffeln",
+     "klasse": [
+      "Vegan"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 8.9
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 12.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 16.9
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "SOUL FOOD",
+     "menue": "Texas-Ranch Burger",
+     "beschreibung": "Chicken-Patty | Bacon | Zwiebelringe | Salat | Cheddar-Käse | Wedges | Ranch-Dressing",
+     "klasse": [
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 11.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 14.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 17.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "WORLD OF ASIA",
+     "menue": "Crispy Duck",
+     "beschreibung": "Orangen-Erdnuss Sauce | Jasminreis | Asia Gemüse",
+     "klasse": [
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 10.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 12.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 14.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "WORLD OF ASIA VEGI",
+     "menue": "Fried Noodles mit Gyoza",
+     "beschreibung": "Asia Gemüse",
+     "klasse": [
+      "Vegetarisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 8.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 10.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 12.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "FRESH ISLAND",
+     "menue": "Salat Buffet",
+     "beschreibung": "Frisches Salatangebot mit saisonalen und regionalen Spezialitäten",
+     "klasse": [
+      "Salat",
+      "Vegan",
+      "Vegetarisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 2.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 2.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 3.4
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "POWER KITCHEN",
+     "menue": "Protein Buffet",
+     "beschreibung": "Kreiere Dir Deinen eigenen Protein-Teller Frisch, ausgewogen und sättigend",
+     "klasse": [
+      "Salat",
+      "Vegan",
+      "Vegetarisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 2.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 2.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 3.4
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "GLOBETROTTER",
+     "menue": "Warmes Buffet",
+     "beschreibung": "Alle nationalen und internationalen Klassiker mit saisonalem Gemüse",
+     "klasse": [
+      "Vegetarisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 2.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 2.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 3.4
+      }
+     ]
+    }
+   ]
   },
   {
    "facility_id": 14,

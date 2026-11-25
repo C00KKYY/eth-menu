@@ -193,9 +193,221 @@
   {
    "facility_id": 20,
    "name": "FUSION meal (HCI)",
-   "status": "unbekannt",
-   "offen": false,
-   "menues": []
+   "status": "offen",
+   "offen": true,
+   "menues": [
+    {
+     "zeit": "Mittag",
+     "linie": "MEATWORKS",
+     "menue": "Pouletbrust mit Pankopanade",
+     "beschreibung": "Wedges | Ketchup | Salat oder Homemade-Getränk",
+     "klasse": [
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 8.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 12.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 15.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "VEGI",
+     "menue": "Linguine mit Linsen-Chili",
+     "beschreibung": "Sauerrahm-Dip | Nachos",
+     "klasse": [
+      "Vegetarisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 7.0
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 11.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 14.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "VEGAN",
+     "menue": "Plant-Based Balls",
+     "beschreibung": "Polenta | Erbsen | Kardamom-Jus",
+     "klasse": [
+      "Vegan"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 8.9
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 12.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 16.9
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "SOUL FOOD",
+     "menue": "Loaded Sweet Potato Fries & Pulled Pork",
+     "beschreibung": "Jalapeños | Cheddar-Käse | Rucola",
+     "klasse": [
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 10.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 13.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 16.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "WORLD OF ASIA",
+     "menue": "Nasi Goreng & Chicken",
+     "beschreibung": "Wok-Gemüse",
+     "klasse": [
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 10.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 12.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 14.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "WORLD OF ASIA VEGI",
+     "menue": "Nyonya-Tofu Curry",
+     "beschreibung": "Fried Rice | Wok-Gemüse",
+     "klasse": [
+      "Vegetarisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 8.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 10.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 12.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "FRESH ISLAND",
+     "menue": "Salat Buffet",
+     "beschreibung": "Frisches Salatangebot mit saisonalen und regionalen Spezialitäten",
+     "klasse": [
+      "Salat",
+      "Vegan",
+      "Vegetarisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 2.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 2.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 3.4
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "POWER KITCHEN",
+     "menue": "Protein Buffet",
+     "beschreibung": "Kreiere Dir Deinen eigenen Protein-Teller Frisch, ausgewogen und sättigend",
+     "klasse": [
+      "Salat",
+      "Vegan",
+      "Vegetarisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 2.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 2.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 3.4
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "GLOBETROTTER",
+     "menue": "Warmes Buffet",
+     "beschreibung": "Alle nationalen und internationalen Klassiker mit saisonalem Gemüse",
+     "klasse": [
+      "Vegetarisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 2.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 2.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 3.4
+      }
+     ]
+    }
+   ]
   },
   {
    "facility_id": 14,

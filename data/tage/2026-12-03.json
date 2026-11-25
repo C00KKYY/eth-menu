@@ -191,9 +191,221 @@
   {
    "facility_id": 20,
    "name": "FUSION meal (HCI)",
-   "status": "unbekannt",
-   "offen": false,
-   "menues": []
+   "status": "offen",
+   "offen": true,
+   "menues": [
+    {
+     "zeit": "Mittag",
+     "linie": "MEATWORKS",
+     "menue": "Schweinsgeschnetzeltes an Pilzrahmsauce",
+     "beschreibung": "Pasta | Salat oder Homemade-Getränk",
+     "klasse": [
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 8.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 12.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 15.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "VEGI",
+     "menue": "Marokkanisches Gemüse-Tajine",
+     "beschreibung": "Kichererbsen | Süsskartoffeln | Couscous | Dörrfrüchte",
+     "klasse": [
+      "Vegetarisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 7.0
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 11.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 14.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "VEGAN",
+     "menue": "Winterliches-Wurzelgemüse Gulasch",
+     "beschreibung": "Zimt-Reis | Soja Flocken",
+     "klasse": [
+      "Vegan"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 8.9
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 12.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 16.9
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "SOUL FOOD",
+     "menue": "Big-Mountain Schnitzel",
+     "beschreibung": "Karotten | Pommes Frites | Ketchup",
+     "klasse": [
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 12.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 15.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 18.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "WORLD OF ASIA",
+     "menue": "Panang Beef",
+     "beschreibung": "Jasminreis | Asia Gemüse",
+     "klasse": [
+      "Fleisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 10.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 12.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 14.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "WORLD OF ASIA VEGI",
+     "menue": "Fried Rice mit Samosa",
+     "beschreibung": "Spiegelei",
+     "klasse": [
+      "Vegetarisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 8.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 10.5
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 12.5
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "FRESH ISLAND",
+     "menue": "Salat Buffet",
+     "beschreibung": "Frisches Salatangebot mit saisonalen und regionalen Spezialitäten",
+     "klasse": [
+      "Salat",
+      "Vegan",
+      "Vegetarisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 2.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 2.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 3.4
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "POWER KITCHEN",
+     "menue": "Protein Buffet",
+     "beschreibung": "Kreiere Dir Deinen eigenen Protein-Teller Frisch, ausgewogen und sättigend",
+     "klasse": [
+      "Salat",
+      "Vegan",
+      "Vegetarisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 2.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 2.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 3.4
+      }
+     ]
+    },
+    {
+     "zeit": "Mittag",
+     "linie": "GLOBETROTTER",
+     "menue": "Warmes Buffet",
+     "beschreibung": "Alle nationalen und internationalen Klassiker mit saisonalem Gemüse",
+     "klasse": [
+      "Vegetarisch"
+     ],
+     "preise": [
+      {
+       "gruppe": "Studierende",
+       "preis": 2.5
+      },
+      {
+       "gruppe": "Interne",
+       "preis": 2.9
+      },
+      {
+       "gruppe": "Extern",
+       "preis": 3.4
+      }
+     ]
+    }
+   ]
   },
   {
    "facility_id": 14,
