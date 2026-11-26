@@ -12,7 +12,7 @@
      "zeit": "Mittagessen",
      "linie": "fire",
      "menue": "Kalbsbratwurst",
-     "beschreibung": "Zwiebelsauce | Rösti | Glasierte Karotten",
+     "beschreibung": "Zwiebelsauce | Kartoffeln | Glasierte Karotten",
      "klasse": [
       "Fleisch"
      ],
@@ -125,29 +125,6 @@
     },
     {
      "zeit": "Mittagessen",
-     "linie": "pizza mamma mia",
-     "menue": "Pizza Kebab",
-     "beschreibung": "Kebabfleisch | Rote Zwiebeln | Joghurt Dip | Cocktailsauce | Salat oder Lemonade",
-     "klasse": [
-      "Fleisch"
-     ],
-     "preise": [
-      {
-       "gruppe": "Studierende",
-       "preis": 11.5
-      },
-      {
-       "gruppe": "Interne",
-       "preis": 14.5
-      },
-      {
-       "gruppe": "Extern",
-       "preis": 17.5
-      }
-     ]
-    },
-    {
-     "zeit": "Mittagessen",
      "linie": "pasta classica",
      "menue": "Pasta al Pomodoro e Prosciutto",
      "beschreibung": "Tomatensauce | Schinkenwürfel | Reibkäse | Salat oder Lemonade",
@@ -226,8 +203,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGI",
-     "menue": "Walliser Rösti mit Spiegelei",
-     "beschreibung": "Käse | Tomaten",
+     "menue": "Gemüse-Schnitzel \"Walliser Art\"",
+     "beschreibung": "Käse | Tomaten | Pommes Frites | Salat oder Homemade Getränk",
      "klasse": [
       "Vegetarisch"
      ],
@@ -250,7 +227,7 @@
      "zeit": "Mittag",
      "linie": "VEGAN",
      "menue": "Planted Hacksteak",
-     "beschreibung": "Pilzrahm Sauce | Rosmarin-Polenta | Herbstgemüse |",
+     "beschreibung": "Pilz Sauce | Rosmarin-Polenta | Herbstgemüse",
      "klasse": [
       "Vegan"
      ],
@@ -272,8 +249,8 @@
     {
      "zeit": "Mittag",
      "linie": "SOUL FOOD",
-     "menue": "Überbackenes Hähnchen",
-     "beschreibung": "Enchiladas | Sourcream | Pommes frites",
+     "menue": "Enchiladas",
+     "beschreibung": "gefüllt mit Hähnchen | Gemüse | Tomaten | Sourcream | Pommes frites",
      "klasse": [
       "Fleisch"
      ],
@@ -318,8 +295,8 @@
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA VEGI",
-     "menue": "Fried Rice & Tofu",
-     "beschreibung": "Wasabi-Mayo | Asia-Gemüse | Jasminreis",
+     "menue": "Fried Noodles & Tofu",
+     "beschreibung": "Asia-Gemüse",
      "klasse": [
       "Vegetarisch"
      ],
