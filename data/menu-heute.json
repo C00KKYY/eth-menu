@@ -1,6 +1,6 @@
 {
- "datum": "2026-11-25",
- "erzeugt": "2026-11-25",
+ "datum": "2026-11-26",
+ "erzeugt": "2026-11-26",
  "mensen": [
   {
    "facility_id": 19,
@@ -11,8 +11,8 @@
     {
      "zeit": "Mittagessen",
      "linie": "fire",
-     "menue": "Truthahn Kung Pao",
-     "beschreibung": "Chilisauce | Frühlingszwiebeln | Chinakohl | Cashew Nüssen | Jasminreis",
+     "menue": "Kalbsbratwurst",
+     "beschreibung": "Zwiebelsauce | Rösti | Glasierte Karotten",
      "klasse": [
       "Fleisch"
      ],
@@ -34,8 +34,8 @@
     {
      "zeit": "Mittagessen",
      "linie": "grill",
-     "menue": "Spicy Beef Burger",
-     "beschreibung": "Rindsburger | Avocado-Tomaten-Mais Salsa | Jalapeno Cheddarsauce | Steak Pommes",
+     "menue": "Butter Chicken",
+     "beschreibung": "Poulet | Basmatireis | Wok-Gemüse | Ingwer Gurken Raita mit Koriander",
      "klasse": [
       "Fleisch"
      ],
@@ -57,8 +57,8 @@
     {
      "zeit": "Mittagessen",
      "linie": "green daily",
-     "menue": "Gefüllte Aubergine",
-     "beschreibung": "Pfanzenhack | Bulgur | Vegane Käse | Menüsalat",
+     "menue": "Dal Makhani",
+     "beschreibung": "Belugalinsen | Masala Sauce | Gemüsewürfel | Basmatireis | Joghurt- Dip alternative | Koriander | Naan Brot",
      "klasse": [
       "Vegan"
      ],
@@ -104,7 +104,7 @@
      "zeit": "Mittagessen",
      "linie": "pizza classica",
      "menue": "Pizza Margherita",
-     "beschreibung": "Salat oder Salat oder Lemonade",
+     "beschreibung": "Salat oder Lemonade",
      "klasse": [
       "Vegetarisch"
      ],
@@ -148,30 +148,32 @@
     },
     {
      "zeit": "Mittagessen",
-     "linie": "pasta classica vegi",
-     "menue": "Pasta al Gorgonzola e Noci",
-     "beschreibung": "Gorgonzolasauce | Birnen | Baumnüssen | Reibkäse | Salat oder Lemonade",
-     "klasse": [],
+     "linie": "pasta classica",
+     "menue": "Pasta al Pomodoro e Prosciutto",
+     "beschreibung": "Tomatensauce | Schinkenwürfel | Reibkäse | Salat oder Lemonade",
+     "klasse": [
+      "Fleisch"
+     ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 7.0
+       "preis": 8.5
       },
       {
        "gruppe": "Interne",
-       "preis": 11.5
+       "preis": 12.5
       },
       {
        "gruppe": "Extern",
-       "preis": 14.5
+       "preis": 15.5
       }
      ]
     },
     {
      "zeit": "Mittagessen",
      "linie": "pasta della nonna",
-     "menue": "Farfalle con Brasato alla Genovese",
-     "beschreibung": "Kalbshackfleisch | Blumenkohl | Cherry Tomaten | Salbei | Basilikum | Reibkäse | Salat oder Lemonade",
+     "menue": "Hong Kong Rice aus dem Wok",
+     "beschreibung": "Poulet | Lotuswurzeln | Kefen | Sojasprossen | Maiskölbchen | Sesamöl | Erdnüsse | Spiegelei",
      "klasse": [
       "Fleisch"
      ],
@@ -201,8 +203,8 @@
     {
      "zeit": "Mittag",
      "linie": "MEATWORKS",
-     "menue": "Schweinsschulterbraten mit Rosmarin Jus",
-     "beschreibung": "Bratkartoffeln | Karotten",
+     "menue": "Beef Balls",
+     "beschreibung": "Tomaten-Spaghetti | Salat oder Homemade-Getränk",
      "klasse": [
       "Fleisch"
      ],
@@ -224,8 +226,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGI",
-     "menue": "Lasagne alla Verdura",
-     "beschreibung": "Salat oder Homemade-Getränk",
+     "menue": "Walliser Rösti mit Spiegelei",
+     "beschreibung": "Käse | Tomaten",
      "klasse": [
       "Vegetarisch"
      ],
@@ -247,8 +249,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGAN",
-     "menue": "Pulled-Jackfruit Burger",
-     "beschreibung": "Zwiebel | Apfel-Rotkohlsalat | Essiggurken | Eisbergsalat | Smokey-Mayo | Pommes Frites",
+     "menue": "Planted Hacksteak",
+     "beschreibung": "Pilzrahm Sauce | Rosmarin-Polenta | Herbstgemüse |",
      "klasse": [
       "Vegan"
      ],
@@ -270,31 +272,31 @@
     {
      "zeit": "Mittag",
      "linie": "SOUL FOOD",
-     "menue": "Hirschkalb-Schnitzel",
-     "beschreibung": "Kardamon-Jus | Spätzli | Rotkohl",
+     "menue": "Überbackenes Hähnchen",
+     "beschreibung": "Enchiladas | Sourcream | Pommes frites",
      "klasse": [
       "Fleisch"
      ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 12.5
+       "preis": 11.5
       },
       {
        "gruppe": "Interne",
-       "preis": 15.5
+       "preis": 14.5
       },
       {
        "gruppe": "Extern",
-       "preis": 18.5
+       "preis": 17.5
       }
      ]
     },
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA",
-     "menue": "Truten-Geschnetzeltes",
-     "beschreibung": "Austernsauce | Jasmin- & Roter Reis | Wok-Gemüse",
+     "menue": "Lamm Bhuna",
+     "beschreibung": "Jasminreis | Asia-Gemüse",
      "klasse": [
       "Fleisch"
      ],
@@ -316,8 +318,8 @@
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA VEGI",
-     "menue": "Butter-Linsen Curry",
-     "beschreibung": "Jasmin- & Roter Reis | Wok-Gemüse",
+     "menue": "Fried Rice & Tofu",
+     "beschreibung": "Wasabi-Mayo | Asia-Gemüse | Jasminreis",
      "klasse": [
       "Vegetarisch"
      ],
