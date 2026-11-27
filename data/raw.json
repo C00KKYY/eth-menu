@@ -103417,6 +103417,1341 @@
      "day-of-week-desc-short": "So"
     }
    ]
+  },
+  {
+   "weekly-rota-id": 3830,
+   "facility-id": 5,
+   "valid-from": "2026-12-07",
+   "valid-to": "2026-12-13",
+   "day-of-week-array": [
+    {
+     "day-of-week-code": 1,
+     "day-of-week-desc": "Montag",
+     "day-of-week-desc-short": "Mo",
+     "opening-hour-array": [
+      {
+       "time-from": "09:00",
+       "time-to": "14:30",
+       "meal-time-array": [
+        {
+         "name": "Lunch",
+         "time-from": "11:30",
+         "time-to": "13:30",
+         "line-array": [
+          {
+           "name": "chefs world",
+           "meal": {
+            "line-id": 82480,
+            "name": "Strozzapreti con Gamberi",
+            "description": "Crevetten | Cipolotti | Cherrytomaten",
+            "energy": "140",
+            "protein": "3.4",
+            "fat": "1.0",
+            "saturated-fatty-acids": "0.2",
+            "carbohydrates": "2.8",
+            "sugar": "0.1",
+            "salt": "0.44",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 20.5,
+              "customer-group-code": 14,
+              "customer-group-position": 14,
+              "customer-group-desc": "Alle Besucher",
+              "customer-group-desc-short": "Alle"
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "Fisch",
+              "desc": "Fisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "2",
+              "desc": "Krebstiere"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "fishing-method-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Zucht",
+              "desc": "Zucht",
+              "origin-array": [
+               {
+                "code": 347,
+                "position": 347,
+                "desc-short": "VNM",
+                "desc": "Vietnam"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "1.50",
+            "eco-score": {
+             "code": 8,
+             "position": 8,
+             "desc-short": "C",
+             "desc": "ECO Score C"
+            },
+            "energy-outdated": "34"
+           }
+          },
+          {
+           "name": "Favorite",
+           "meal": {
+            "line-id": 82481,
+            "name": "Schweins-Brust Ribs",
+            "description": "Pfeffersauce | Pommes Duchesse | Kräutertomate | Mischgemüse | pro 100 g",
+            "energy": "692",
+            "protein": "5.9",
+            "fat": "12",
+            "saturated-fatty-acids": "3.4",
+            "carbohydrates": "8.9",
+            "sugar": "1.0",
+            "salt": "0.73",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 3.2,
+              "customer-group-code": 14,
+              "customer-group-position": 14,
+              "customer-group-desc": "Alle Besucher",
+              "customer-group-desc-short": "Alle"
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "Schwein",
+              "desc": "Schwein",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "1.90",
+            "eco-score": {
+             "code": 8,
+             "position": 8,
+             "desc-short": "C",
+             "desc": "ECO Score C"
+            },
+            "energy-outdated": "165"
+           }
+          },
+          {
+           "name": "vitality",
+           "meal": {
+            "line-id": 82482,
+            "name": "Hot Honey Halloumi",
+            "description": "Cajun Süsskartoffeln | Cipollotti | Crispy Chili-Sesamöl | Limetten Jogurt | Minze | Pistazien | Granatapfel ",
+            "energy": "651",
+            "protein": "6.2",
+            "fat": "9.4",
+            "saturated-fatty-acids": "3.8",
+            "carbohydrates": "12",
+            "sugar": "3.2",
+            "salt": "1.01",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 14.9,
+              "customer-group-code": 14,
+              "customer-group-position": 14,
+              "customer-group-desc": "Alle Besucher",
+              "customer-group-desc-short": "Alle"
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 17,
+              "position": 17,
+              "desc-short": "Vegetarisch",
+              "desc": "Vegetarisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 17,
+              "position": 17,
+              "desc-short": "8",
+              "desc": "Schalenfrüchte"
+             },
+             {
+              "code": 20,
+              "position": 20,
+              "desc-short": "11",
+              "desc": "Sesam"
+             }
+            ],
+            "carbon-dioxide-eq": "2.20",
+            "eco-score": {
+             "code": 10,
+             "position": 10,
+             "desc-short": "D+",
+             "desc": "ECO Score D+"
+            },
+            "energy-outdated": "155"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day-of-week-code": 2,
+     "day-of-week-desc": "Dienstag",
+     "day-of-week-desc-short": "Di",
+     "opening-hour-array": [
+      {
+       "time-from": "09:00",
+       "time-to": "14:30",
+       "meal-time-array": [
+        {
+         "name": "Lunch",
+         "time-from": "11:30",
+         "time-to": "13:30",
+         "line-array": [
+          {
+           "name": "chefs world",
+           "meal": {
+            "line-id": 82483,
+            "name": "Rinds-Bäggli",
+            "description": "Rotweinsauce, Bramata-Polenta, geschmorter Kürbis mit Thymian",
+            "energy": "461",
+            "protein": "7.5",
+            "fat": "5.4",
+            "saturated-fatty-acids": "2.0",
+            "carbohydrates": "6.6",
+            "sugar": "0.8",
+            "salt": "1.04",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 21.5,
+              "customer-group-code": 14,
+              "customer-group-position": 14,
+              "customer-group-desc": "Alle Besucher",
+              "customer-group-desc-short": "Alle"
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "Rind",
+              "desc": "Rind",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "4.50",
+            "eco-score": {
+             "code": 11,
+             "position": 11,
+             "desc-short": "D",
+             "desc": "ECO Score D"
+            },
+            "energy-outdated": "110"
+           }
+          },
+          {
+           "name": "Favorite",
+           "meal": {
+            "line-id": 82484,
+            "name": "Gebratener Rotbarsch",
+            "description": "Kräutermarinade | Blattmangold Kartoffeln | Karotten\n\npro 100 gr.",
+            "energy": "320",
+            "protein": "5.5",
+            "fat": "2.7",
+            "saturated-fatty-acids": "0.9",
+            "carbohydrates": "6.6",
+            "sugar": "0.8",
+            "salt": "0.93",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 3.2,
+              "customer-group-code": 14,
+              "customer-group-position": 14,
+              "customer-group-desc": "Alle Besucher",
+              "customer-group-desc-short": "Alle"
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "Fisch",
+              "desc": "Fisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 13,
+              "position": 13,
+              "desc-short": "4",
+              "desc": "Fisch"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "fishing-method-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "Wildfang",
+              "desc": "Wildfang",
+              "origin-array": [
+               {
+                "code": 20,
+                "position": 20,
+                "desc-short": "Atl. NO",
+                "desc": "Atlantik, Nordost"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "2.10",
+            "eco-score": {
+             "code": 10,
+             "position": 10,
+             "desc-short": "D+",
+             "desc": "ECO Score D+"
+            },
+            "energy-outdated": "77"
+           }
+          },
+          {
+           "name": "vitality",
+           "meal": {
+            "line-id": 82485,
+            "name": "Sticky Tempeh",
+            "description": "Erbsen Mais Tempeh | Ebly | Mango | Radiesli | Gurken | Kokosnuss",
+            "energy": "663",
+            "protein": "3.3",
+            "fat": "5.6",
+            "saturated-fatty-acids": "1.8",
+            "carbohydrates": "22",
+            "sugar": "1.1",
+            "salt": "0.71",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 14.9,
+              "customer-group-code": 14,
+              "customer-group-position": 14,
+              "customer-group-desc": "Alle Besucher",
+              "customer-group-desc-short": "Alle"
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "Vegan",
+              "desc": "Vegan"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 20,
+              "position": 20,
+              "desc-short": "11",
+              "desc": "Sesam"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "carbon-dioxide-eq": "0.80",
+            "eco-score": {
+             "code": 5,
+             "position": 5,
+             "desc-short": "B",
+             "desc": "ECO Score B"
+            },
+            "energy-outdated": "158"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day-of-week-code": 3,
+     "day-of-week-desc": "Mittwoch",
+     "day-of-week-desc-short": "Mi",
+     "opening-hour-array": [
+      {
+       "time-from": "09:00",
+       "time-to": "14:30",
+       "meal-time-array": [
+        {
+         "name": "Lunch",
+         "time-from": "11:30",
+         "time-to": "13:30",
+         "line-array": [
+          {
+           "name": "chefs world",
+           "meal": {
+            "line-id": 82486,
+            "name": "Rosa gebratenes Wildschwein-Entrecôte",
+            "description": "Preiselbeer-Rahmsauce, Semmelknödel, Mangold",
+            "energy": "551",
+            "protein": "8.0",
+            "fat": "4.8",
+            "saturated-fatty-acids": "1.6",
+            "carbohydrates": "12",
+            "sugar": "2.8",
+            "salt": "1.11",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 21.0,
+              "customer-group-code": 14,
+              "customer-group-position": 14,
+              "customer-group-desc": "Alle Besucher",
+              "customer-group-desc-short": "Alle"
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 14,
+              "position": 14,
+              "desc-short": "Wild",
+              "desc": "Wild",
+              "origin-array": [
+               {
+                "code": 168,
+                "position": 168,
+                "desc-short": "ESP",
+                "desc": "Spanien"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "2.50",
+            "eco-score": {
+             "code": 11,
+             "position": 11,
+             "desc-short": "D",
+             "desc": "ECO Score D"
+            },
+            "energy-outdated": "132"
+           }
+          },
+          {
+           "name": "Favorite",
+           "meal": {
+            "line-id": 82487,
+            "name": "Truten- Brust- Saltimbocca",
+            "description": "Salbeijus | Hasselback | Herbstgemüse | pro 100gr",
+            "energy": "356",
+            "protein": "9.2",
+            "fat": "2.6",
+            "saturated-fatty-acids": "0.7",
+            "carbohydrates": "5.6",
+            "sugar": "0.9",
+            "salt": "0.94",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 3.2,
+              "customer-group-code": 14,
+              "customer-group-position": 14,
+              "customer-group-desc": "Alle Besucher",
+              "customer-group-desc-short": "Alle"
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "Schwein",
+              "desc": "Schwein",
+              "origin-array": [
+               {
+                "code": 175,
+                "position": 175,
+                "desc-short": "FRA",
+                "desc": "Frankreich"
+               }
+              ]
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "Truthahn",
+              "desc": "Truthahn",
+              "origin-array": [
+               {
+                "code": 175,
+                "position": 175,
+                "desc-short": "FRA",
+                "desc": "Frankreich"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "3.50",
+            "eco-score": {
+             "code": 12,
+             "position": 12,
+             "desc-short": "D-",
+             "desc": "ECO Score D-"
+            },
+            "energy-outdated": "85"
+           }
+          },
+          {
+           "name": "vitality",
+           "meal": {
+            "line-id": 82488,
+            "name": "BBQ Protein Burrito",
+            "description": "Pulled Planted | Cheddar | Karotten | Kabis | Peperoni | Mais | Nachos | Sauerrahm | Salsa | Jalapenos",
+            "energy": "896",
+            "protein": "7.9",
+            "fat": "8.5",
+            "saturated-fatty-acids": "4.2",
+            "carbohydrates": "25",
+            "sugar": "3.0",
+            "salt": "1.20",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 14.9,
+              "customer-group-code": 14,
+              "customer-group-position": 14,
+              "customer-group-desc": "Alle Besucher",
+              "customer-group-desc-short": "Alle"
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 17,
+              "position": 17,
+              "desc-short": "Vegetarisch",
+              "desc": "Vegetarisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 19,
+              "position": 19,
+              "desc-short": "10",
+              "desc": "Senf"
+             },
+             {
+              "code": 20,
+              "position": 20,
+              "desc-short": "11",
+              "desc": "Sesam"
+             }
+            ],
+            "carbon-dioxide-eq": "1.50",
+            "eco-score": {
+             "code": 5,
+             "position": 5,
+             "desc-short": "B",
+             "desc": "ECO Score B"
+            },
+            "energy-outdated": "214"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day-of-week-code": 4,
+     "day-of-week-desc": "Donnerstag",
+     "day-of-week-desc-short": "Do",
+     "opening-hour-array": [
+      {
+       "time-from": "09:00",
+       "time-to": "14:30",
+       "meal-time-array": [
+        {
+         "name": "Lunch",
+         "time-from": "11:30",
+         "time-to": "13:30",
+         "line-array": [
+          {
+           "name": "chefs world",
+           "meal": {
+            "line-id": 82489,
+            "name": "Coq au Vin",
+            "description": "Pappardelle | Speckwürfel | Silberzwiebel | Wurzelgemüse | Champignons ",
+            "energy": "424",
+            "protein": "8.1",
+            "fat": "4.6",
+            "saturated-fatty-acids": "1.1",
+            "carbohydrates": "6.1",
+            "sugar": "1.3",
+            "salt": "0.84",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 21.0,
+              "customer-group-code": 14,
+              "customer-group-position": 14,
+              "customer-group-desc": "Alle Besucher",
+              "customer-group-desc-short": "Alle"
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "Schwein",
+              "desc": "Schwein",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "Huhn",
+              "desc": "Huhn",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "2.70",
+            "eco-score": {
+             "code": 9,
+             "position": 9,
+             "desc-short": "C-",
+             "desc": "ECO Score C-"
+            },
+            "energy-outdated": "101"
+           }
+          },
+          {
+           "name": "Favorite",
+           "meal": {
+            "line-id": 82490,
+            "name": "TIKKA MASALA",
+            "description": "Pouletragout |\nIndisches Curry | Jogurt - Tomatensauce |\nBasmatireis | Kabis | Senf | Kurkuma | Peperoncini ..",
+            "energy": "548",
+            "protein": "5.5",
+            "fat": "5.3",
+            "saturated-fatty-acids": "2.3",
+            "carbohydrates": "15",
+            "sugar": "1.5",
+            "salt": "0.88",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 3.2,
+              "customer-group-code": 14,
+              "customer-group-position": 14,
+              "customer-group-desc": "Alle Besucher",
+              "customer-group-desc-short": "Alle"
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 19,
+              "position": 19,
+              "desc-short": "10",
+              "desc": "Senf"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "Huhn",
+              "desc": "Huhn",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "1.20",
+            "eco-score": {
+             "code": 6,
+             "position": 6,
+             "desc-short": "B-",
+             "desc": "ECO Score B-"
+            },
+            "energy-outdated": "131"
+           }
+          },
+          {
+           "name": "vitality",
+           "meal": {
+            "line-id": 82491,
+            "name": "Harissa Garden",
+            "description": "Ofen Spitzkohl | Gebackener Austernpilz | Aprikosen-Harissa Chutney | Butterbohnen Püree | Dukkah-Crunch | O..",
+            "energy": "310",
+            "protein": "3.8",
+            "fat": "2.7",
+            "saturated-fatty-acids": "0.3",
+            "carbohydrates": "8.1",
+            "sugar": "2.0",
+            "salt": "0.26",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 14.9,
+              "customer-group-code": 14,
+              "customer-group-position": 14,
+              "customer-group-desc": "Alle Besucher",
+              "customer-group-desc-short": "Alle"
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "Vegan",
+              "desc": "Vegan"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 14,
+              "position": 14,
+              "desc-short": "5",
+              "desc": "Erdnüsse"
+             },
+             {
+              "code": 17,
+              "position": 17,
+              "desc-short": "8",
+              "desc": "Schalenfrüchte"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "carbon-dioxide-eq": "0.60",
+            "eco-score": {
+             "code": 3,
+             "position": 3,
+             "desc-short": "A-",
+             "desc": "ECO Score A-"
+            },
+            "energy-outdated": "74"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day-of-week-code": 5,
+     "day-of-week-desc": "Freitag",
+     "day-of-week-desc-short": "Fr",
+     "opening-hour-array": [
+      {
+       "time-from": "09:00",
+       "time-to": "14:30",
+       "meal-time-array": [
+        {
+         "name": "Lunch",
+         "time-from": "11:30",
+         "time-to": "13:30",
+         "line-array": [
+          {
+           "name": "chefs world",
+           "meal": {
+            "line-id": 82492,
+            "name": "Welsfilet",
+            "description": "Glasierte Thymian Karotten | Schnittlauch Kartoffelstampf | Senf-Veloutê",
+            "energy": "361",
+            "protein": "5.9",
+            "fat": "4.2",
+            "saturated-fatty-acids": "1.2",
+            "carbohydrates": "5.5",
+            "sugar": "1.5",
+            "salt": "0.87",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 20.5,
+              "customer-group-code": 14,
+              "customer-group-position": 14,
+              "customer-group-desc": "Alle Besucher",
+              "customer-group-desc-short": "Alle"
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "Fisch",
+              "desc": "Fisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 13,
+              "position": 13,
+              "desc-short": "4",
+              "desc": "Fisch"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             },
+             {
+              "code": 19,
+              "position": 19,
+              "desc-short": "10",
+              "desc": "Senf"
+             },
+             {
+              "code": 21,
+              "position": 21,
+              "desc-short": "12",
+              "desc": "Sulfite"
+             }
+            ],
+            "fishing-method-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Zucht",
+              "desc": "Zucht",
+              "origin-array": [
+               {
+                "code": 157,
+                "position": 157,
+                "desc-short": "DEU",
+                "desc": "Deutschland"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "3.40",
+            "eco-score": {
+             "code": 11,
+             "position": 11,
+             "desc-short": "D",
+             "desc": "ECO Score D"
+            },
+            "energy-outdated": "86"
+           }
+          },
+          {
+           "name": "Favorite",
+           "meal": {
+            "line-id": 82493,
+            "name": "Pasta con Brasato alla Genovese",
+            "description": "Kalbshackfleisch | Blumenkohl | Cherry Tomaten | Salbei | Basilikum | Reibkäse\n\npro 100 gr.",
+            "energy": "620",
+            "protein": "7.4",
+            "fat": "4.6",
+            "saturated-fatty-acids": "1.1",
+            "carbohydrates": "18",
+            "sugar": "0.6",
+            "salt": "0.64",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 3.2,
+              "customer-group-code": 14,
+              "customer-group-position": 14,
+              "customer-group-desc": "Alle Besucher",
+              "customer-group-desc-short": "Alle"
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Fleisch",
+              "desc": "Fleisch"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 12,
+              "position": 12,
+              "desc-short": "3",
+              "desc": "Ei"
+             },
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "7",
+              "desc": "Milch, Laktose"
+             }
+            ],
+            "meat-type-array": [
+             {
+              "code": 11,
+              "position": 11,
+              "desc-short": "Kalb",
+              "desc": "Kalb",
+              "origin-array": [
+               {
+                "code": 143,
+                "position": 1,
+                "desc-short": "CHE",
+                "desc": "Schweiz"
+               }
+              ]
+             }
+            ],
+            "carbon-dioxide-eq": "1.30",
+            "eco-score": {
+             "code": 7,
+             "position": 7,
+             "desc-short": "C+",
+             "desc": "ECO Score C+"
+            },
+            "energy-outdated": "148"
+           }
+          },
+          {
+           "name": "vitality",
+           "meal": {
+            "line-id": 82494,
+            "name": "SÜSSKARTOFFEL CURRY",
+            "description": "Thai Nudeln | Chinakohl | Lattich ",
+            "energy": "565",
+            "protein": "3.5",
+            "fat": "5.8",
+            "saturated-fatty-acids": "4.6",
+            "carbohydrates": "17",
+            "sugar": "1.9",
+            "salt": "1.97",
+            "price-unit-code": 10,
+            "price-unit-desc": "Portion",
+            "price-unit-desc-short": "Portion",
+            "meal-price-array": [
+             {
+              "price": 14.9,
+              "customer-group-code": 14,
+              "customer-group-position": 14,
+              "customer-group-desc": "Alle Besucher",
+              "customer-group-desc-short": "Alle"
+             }
+            ],
+            "meal-class-array": [
+             {
+              "code": 16,
+              "position": 16,
+              "desc-short": "Vegan",
+              "desc": "Vegan"
+             }
+            ],
+            "allergen-array": [
+             {
+              "code": 10,
+              "position": 10,
+              "desc-short": "1",
+              "desc": "Gluten"
+             },
+             {
+              "code": 15,
+              "position": 15,
+              "desc-short": "6",
+              "desc": "Soja"
+             },
+             {
+              "code": 18,
+              "position": 18,
+              "desc-short": "9",
+              "desc": "Sellerie"
+             },
+             {
+              "code": 19,
+              "position": 19,
+              "desc-short": "10",
+              "desc": "Senf"
+             }
+            ],
+            "carbon-dioxide-eq": "0.50",
+            "eco-score": {
+             "code": 3,
+             "position": 3,
+             "desc-short": "A-",
+             "desc": "ECO Score A-"
+            },
+            "energy-outdated": "135"
+           }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "day-of-week-code": 6,
+     "day-of-week-desc": "Samstag",
+     "day-of-week-desc-short": "Sa"
+    },
+    {
+     "day-of-week-code": 7,
+     "day-of-week-desc": "Sonntag",
+     "day-of-week-desc-short": "So"
+    }
+   ]
   }
  ]
 }

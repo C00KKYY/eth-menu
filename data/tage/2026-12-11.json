@@ -1,6 +1,6 @@
 {
- "datum": "2026-11-19",
- "erzeugt": "2026-11-19",
+ "datum": "2026-12-11",
+ "erzeugt": "2026-11-27",
  "mensen": [
   {
    "facility_id": 19,
@@ -11,10 +11,10 @@
     {
      "zeit": "Mittagessen",
      "linie": "fire",
-     "menue": "Oriental Naan",
-     "beschreibung": "Naan Brot | Gurken Raita | Rindshack | Kartoffel Rissolèes | Rotkabis gepickelt",
+     "menue": "Dorsch Loins à la Mer",
+     "beschreibung": "Safransauce | Tomaten Tagliatelle | Blattspinat",
      "klasse": [
-      "Fleisch"
+      "Fisch"
      ],
      "preise": [
       {
@@ -34,31 +34,31 @@
     {
      "zeit": "Mittagessen",
      "linie": "grill",
-     "menue": "Khao Mok Gai",
-     "beschreibung": "Pouletschenkel Steak | Thai Gewürze | Jasminreis | Minze Dip | Gurken",
+     "menue": "Paniertes Truthahnschnitzel",
+     "beschreibung": "Aioli Dip | Homemade Country Cuts | Kräuter Tomate  | Zitronenschnitz",
      "klasse": [
       "Fleisch"
      ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 11.5
+       "preis": 9.9
       },
       {
        "gruppe": "Interne",
-       "preis": 14.5
+       "preis": 12.9
       },
       {
        "gruppe": "Extern",
-       "preis": 17.5
+       "preis": 15.9
       }
      ]
     },
     {
      "zeit": "Mittagessen",
      "linie": "green daily",
-     "menue": "Seitan Stroganoff",
-     "beschreibung": "Champignons | Peperoni | Paprikasauce | Mandel-Crème fraîche alternative | Polenta",
+     "menue": "Tofu Satay",
+     "beschreibung": "Räuchertofu | Sataysauce | Zucchetti | Blumenkohl | Broccoli | Peperoni | Jasminreis | Edamame | Ingwer",
      "klasse": [
       "Vegan"
      ],
@@ -123,58 +123,33 @@
     },
     {
      "zeit": "Mittagessen",
-     "linie": "pizza mamma mia",
-     "menue": "Pizza dolce far niente",
-     "beschreibung": "Vorderschinken rustico | Quattrocento | Dörrtomaten | Basilikumpesto | Salat oder Lemonade",
+     "linie": "pasta classica",
+     "menue": "Risoni alla greca con speck",
+     "beschreibung": "Peperoni | Zuchetti | Tomaten | Speck | Feta | Salat oder Lemonade",
      "klasse": [
       "Fleisch"
      ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 11.5
+       "preis": 8.5
       },
       {
        "gruppe": "Interne",
-       "preis": 14.5
+       "preis": 12.5
       },
       {
        "gruppe": "Extern",
-       "preis": 17.5
-      }
-     ]
-    },
-    {
-     "zeit": "Mittagessen",
-     "linie": "pasta classica vegi",
-     "menue": "Pasta - Broccoli - Auflauf",
-     "beschreibung": "Pasta | Broccoli | Bechamel | Hartkäse | Salat oder Lemonade",
-     "klasse": [
-      "Vegetarisch"
-     ],
-     "preise": [
-      {
-       "gruppe": "Studierende",
-       "preis": 7.0
-      },
-      {
-       "gruppe": "Interne",
-       "preis": 11.5
-      },
-      {
-       "gruppe": "Extern",
-       "preis": 14.5
+       "preis": 15.5
       }
      ]
     },
     {
      "zeit": "Mittagessen",
      "linie": "pasta della nonna",
-     "menue": "Pad Thai",
-     "beschreibung": "Poulet | Erdnüssen | Mungosprossen | Kräutern",
-     "klasse": [
-      "Fleisch"
-     ],
+     "menue": "Truffle Cheese Pasta",
+     "beschreibung": "Strozzapreti | Chili Cheese Sauce | Trüffelöl | Petersilie | Reibkäse | Salat oder Lemonade",
+     "klasse": [],
      "preise": [
       {
        "gruppe": "Studierende",
@@ -195,219 +170,9 @@
   {
    "facility_id": 20,
    "name": "FUSION meal (HCI)",
-   "status": "offen",
-   "offen": true,
-   "menues": [
-    {
-     "zeit": "Mittag",
-     "linie": "MEATWORKS",
-     "menue": "Pouletschenkel-Geschnetzeltes",
-     "beschreibung": "Pilzrahm Sauce | Reis | Erbsen",
-     "klasse": [
-      "Fleisch"
-     ],
-     "preise": [
-      {
-       "gruppe": "Studierende",
-       "preis": 8.5
-      },
-      {
-       "gruppe": "Interne",
-       "preis": 12.5
-      },
-      {
-       "gruppe": "Extern",
-       "preis": 15.5
-      }
-     ]
-    },
-    {
-     "zeit": "Mittag",
-     "linie": "VEGI",
-     "menue": "Capellini mit Kräuterrahmsauce",
-     "beschreibung": "Tomaten | Basilikum | Salat oder Homemade-Getränk",
-     "klasse": [
-      "Vegetarisch"
-     ],
-     "preise": [
-      {
-       "gruppe": "Studierende",
-       "preis": 7.0
-      },
-      {
-       "gruppe": "Interne",
-       "preis": 11.5
-      },
-      {
-       "gruppe": "Extern",
-       "preis": 14.5
-      }
-     ]
-    },
-    {
-     "zeit": "Mittag",
-     "linie": "VEGAN",
-     "menue": "Open Shawarma-Plant Based",
-     "beschreibung": "Kebap | Joghurtsauce | Eisberg |  Karotten | Rotkabis | Pommes frites |",
-     "klasse": [
-      "Vegan"
-     ],
-     "preise": [
-      {
-       "gruppe": "Studierende",
-       "preis": 8.9
-      },
-      {
-       "gruppe": "Interne",
-       "preis": 12.9
-      },
-      {
-       "gruppe": "Extern",
-       "preis": 16.9
-      }
-     ]
-    },
-    {
-     "zeit": "Mittag",
-     "linie": "SOUL FOOD",
-     "menue": "Rindsbraten",
-     "beschreibung": "Bratenjus | Rosmarin-Polenta | Bohnen",
-     "klasse": [
-      "Fleisch"
-     ],
-     "preise": [
-      {
-       "gruppe": "Studierende",
-       "preis": 12.5
-      },
-      {
-       "gruppe": "Interne",
-       "preis": 15.5
-      },
-      {
-       "gruppe": "Extern",
-       "preis": 18.5
-      }
-     ]
-    },
-    {
-     "zeit": "Mittag",
-     "linie": "WORLD OF ASIA",
-     "menue": "Pork-Red Thai",
-     "beschreibung": "Jasminreis | Asia Gemüse",
-     "klasse": [
-      "Fleisch"
-     ],
-     "preise": [
-      {
-       "gruppe": "Studierende",
-       "preis": 10.5
-      },
-      {
-       "gruppe": "Interne",
-       "preis": 12.9
-      },
-      {
-       "gruppe": "Extern",
-       "preis": 14.5
-      }
-     ]
-    },
-    {
-     "zeit": "Mittag",
-     "linie": "WORLD OF ASIA VEGI",
-     "menue": "Fried Noodles & Samosa",
-     "beschreibung": "Asia Gemüse",
-     "klasse": [
-      "Vegetarisch"
-     ],
-     "preise": [
-      {
-       "gruppe": "Studierende",
-       "preis": 8.5
-      },
-      {
-       "gruppe": "Interne",
-       "preis": 10.5
-      },
-      {
-       "gruppe": "Extern",
-       "preis": 12.5
-      }
-     ]
-    },
-    {
-     "zeit": "Mittag",
-     "linie": "FRESH ISLAND",
-     "menue": "Salat Buffet",
-     "beschreibung": "Frisches Salatangebot mit saisonalen und regionalen Spezialitäten",
-     "klasse": [
-      "Salat",
-      "Vegetarisch"
-     ],
-     "preise": [
-      {
-       "gruppe": "Studierende",
-       "preis": 2.5
-      },
-      {
-       "gruppe": "Interne",
-       "preis": 2.9
-      },
-      {
-       "gruppe": "Extern",
-       "preis": 3.4
-      }
-     ]
-    },
-    {
-     "zeit": "Mittag",
-     "linie": "POWER KITCHEN",
-     "menue": "Protein Buffet",
-     "beschreibung": "Kreiere Dir Deinen eigenen Protein-Teller Frisch, ausgewogen und sättigend",
-     "klasse": [
-      "Salat",
-      "Vegetarisch"
-     ],
-     "preise": [
-      {
-       "gruppe": "Studierende",
-       "preis": 2.5
-      },
-      {
-       "gruppe": "Interne",
-       "preis": 2.9
-      },
-      {
-       "gruppe": "Extern",
-       "preis": 3.4
-      }
-     ]
-    },
-    {
-     "zeit": "Mittag",
-     "linie": "GLOBETROTTER",
-     "menue": "Warmes Buffet",
-     "beschreibung": "Alle nationalen und internationalen Klassiker mit saisonalem Gemüse",
-     "klasse": [
-      "Vegetarisch"
-     ],
-     "preise": [
-      {
-       "gruppe": "Studierende",
-       "preis": 2.5
-      },
-      {
-       "gruppe": "Interne",
-       "preis": 2.9
-      },
-      {
-       "gruppe": "Extern",
-       "preis": 3.4
-      }
-     ]
-    }
-   ]
+   "status": "unbekannt",
+   "offen": false,
+   "menues": []
   },
   {
    "facility_id": 14,
