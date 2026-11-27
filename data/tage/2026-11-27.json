@@ -10,29 +10,6 @@
    "menues": [
     {
      "zeit": "Mittagessen",
-     "linie": "fire",
-     "menue": "Pouletgeschnetzeltes Champignonrahmsauce",
-     "beschreibung": "Spätzli | Erbsen | Gemüsebrunoise",
-     "klasse": [
-      "Fleisch"
-     ],
-     "preise": [
-      {
-       "gruppe": "Studierende",
-       "preis": 8.5
-      },
-      {
-       "gruppe": "Interne",
-       "preis": 12.5
-      },
-      {
-       "gruppe": "Extern",
-       "preis": 15.5
-      }
-     ]
-    },
-    {
-     "zeit": "Mittagessen",
      "linie": "grill",
      "menue": "Gyros in Town",
      "beschreibung": "Schweinsgyros | Tzazikisauce | Fladenbrot | Kabis | Gurken | Rote Zwiebeln | Pommes frites",
@@ -127,18 +104,18 @@
      "zeit": "Mittagessen",
      "linie": "pasta classica vegi",
      "menue": "BLACK FRIDAY",
-     "beschreibung": "Käsesauce | Kartoffeln | Ahornsirup | Apfelmus | Röstzwiebeln | Salat oder Lemonade",
+     "beschreibung": "Pasta | Käsesauce | Kartoffeln | Ahornsirup | Apfelmus | Röstzwiebeln | Salat oder Lemonade",
      "klasse": [
       "Vegan"
      ],
      "preise": [
       {
        "gruppe": "Studierende",
-       "preis": 7.0
+       "preis": 5.0
       },
       {
        "gruppe": "Interne",
-       "preis": 11.5
+       "preis": 9.5
       },
       {
        "gruppe": "Extern",
@@ -181,7 +158,7 @@
      "zeit": "Mittag",
      "linie": "MEATWORKS",
      "menue": "Truten Schnitzel",
-     "beschreibung": "Rotwein Jus | Bratkartoffeln | Broccoli",
+     "beschreibung": "Rotwein Jus | Sedanini | Broccoli",
      "klasse": [
       "Fleisch"
      ],
@@ -204,7 +181,7 @@
      "zeit": "Mittag",
      "linie": "VEGI",
      "menue": "Gemüse-Gersotto",
-     "beschreibung": "Cherry Tomaten | Salat oder Homemade-Getränk",
+     "beschreibung": "Cherry Tomaten | Rucola | Salat oder Homemade-Getränk",
      "klasse": [
       "Vegetarisch"
      ],
@@ -226,8 +203,8 @@
     {
      "zeit": "Mittag",
      "linie": "VEGAN",
-     "menue": "Veganes Geschnetzeltes Züri Art",
-     "beschreibung": "Linguine | Salat oder Homemade-Getränk",
+     "menue": "Veganes Geschnetzeltes Stroganoff Art",
+     "beschreibung": "Spaghetti | Salat oder Homemade-Getränk",
      "klasse": [
       "Vegan"
      ],
@@ -295,8 +272,8 @@
     {
      "zeit": "Mittag",
      "linie": "WORLD OF ASIA VEGI",
-     "menue": "Baingang Bharta",
-     "beschreibung": "Mini Pita | Jasminreis | Wok Gemüse",
+     "menue": "Gemüse-Mango Kokoscurry",
+     "beschreibung": "Jasminreis | Wok Gemüse",
      "klasse": [
       "Vegetarisch"
      ],
